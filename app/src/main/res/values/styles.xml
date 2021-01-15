@@ -1,0 +1,55 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowLightStatusBar">true</item>
+
+    </style>
+
+    <style name="StatusBarGreen" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimaryDark">@color/green</item>
+    </style>
+    <style name="StatusBarWhite" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimaryDark">@color/white</item>
+    </style>
+    <style name="StatusBarOrange" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimaryDark">@color/orange</item>
+    </style>
+
+    <style name="AppCompatTheme" parent="@style/Theme.AppCompat.Light">
+        <item name="android:windowActionBar">false</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="RobotoBoldTextAppearance">
+        <item name="android:textColor">#fff</item>
+        <item name="android:textSize">@dimen/text_size_large</item>
+    </style>
+
+    <style name="MineCustomTabText" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">12dp</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+    <!-- <style name="NavDrawerTextStyle" parent="Base.TextAppearance.AppCompat">
+        <item name="android:textColor">#fff</item>
+        <item name="android:layout_marginRight">16dp</item>
+        <item name="android:layout_marginTop">18dp</item>
+        <item name="android:paddingTop">16dp</item>
+        <item name="android:textSize">15sp</item>
+    </style>-->
+    
+    <style name="NavigationTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="android:textColorSecondary">@color/colorPrimaryDark</item>
+    </style>
+</resources>

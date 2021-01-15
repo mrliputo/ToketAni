@@ -1,0 +1,7 @@
+
+X	java:S125."<This block of commented-out lines of code should be removed.(ŒÃ‰ã8¸¼Ã¹.
+t	java:S116"SRename this field "web_view" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢¾›Àúÿÿÿÿ8Ó¾í€¹.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘âìÜüÿÿÿÿ
+w	java:S116"VRename this field "progress_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±‰Ã–úÿÿÿÿ8¾„Ú¹.
+s	java:S116"RRename this field "bg_back" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ«Ö˜şÿÿÿÿ8İæ›Ÿ¹.
+V	java:S110"<This class has 9 parents which is greater than 5 authorized.(ñ°ú¶ûÿÿÿÿ

@@ -1,0 +1,196 @@
+
+^	java:S125—"<This block of commented-out lines of code should be removed.(“Èæûûÿÿÿÿ8Òá‘û¹.
+X	java:S125Ø"<This block of commented-out lines of code should be removed.(«¾™<8Òá‘û¹.
+I
+java:S1172¥"&Remove these unused method parameters.(ïĞŸûÿÿÿÿ8Òá‘û¹.
+s	java:S117“"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ‘æ¡úÿÿÿÿ8Òá‘û¹.
+s	java:S117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÜ—½ÿÿÿÿÿ8Òá‘û¹.
+X
+java:S1874r"6Remove this use of "ProgressDialog"; it is deprecated.(¿Ú•ğúÿÿÿÿ8Òá‘û¹.
+F
+java:S1659D")Declare "Amounttotal" on a separate line.(Å€ƒ™8Òá‘û¹.
+s	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’Ô´ûÿÿÿÿ8Òá‘û¹.
+s	java:S116L"RRename this field "user_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù¡úÆúÿÿÿÿ8Òá‘û¹.
+Y	java:S125¨"<This block of commented-out lines of code should be removed.(³‹Ë8±¡Ö÷¹.
+|
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô›Óíüÿÿÿÿ8Òá‘û¹.
+^	java:S125¹"<This block of commented-out lines of code should be removed.(ö´Š§ÿÿÿÿÿ8Òá‘û¹.
+s	java:S117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôé×—úÿÿÿÿ8Òá‘û¹.
+~
+java:S1450T"aRemove the "currency_indicator" field and declare it as a local variable in the relevant methods.(¢Ã³¼8Òá‘û¹.
+s	java:S116B"YRename this field "btn_AddAddress" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë¬‘Ğûÿÿÿÿ
+Y	java:S125¯"<This block of commented-out lines of code should be removed.(äù‚¥8Òá‘û¹.
+D
+java:S1659D"'Declare "totalItms" on a separate line.(Å€ƒ™8Òá‘û¹.
+Y	java:S125Ğ"<This block of commented-out lines of code should be removed.(ğÙ¯ˆ8Òá‘û¹.
+€
+java:S1450T"cRemove the "currency_indicator_2" field and declare it as a local variable in the relevant methods.(¢Ã³¼8Òá‘û¹.
+U
+java:S1854ç"7Remove this useless assignment to local variable "msg".(Ü„8Òá‘û¹.
+J
+java:S1444?"-Make this "public static cart_id" field final(Çäİ8Òá‘û¹.
+w	java:S116U"VRename this field "pable_amont" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÅÈùÿÿÿÿ8Òá‘û¹.
+o
+java:S3008?"RRename this field "cart_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çäİ8Òá‘û¹.
+^	java:S125Ò"<This block of commented-out lines of code should be removed.(¼†ûÿÿÿÿÿ8Òá‘û¹.
+?
+java:S1659D""Declare "pMrp" on a separate line.(Å€ƒ™8Òá‘û¹.
+O
+java:S1659T"2Declare "currency_indicator_2" on a separate line.(¢Ã³¼8Òá‘û¹.
+K
+java:S1604à"(Make this anonymous inner class a lambda(¯€Ú…ÿÿÿÿÿ8Òá‘û¹.
+T
+java:S1874s"2Remove this use of "setMessage"; it is deprecated.(ñËÄİÿÿÿÿÿ8Òá‘û¹.
+A
+java:S1659D"$Declare "pPrice" on a separate line.(Å€ƒ™8Òá‘û¹.
+K
+java:S1604Ç"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ8Òá‘û¹.
+Q
+java:S1068U"/Remove this unused "pable_amont" private field.(ŸÅÈùÿÿÿÿ8Òá‘û¹.
+p
+java:S1104?"SMake cart_id a static final constant or non-public and provide accessors if needed.(Çäİ8Òá‘û¹.
+F
+java:S1604š"(Make this anonymous inner class a lambda(ŸÊœİ8Òá‘û¹.
+e
+java:S1192"GDefine a constant instead of duplicating this literal "status" 5 times.(©©­ı8Òá‘û¹.
+K
+java:S1659G".Declare "recyclerTimeSlot" on a separate line.(Óîõû8Òá‘û¹.
+Š
+java:S3252ß"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(şê©«úÿÿÿÿ8Òá‘û¹.
+^
+java:S1854‚";Remove this useless assignment to local variable "message".(ëè Øúÿÿÿÿ8Òá‘û¹.
+B
+java:S1659N"&Declare "maxValue" on a separate line.(ßˆ¦8Òá‘û¹.
+^	java:S125Ô"<This block of commented-out lines of code should be removed.(­×æÿûÿÿÿÿ8ş«Ø÷¹.
+F
+java:S1604”"(Make this anonymous inner class a lambda(¼¢ĞÃ8Òá‘û¹.
+¤
+java:S1186Ø"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ö èşÿÿÿÿ8Òá‘û¹.
+K
+java:S1604ÿ"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ8Òá‘û¹.
+y	java:S116@"]Rename this field "session_management" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÒéß8Òá‘û¹.
+K	java:S108§")Either remove or fill this block of code.(™²¨©ûÿÿÿÿ8Òá‘û¹.
+n	java:S117õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿¥«8Òá‘û¹.
+^
+java:S1854Š";Remove this useless assignment to local variable "user_id".(ôé×—úÿÿÿÿ8Òá‘û¹.
+O
+java:S1068V"-Remove this unused "todaydate" private field.(ÜÓö­ıÿÿÿÿ8Òá‘û¹.
+K
+java:S1604“"(Make this anonymous inner class a lambda(àˆÁ§ùÿÿÿÿ8Òá‘û¹.
+¤
+java:S1186¾"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ö èşÿÿÿÿ8Òá‘û¹.
+p	java:S116A"TRename this field "total_atm" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²·¤á8Òá‘û¹.
+F
+java:S1604¦"(Make this anonymous inner class a lambda(­—×¹8Òá‘û¹.
+u	java:S116D"YRename this field "txt_totalPrice" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å€ƒ™8Òá‘û¹.
+k	java:S116D"VRename this field "btn_Contine" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å€ƒ™
+¤
+java:S1186ö"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ö èşÿÿÿÿ8Òá‘û¹.
+…
+java:S3252ë"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(Îˆ«Œ8Òá‘û¹.
+^	java:S125³"<This block of commented-out lines of code should be removed.(ö´Š§ÿÿÿÿÿ8Òá‘û¹.
+r	java:S117g"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º–áğùÿÿÿÿ8Òá‘û¹.
+^	java:S125½"<This block of commented-out lines of code should be removed.(ö´Š§ÿÿÿÿÿ8Òá‘û¹.
+K
+java:S1604û"(Make this anonymous inner class a lambda(­÷Šòøÿÿÿÿ8Òá‘û¹.
+n	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ô¨8Òá‘û¹.
+w	java:S116T"[Rename this field "add_check_notice" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢Ã³¼8Òá‘û¹.
+S
+java:S1874M"6Remove this use of "ProgressDialog"; it is deprecated.(ğİıº8Òá‘û¹.
+s	java:S117‹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€Ïò»øÿÿÿÿ8¡æâ÷¹.
+O
+java:S1481Š",Remove this unused "user_id" local variable.(ôé×—úÿÿÿÿ8Òá‘û¹.
+F
+java:S1659D")Declare "txt_deliver" on a separate line.(Å€ƒ™8Òá‘û¹.
+l	java:S117‹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†µÊ»ûÿÿÿÿ
+T
+java:S2696²"6Make the enclosing method "static" or remove this set.(¹’Üğ8Òá‘û¹.
+^	java:S125¾"<This block of commented-out lines of code should be removed.(ö´Š§ÿÿÿÿÿ8Òá‘û¹.
+^	java:S125®"<This block of commented-out lines of code should be removed.(¿˜ÆŞıÿÿÿÿ8Òá‘û¹.
+Š
+java:S3252æ"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(À™Áûúÿÿÿÿ8Òá‘û¹.
+S
+java:S1659T"6Declare "textview_mobile_delivery" on a separate line.(¢Ã³¼8Òá‘û¹.
+¤
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ö èşÿÿÿÿ8Òá‘û¹.
+K
+java:S1604»"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ8Òá‘û¹.
+I
+java:S1659D",Declare "DeliveryCharge" on a separate line.(Å€ƒ™8Òá‘û¹.
+M
+java:S1659T"0Declare "currency_indicator" on a separate line.(¢Ã³¼8Òá‘û¹.
+Y	java:S125¦"<This block of commented-out lines of code should be removed.(ü¿ó™8Òá‘û¹.
+s	java:S117¼"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Ïãÿÿÿÿÿ8Òá‘û¹.
+@
+java:S1659D"#Declare "price" on a separate line.(Å€ƒ™8Òá‘û¹.
+u	java:S116D"YRename this field "DeliveryCharge" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å€ƒ™8Òá‘û¹.
+t
+java:S3776p"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(şñÊëÿÿÿÿÿ8Òá‘û¹.
+{	java:S116T"_Rename this field "textview_name_ofdata" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢Ã³¼8Òá‘û¹.
+X	java:S125Ï"<This block of commented-out lines of code should be removed.(á.8Òá‘û¹.
+O
+java:S1481‚",Remove this unused "message" local variable.(ëè Øúÿÿÿÿ8Òá‘û¹.
+@
+java:S1659T"#Declare "ruppy" on a separate line.(¢Ã³¼8Òá‘û¹.
+]	java:S110="<This class has 9 parents which is greater than 5 authorized.(¿Íè±ÿÿÿÿÿ8Òá‘û¹.
+Y	java:S125Í"<This block of commented-out lines of code should be removed.(¨ˆ‘Ä8Òá‘û¹.
+I
+java:S1659D",Declare "txt_totalPrice" on a separate line.(Å€ƒ™8Òá‘û¹.
+q
+java:S1450T"TRemove the "ruppy" field and declare it as a local variable in the relevant methods.(¢Ã³¼8Òá‘û¹.
+y	java:S116T"]Rename this field "currency_indicator" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢Ã³¼8Òá‘û¹.
+F
+java:S1604Õ"(Make this anonymous inner class a lambda(Úé©å8Òá‘û¹.
+K
+java:S1604¡"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ8Òá‘û¹.
+	java:S116T"cRename this field "textview_mobile_delivery" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢Ã³¼8Òá‘û¹.
+F
+java:S1481ç"(Remove this unused "msg" local variable.(Ü„8Òá‘û¹.
+{	java:S116T"_Rename this field "currency_indicator_2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢Ã³¼8Òá‘û¹.
+{
+java:S1488Š"]Immediately return this expression instead of assigning it to the temporary variable "param".(Èš€8Òá‘û¹.
+r	java:S116D"VRename this field "Amounttotal" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å€ƒ™8Òá‘û¹.
+K
+java:S1604Á"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ8Òá‘û¹.
+n	java:S117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß »€8Òá‘û¹.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘âìÜüÿÿÿÿ
+H
+java:S1659D"+Declare "txtTotalItems" on a separate line.(Å€ƒ™8Òá‘û¹.
+Y	java:S125°"<This block of commented-out lines of code should be removed.(¼Á˜Ù8Òá‘û¹.
+X	java:S125Á"<This block of commented-out lines of code should be removed.(á.8Òá‘û¹.
+¤
+java:S1186ä"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ö èşÿÿÿÿ8Òá‘û¹.
+^	java:S125ó"<This block of commented-out lines of code should be removed.(ÚÓ¡·üÿÿÿÿ8Òá‘û¹.
+^	java:S125î"<This block of commented-out lines of code should be removed.(­£µ–üÿÿÿÿ8Òá‘û¹.
+K
+java:S1659T".Declare "add_check_notice" on a separate line.(¢Ã³¼8Òá‘û¹.
+O
+java:S1481"1Remove this unused "tag_json_obj" local variable.(Ä´‚º8Òá‘û¹.
+^
+java:S1117Š";Rename "user_id" which hides the field declared at line 76.(ôé×—úÿÿÿÿ8Òá‘û¹.
+E
+java:S1604¦"(Make this anonymous inner class a lambda(Ìˆšj8Òá‘û¹.
+n	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä´‚º8Òá‘û¹.
+Y
+java:S1854ê"6Remove this useless assignment to local variable "id".(¤å¬úÿÿÿÿ8Òá‘û¹.
+s	java:S117Œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·‰ßŒùÿÿÿÿ8±¡Ö÷¹.
+r	java:S116D"VRename this field "txt_deliver" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å€ƒ™8Òá‘û¹.
+¤
+java:S1186ê"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ö èşÿÿÿÿ8Òá‘û¹.
+J
+java:S1481ê"'Remove this unused "id" local variable.(¤å¬úÿÿÿÿ8Òá‘û¹.
+E
+java:S1659K"(Declare "totalprice" on a separate line.(úÃßó8Òá‘û¹.
+k
+java:S1192Š"HDefine a constant instead of duplicating this literal "user_id" 3 times.(ôé×—úÿÿÿÿ8Òá‘û¹.
+N
+java:S1068P",Remove this unused "cartList" private field.(×å½ëùÿÿÿÿ8Òá‘û¹.
+f
+java:S1192‚"HDefine a constant instead of duplicating this literal "message" 5 times.(Ü„8Òá‘û¹.
+F
+java:S1604ù"(Make this anonymous inner class a lambda(Ğõ®Ì8Òá‘û¹.
+Š
+java:S3252Ü"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(ŒÍ¯ûÿÿÿÿ8Òá‘û¹.
+^
+java:S1854"@Remove this useless assignment to local variable "tag_json_obj".(Ä´‚º8Òá‘û¹.
+y	java:S116G"]Rename this field "recycler_itemsList" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óîõû8Òá‘û¹.

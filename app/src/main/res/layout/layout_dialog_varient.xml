@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            android:background="@color/lightGrey"
+            android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+           android:layout_gravity="center"
+
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_below="@+id/currentLoc"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="left"
+                android:fontFamily="@font/opensans_regular"
+                android:gravity="center|left"
+                android:text="Choose Quantity"
+                android:textColor="@color/darkGrey"
+                android:textSize="13sp"></TextView>
+
+            <TextView
+                android:id="@+id/txt"
+                android:layout_below="@+id/currentLoc"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="left"
+                android:fontFamily="@font/opensans_regular"
+                android:gravity="center|left"
+                android:text="Choose Quantity"
+                android:textColor="@color/darkGrey"
+                android:textSize="13sp"></TextView>
+
+        </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/cancl"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:gravity="end|center">
+
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:background="@drawable/ic_x_mark"
+                    android:layout_marginRight="10dp"
+                    android:backgroundTint="@color/hintColor">
+
+                </ImageView>
+            </LinearLayout>
+        </LinearLayout>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:id="@+id/recyclerVarient"></androidx.recyclerview.widget.RecyclerView>
+    </LinearLayout>
+
+</LinearLayout>

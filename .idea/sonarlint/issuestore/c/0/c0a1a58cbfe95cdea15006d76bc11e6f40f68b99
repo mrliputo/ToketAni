@@ -1,0 +1,43 @@
+
+X
+java:S1874ª"<Remove this use of "getActiveNetworkInfo"; it is deprecated.(ˆÛ¡Çøÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÎÒ•¸
+W	java:S125Â"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+j
+java:S1104+"TMake tv_total a static final constant or non-public and provide accessors if needed.(Ÿ€î³
+W	java:S125Í"<This block of commented-out lines of code should be removed.(ûöÊîıÿÿÿÿ
+W	java:S125½"<This block of commented-out lines of code should be removed.(‘¸Î©şÿÿÿÿ
+W	java:S125µ"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ
+W	java:S125¿"<This block of commented-out lines of code should be removed.(Âª‰¿şÿÿÿÿ
+m
+java:S37765"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ËÄ•åûÿÿÿÿ
+W	java:S125­"<This block of commented-out lines of code should be removed.(ÅëÒ¾øÿÿÿÿ
+k	java:S116'"VRename this field "ll_Checkout" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÏöÉ
+Q
+java:S2696<"6Make the enclosing method "static" or remove this set.(¬÷ˆşÿÿÿÿ
+X
+java:S1874ª"<Remove this use of "getActiveNetworkInfo"; it is deprecated.(ˆÛ¡Çøÿÿÿÿ
+q
+java:S3923i"[Remove this conditional structure or edit its code blocks so that they're not all the same.(šşšµ
+O
+java:S1874ª"3Remove this use of "isConnected"; it is deprecated.(ˆÛ¡Çøÿÿÿÿ
+Q	java:S125Ä"<This block of commented-out lines of code should be removed.(ö¾™
+R	java:S125¹"<This block of commented-out lines of code should be removed.(½š÷Ö
+p	java:S116%"VRename this field "btn_ShopNOw" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÊêªúÿÿÿÿ
+V	java:S125X"<This block of commented-out lines of code should be removed.(¼éüÅûÿÿÿÿ
+D
+java:S1604›"(Make this anonymous inner class a lambda(ƒ¡ÂÊşÿÿÿÿ
+W	java:S125—"<This block of commented-out lines of code should be removed.(ş÷¨®ùÿÿÿÿ
+Y	java:S125‹"<This block of commented-out lines of code should be removed.(Èâ¶¿8ª÷¬ß¶.
+D
+java:S1444+".Make this "public static tv_total" field final(Ÿ€î³
+Q	java:S125È"<This block of commented-out lines of code should be removed.(ë­£7
+i
+java:S3008+"SRename this field "tv_total" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ€î³
+A
+java:S1659)"&Declare "viewCart" on a separate line.(ÙÉÈ…ıÿÿÿÿ
+R	java:S125²"<This block of commented-out lines of code should be removed.(Å¯ßá
+G
+java:S1068,",Remove this unused "cartList" private field.(×å½ëùÿÿÿÿ
+Y	java:S125•"<This block of commented-out lines of code should be removed.(ãğ«ó8œŞ‚à½.
+^	java:S125°"<This block of commented-out lines of code should be removed.(¿—Îşÿÿÿÿ8œŞ‚à½.

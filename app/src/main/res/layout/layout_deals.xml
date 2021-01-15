@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardCornerRadius="7dp"
+        android:layout_margin="3dp"
+        app:cardBackgroundColor="@color/white">
+
+    <LinearLayout
+        android:id="@+id/ll_listC"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_margin="3dp">
+
+
+        <ImageView
+            android:id="@+id/listImages"
+            android:layout_width="60dp"
+            android:layout_height="50dp"
+            android:layout_alignParentTop="true"
+            android:scaleType="fitXY"
+            />
+
+        <TextView
+            android:id="@+id/listName"
+            android:layout_width="70dp"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:layout_marginTop="3dp"
+            android:layout_marginBottom="3dp"
+            android:padding="2dp"
+            android:text="Medicine "
+            android:textColor="@color/darkGrey"
+            android:textSize="12sp"
+            android:singleLine="true"
+            android:fontFamily="@font/opensans_regular"
+            android:gravity="center"
+
+            />
+
+
+    </LinearLayout>
+    </androidx.cardview.widget.CardView>
+</LinearLayout>

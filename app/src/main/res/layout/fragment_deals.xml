@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/white">
+
+    <com.cooltechworks.views.shimmer.ShimmerRecyclerView
+        android:nestedScrollingEnabled="false"
+        android:id="@+id/recyclerDealsDay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@color/lightGrey"
+        android:layout_marginBottom="10dp"
+        android:scrollbars="none"
+        tools:ignore="UnusedAttribute">
+    </com.cooltechworks.views.shimmer.ShimmerRecyclerView>
+    <TextView
+        android:id="@+id/viewall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="View All"
+        android:gravity="center"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="5dp"
+        android:padding="10dp"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:textSize="17dp"
+        android:background="@color/orange"/>
+
+    <RelativeLayout
+        android:visibility="gone"
+        android:id="@+id/no_data"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/orange"
+            android:textSize="20sp"
+            android:text="No Deal Today"
+            android:gravity="center"/>
+    </RelativeLayout>
+
+
+
+</RelativeLayout>

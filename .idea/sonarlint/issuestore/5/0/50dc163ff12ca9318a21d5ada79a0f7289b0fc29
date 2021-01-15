@@ -1,0 +1,18 @@
+
+h	java:S100W"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø«˜¤ùÿÿÿÿ
+h	java:S100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó«¢©ûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ôä¯’ûÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆƒÕâ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉŒ„Óùÿÿÿÿ
+j	java:S116"URename this field "product_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò‰‰Á
+k	java:S117W"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø«˜¤ùÿÿÿÿ
+[	java:S107"AConstructor has 9 parameters, which is greater than 7 authorized.(ÉŒ„Óùÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Éñ’øÿÿÿÿ
+e	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÀ€$
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉŒ„Óùÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉŒ„Óùÿÿÿÿ
+m	java:S116"XRename this field "varient_image" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ÕÌ†
+h	java:S100S"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ì¼¤øÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆƒÕâ
+o	java:S116"URename this field "varient_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬§¡ƒüÿÿÿÿ
+b	java:S100'"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÀ€$

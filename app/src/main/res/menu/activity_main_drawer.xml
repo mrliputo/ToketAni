@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group>
+        <item
+            android:visible="false"
+            android:id="@+id/login"
+            android:icon="@drawable/ic_home"
+            android:title="Login/SignUp" />
+        <item
+            android:id="@+id/sign"
+            android:icon="@drawable/ic_home"
+            android:title="Login/SignUp" />
+
+        <item
+            android:id="@+id/nav_my_profile"
+            android:icon="@drawable/ic_nav_profile"
+            android:title="@string/nav_profile" />
+        <!--        <item-->
+        <!--            android:id="@+id/nav_support"-->
+        <!--            android:icon="@drawable/ic_nav_support"-->
+        <!--            android:title="@string/nav_chat" />-->
+        <item
+            android:id="@+id/nav_aboutus"
+            android:icon="@drawable/ic_nav_about"
+            android:title="@string/nav_about" />
+        <item
+            android:id="@+id/nav_policy"
+            android:icon="@drawable/ic_nav_policy"
+            android:title="@string/nav_terms" />
+<!--        <item-->
+<!--            android:id="@+id/nav_contact"-->
+<!--            android:icon="@drawable/ic_location_on_black_24dp"-->
+<!--            android:visible="false"-->
+<!--            android:title="@string/nav_contact" />-->
+        <!--        <item-->
+        <!--            android:id="@+id/nav_review"-->
+        <!--            android:icon="@drawable/ic_nav_review"-->
+        <!--            android:title="@string/nav_review" />-->
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/ic_nav_share"
+            android:title="@string/nav_share" />
+
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_exit"
+            android:title="@string/nav_logout" />
+
+        <!--        <item-->
+        <!--            android:id="@+id/nav_powerd"-->
+        <!--            android:icon="@drawable/copy"-->
+        <!--            android:title="@string/status_stop" />-->
+
+        <item
+            android:id="@+id/nav_powerd"
+            android:icon="@drawable/copy"
+            android:title="@string/status_stop" />
+
+    </group>
+</menu>

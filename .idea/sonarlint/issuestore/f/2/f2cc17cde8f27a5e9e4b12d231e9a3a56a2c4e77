@@ -1,0 +1,9 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘âìÜüÿÿÿÿ
+]	java:S110"<This class has 9 parents which is greater than 5 authorized.(Šõ¼şÿÿÿÿ8œœÂÃ½.
+W
+java:S18541":Remove this useless assignment to local variable "latLng".(¨®ÿ‘8‡ŞÃ½.
+H
+java:S14811"+Remove this unused "latLng" local variable.(¨®ÿ‘8‡ŞÃ½.
+x
+java:S1450"VRemove the "mapView" field and declare it as a local variable in the relevant methods.(·Àºúÿÿÿÿ8§‚ÊÃ½.

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/ic_different_squares"
+        android:title="Categories" />
+
+<!--    <item-->
+<!--        android:id="@+id/navigation_notifications1"-->
+<!--        android:icon="@drawable/ic_game_v1"-->
+<!--        android:title="Game" />-->
+
+        <item
+            android:id="@+id/navigation_notifications1"
+            android:icon="@drawable/ic_loupe"
+            android:title="Search" />
+
+    <item
+        android:id="@+id/navigation_notifications12"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="Notifications" />
+
+    <item
+        android:id="@+id/navigation_notifications123"
+        android:icon="@drawable/ic_cart"
+        android:title="Cart" />
+
+</menu>

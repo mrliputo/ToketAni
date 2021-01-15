@@ -1,0 +1,11 @@
+
+o	java:S116A"URename this field "image_data" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ¯ªıÿÿÿÿ
+Q	java:S125L"<This block of commented-out lines of code should be removed.(Åîâ¨
+7
+java:S1116J"Remove this empty statement.(Åñ­õşÿÿÿÿ
+…
+java:S1319#"oThe type of the "list" object should be an interface such as "List" rather than the implementation "ArrayList".(õ£ÉÛ
+m	java:S116"SRename this field "price_tx" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö”¤ıÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»ûÛš
+q
+java:S1104A"VMake image_data a static final constant or non-public and provide accessors if needed.(Œ¯ªıÿÿÿÿ

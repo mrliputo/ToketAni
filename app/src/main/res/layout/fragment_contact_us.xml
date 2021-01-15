@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <androidx.appcompat.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/green">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:text="Contact Us"
+            android:gravity="center_horizontal"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:fontFamily="@font/opensans_bold"/>
+    </androidx.appcompat.widget.Toolbar>
+        <TextView
+            android:id="@+id/tv_info"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="8dp"/>
+
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="5dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:text="Contact in phone no"
+        android:textColor="@color/black"
+        android:textSize="16sp"/>
+
+    <ImageView
+                android:id="@+id/iv_call"
+                android:layout_width="32dp"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="20dp"
+                android:layout_height="32dp"
+                android:src="@drawable/call_answer" />
+
+</RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:padding="5dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:text="Contact on Whatsapp"
+            android:textColor="@color/black"
+            android:textSize="16sp"/>
+
+
+            <ImageView
+                android:id="@+id/iv_whatsapp"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="20dp"
+                android:src="@drawable/mywhatsapp" />
+
+    </RelativeLayout>
+
+</LinearLayout>

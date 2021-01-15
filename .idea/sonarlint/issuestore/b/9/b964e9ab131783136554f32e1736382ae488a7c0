@@ -1,0 +1,37 @@
+
+œ
+java:S1186}"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Í¢ÄÁøÿÿÿÿ
+s	java:S117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼Ê ýÿÿÿÿÿ8›®¶Ì¹.
+Q
+java:S1874F"6Remove this use of "ProgressDialog"; it is deprecated.(ò„ŠËùÿÿÿÿ
+X
+java:S1874ñ"<Remove this use of "getActiveNetworkInfo"; it is deprecated.(ˆÛ¡Çøÿÿÿÿ
+¤
+java:S1186æ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ö èþÿÿÿÿ8ã•þô¹.
+O
+java:S1874ñ"3Remove this use of "isConnected"; it is deprecated.(ˆÛ¡Çøÿÿÿÿ
+M
+java:S1874G"2Remove this use of "setMessage"; it is deprecated.(ñËÄÝÿÿÿÿÿ
+—
+java:S1186M"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«û³±
+X
+java:S1874ñ"<Remove this use of "getActiveNetworkInfo"; it is deprecated.(ˆÛ¡Çøÿÿÿÿ
+^	java:S125 "<This block of commented-out lines of code should be removed.(ãÞàöÿÿÿÿÿ8è—äô¹.
+?
+java:S16597")Declare "seaarchName" on a separate line.(Æµ¦³
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÎÒ•¸
+~	java:S1168"]Rename this field "session_management" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«éØíüÿÿÿÿ8œ…‘Ù¶.
+P	java:S125]"<This block of commented-out lines of code should be removed.(Ûçç
+V	java:S125_"<This block of commented-out lines of code should be removed.(‡äë¢ýÿÿÿÿ
+D
+java:S1604Â"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+?
+java:S1604‡"(Make this anonymous inner class a lambda(¾ Îá
+l	java:S117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óè¼ðûÿÿÿÿ
+L
+java:S18744"6Remove this use of "ProgressDialog"; it is deprecated.(ðÝýº
+g	java:S117§"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö’ý
+g	java:S117Ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒöÝš
+^	java:S125˜"<This block of commented-out lines of code should be removed.(¨¸ò†üÿÿÿÿ8ö”ùô¹.
+œ
+java:S1186R"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ê¥¾àûÿÿÿÿ

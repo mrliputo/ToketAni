@@ -1,0 +1,6 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ôä¯’ûÿÿÿÿ
+;
+java:S1659" Declare "id" on a separate line.(’î»‚øÿÿÿÿ
+?
+java:S1659"$Declare "detail" on a separate line.(’î»‚øÿÿÿÿ

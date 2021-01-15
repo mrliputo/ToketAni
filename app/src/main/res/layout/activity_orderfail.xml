@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_weight="3"
+    android:background="@color/white"
+    tools:context=".activity.OrderSuccessful">
+
+    <RelativeLayout
+        android:id="@+id/rl1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:id="@+id/ll1"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_marginLeft="25dp"
+            android:gravity="center|left"
+            android:background="@color/white"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:gravity="center|left"
+                android:text="Order Failed!"
+                android:textSize="22sp"
+                android:textColor="@color/darkGrey"
+                android:fontFamily="@font/opensans_bold"></TextView>
+        </LinearLayout>
+
+        <View
+            android:layout_below="@+id/ll1"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/lightGrey"></View>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/rl1">
+
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center">
+
+                <LinearLayout
+                    android:layout_below="@+id/img"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:layout_margin="15dp"
+                    android:background="@color/white"
+                    android:gravity="center">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:text="Sorry,your payment has been failed."
+                        android:textAllCaps="true"
+                        android:padding="5dp"
+                        android:textSize="17sp"
+                        android:textColor="@color/darkGrey"
+                        android:fontFamily="@font/opensans_bold"></TextView>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:text="Please try again!"
+                        android:textAllCaps="false"
+                        android:padding="5dp"
+                        android:textSize="17sp"
+                        android:textColor="@color/darkGrey"
+                        android:fontFamily="@font/opensans_semibold"></TextView>
+
+                    <TextView
+                        android:id="@+id/tv_thank_info"
+                        android:layout_width="250dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:padding="5dp"
+                        android:text="@string/orderSuccessInfo"
+                        android:textSize="15sp"
+                        android:textColor="@color/mediumGrey"
+                        android:fontFamily="@font/opensans_semibold"></TextView>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="15dp"
+                        android:layout_marginBottom="10dp"
+                        android:orientation="horizontal"
+                        android:gravity="center"
+                        android:padding="5dp"
+                        android:layout_gravity="center"
+                        android:weightSum="2">
+                    <Button
+                        android:id="@+id/btn_retry"
+                        android:layout_width="250dp"
+                        android:layout_height="45dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:text="Retry order"
+                        android:textAllCaps="true"
+                        android:textSize="17sp"
+                        android:textColor="@color/white"
+                        android:background="@drawable/rounded_shape"
+                        android:backgroundTint="@color/orange"
+                        android:fontFamily="@font/opensans_bold"></Button>
+
+                    </LinearLayout>
+                </LinearLayout>
+            </RelativeLayout>
+
+    </RelativeLayout>
+
+</RelativeLayout>

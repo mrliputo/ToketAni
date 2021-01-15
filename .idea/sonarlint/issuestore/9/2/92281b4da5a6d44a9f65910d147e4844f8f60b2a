@@ -1,0 +1,27 @@
+
+
+java:S4165"jRemove this useless assignment; "content_date" already holds the assigned value along all execution paths.(àëËp
+€
+java:S4165"jRemove this useless assignment; "content_name" already holds the assigned value along all execution paths.(ßİËš
+~
+java:S4165"hRemove this useless assignment; "content_id" already holds the assigned value along all execution paths.(ÛáÍÎ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ç¹Ğ‘ûÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßĞô»üÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÛÃ
+f	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï¾®á
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ôä¯’ûÿÿÿÿ
+l
+java:S1104"VMake content_id a static final constant or non-public and provide accessors if needed.(†ã®Ö
+s
+java:S1104"XMake content_name a static final constant or non-public and provide accessors if needed.(Şìóêûÿÿÿÿ
+s
+java:S1104	"XMake content_date a static final constant or non-public and provide accessors if needed.(¨ğ‘µøÿÿÿÿ
+j	java:S116"URename this field "content_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ã®Ö
+q	java:S116"WRename this field "content_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şìóêûÿÿÿÿ
+q	java:S116	"WRename this field "content_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ğ‘µøÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨™Ó´şÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßĞô»üÿÿÿÿ
+b	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö˜øy
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÛÃ
+h	java:S100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÓ‡ùÿÿÿÿ
+c	java:S100&"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï¾®á

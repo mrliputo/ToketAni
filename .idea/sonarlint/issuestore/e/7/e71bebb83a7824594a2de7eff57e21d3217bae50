@@ -1,0 +1,47 @@
+
+{
+java:S2293Z"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô›Óíüÿÿÿÿ8—‡¡á¶.
+K
+java:S1604"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ8—‡¡á¶.
+m	java:S117X"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä´‚º8—‡¡á¶.
+E
+java:S1604^"(Make this anonymous inner class a lambda(àê…ê8—‡¡á¶.
+S
+java:S18742"6Remove this use of "ProgressDialog"; it is deprecated.(ğİıº8—‡¡á¶.
+¤
+java:S1186’"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£µ¢›ÿÿÿÿÿ8—‡¡á¶.
+N
+java:S1481X"1Remove this unused "tag_json_obj" local variable.(Ä´‚º8—‡¡á¶.
+Y	java:S125»"<This block of commented-out lines of code should be removed.(ãİÏ8°´Èá¶.
+M
+java:S1066·"/Merge this if statement with the enclosing one.( ï»8üƒÈá¶.
+_
+java:S1874Â"<Remove this use of "getActiveNetworkInfo"; it is deprecated.(ˆÛ¡Çøÿÿÿÿ8—‡¡á¶.
+]
+java:S1854X"@Remove this useless assignment to local variable "tag_json_obj".(Ä´‚º8—‡¡á¶.
+m	java:S117y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®êßô8—‡¡á¶.
+Q
+java:S10686"/Remove this unused "subcateList" private field.(äå‹Òûÿÿÿÿ8—‡¡á¶.
+G
+java:S10687",Remove this unused "isSubcat" private field.(Ü™—Úøÿÿÿÿ
+_
+java:S1874Â"<Remove this use of "getActiveNetworkInfo"; it is deprecated.(ˆÛ¡Çøÿÿÿÿ8—‡¡á¶.
+X
+java:S1874G"6Remove this use of "ProgressDialog"; it is deprecated.(õ¹´ıüÿÿÿÿ8—‡¡á¶.
+{
+java:S1488—"]Immediately return this expression instead of assigning it to the temporary variable "param".(Èš€8—‡¡á¶.
+V
+java:S1874Â"3Remove this use of "isConnected"; it is deprecated.(ˆÛ¡Çøÿÿÿÿ8—‡¡á¶.
+¤
+java:S1186ª"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ö èşÿÿÿÿ8—‡¡á¶.
+I
+java:S16591",Declare "subCateAdapter" on a separate line.(±®Õİ8—‡¡á¶.
+Y
+java:S2589e"7Remove this expression which always evaluates to "true"(¹éÄÌùÿÿÿÿ8—‡¡á¶.
+Y	java:S125"<This block of commented-out lines of code should be removed.(Ìü®ê8—‡¡á¶.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÎÒ•¸
+M
+java:S1066¶"/Merge this if statement with the enclosing one.(²°Æ8°´Èá¶.
+T
+java:S1874I"2Remove this use of "setMessage"; it is deprecated.(ñËÄİÿÿÿÿÿ8—‡¡á¶.
+Y	java:S125ˆ"<This block of commented-out lines of code should be removed.(Ö‚˜„8—‡¡á¶.

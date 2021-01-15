@@ -1,0 +1,16 @@
+
+w
+java:S41652"aRemove this useless assignment; "day" already holds the assigned value along all execution paths.(¯ƒ¦Ø
+G
+java:S1153S"1Directly append the argument of String.valueOf().(ïÈŠñ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öŽÐü
+k	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áˆÉµúÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ôä¯’ûÿÿÿÿ
+}
+java:S1488 "bImmediately return this expression instead of assigning it to the temporary variable "month_name".(áˆÉµúÿÿÿÿ
+9
+java:S1659	"#Declare "month" on a separate line.(Í‚—¡
+8
+java:S1659	""Declare "year" on a separate line.(Í‚—¡
+F
+java:S11721"+Remove this unused method parameter "date".(Ú´¤îøÿÿÿÿ

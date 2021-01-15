@@ -1,0 +1,60 @@
+
+]
+java:S1854Š":Remove this useless assignment to local variable "object".(Î‰‹àùÿÿÿÿ8âœˆá¶.
+Y	java:S125Ã"<This block of commented-out lines of code should be removed.(£Ž´ë8âœˆá¶.
+^	java:S125Ø"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8âœˆá¶.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»ûÛš
+^	java:S125Û"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8âœˆá¶.
+^	java:S125ë"<This block of commented-out lines of code should be removed.(¢÷†Ùýÿÿÿÿ8âœˆá¶.
+D
+java:S1659ª"&Declare "pdetails" on a separate line.(®ÿÇœ8âœˆá¶.
+Y	java:S125¡"<This block of commented-out lines of code should be removed.(Ýöò¶8âœˆá¶.
+^	java:S125´"<This block of commented-out lines of code should be removed.(³ð±ºüÿÿÿÿ8âœˆá¶.
+^	java:S125¨"<This block of commented-out lines of code should be removed.(‡ÐãÛûÿÿÿÿ8âœˆá¶.
+^	java:S125ª"<This block of commented-out lines of code should be removed.(²®“æøÿÿÿÿ8âœˆá¶.
+f	java:S117w"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•úøº
+Y	java:S125‚"<This block of commented-out lines of code should be removed.(Ž®ƒ÷8âœˆá¶.
+Y	java:S125‘"<This block of commented-out lines of code should be removed.(Ú°à¬8âœˆá¶.
+X	java:S125Ñ"<This block of commented-out lines of code should be removed.(ö¾™8âœˆá¶.
+j	java:S100w"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•úøº8âœˆá¶.
+Y	java:S125à"<This block of commented-out lines of code should be removed.(”™Ãý8âœˆá¶.
+^	java:S125€"<This block of commented-out lines of code should be removed.(œÞß‚üÿÿÿÿ8âœˆá¶.
+^	java:S125¿"<This block of commented-out lines of code should be removed.(€¬²Ðûÿÿÿÿ8âœˆá¶.
+^	java:S125ä"<This block of commented-out lines of code should be removed.(ƒÓ°ïûÿÿÿÿ8âœˆá¶.
+B
+java:S1659«"$Declare "pimage" on a separate line.(Èã±À8âœˆá¶.
+^	java:S125¼"<This block of commented-out lines of code should be removed.(îö÷©ûÿÿÿÿ8âœˆá¶.
+k
+java:S1104ª"TMake prodNAme a static final constant or non-public and provide accessors if needed.(®ÿÇœ
+E	java:S108]")Either remove or fill this block of code.(Ñ¡ñ‡8âœˆá¶.
+X	java:S1258"<This block of commented-out lines of code should be removed.(¸ûÏÆ8âœˆá¶.
+^	java:S125Ç"<This block of commented-out lines of code should be removed.(›è×ƒÿÿÿÿÿ8âœˆá¶.
+^	java:S125÷"<This block of commented-out lines of code should be removed.(†ª×ÿÿÿÿÿ8âœˆá¶.
+>
+java:S1604X"(Make this anonymous inner class a lambda(‹÷Ë×
+Y	java:S125è"<This block of commented-out lines of code should be removed.(ðâåç8âœˆá¶.
+k
+java:S1104ª"TMake pdetails a static final constant or non-public and provide accessors if needed.(®ÿÇœ
+B
+java:S1659«"$Declare "image1" on a separate line.(Èã±À8âœˆá¶.
+]	java:S125;"<This block of commented-out lines of code should be removed.(Ûƒ¨­þÿÿÿÿ8âœˆá¶.
+^	java:S125¬"<This block of commented-out lines of code should be removed.(ÉÓúÁýÿÿÿÿ8âœˆá¶.
+]	java:S125~"<This block of commented-out lines of code should be removed.( ™–”ÿÿÿÿÿ8âœˆá¶.
+^	java:S125Ï"<This block of commented-out lines of code should be removed.(óüìàüÿÿÿÿ8âœˆá¶.
+Y	java:S125Ä"<This block of commented-out lines of code should be removed.(úÊÄ³8âœˆá¶.
+Y	java:S125É"<This block of commented-out lines of code should be removed.(³…ƒ¯8âœˆá¶.
+^	java:S125Õ"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8âœˆá¶.
+Y	java:S125ù"<This block of commented-out lines of code should be removed.(þÝ8âœˆá¶.
+^	java:S125í"<This block of commented-out lines of code should be removed.(´¼‡ûÿÿÿÿ8âœˆá¶.
+;
+java:S21199"Save and re-use this "Random".(–áÍÈ8âœˆá¶.
+^	java:S125"<This block of commented-out lines of code should be removed.(×§ŠÕüÿÿÿÿ8âœˆá¶.
+^	java:S125Á"<This block of commented-out lines of code should be removed.(‹Ä¼ûÿÿÿÿ8ÙÝ‚à½.
+^	java:S125Ú"<This block of commented-out lines of code should be removed.(ÉÃÕÂúÿÿÿÿ8ÙÝ‚à½.
+^	java:S125â"<This block of commented-out lines of code should be removed.(¤ÓÒ¤ýÿÿÿÿ8ÙÝ‚à½.
+^	java:S125ü"<This block of commented-out lines of code should be removed.(µÿ¨‚üÿÿÿÿ8ÙÝ‚à½.
+Y	java:S125‹"<This block of commented-out lines of code should be removed.(¡Õ±š8ÙÝ‚à½.
+^	java:S125¦"<This block of commented-out lines of code should be removed.(š—øÿúÿÿÿÿ8ÙÝ‚à½.
+^	java:S125¶"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8ÙÝ‚à½.
+Y	java:S125¹"<This block of commented-out lines of code should be removed.(°×«8ÙÝ‚à½.
+Y	java:S125Ë"<This block of commented-out lines of code should be removed.(äÃ¥8ÙÝ‚à½.

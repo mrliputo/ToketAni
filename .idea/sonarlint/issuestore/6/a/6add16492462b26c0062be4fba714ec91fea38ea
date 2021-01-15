@@ -1,0 +1,16 @@
+
+r	java:S116 "QRename this field "back_v" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÖîşıÿÿÿÿ8ŸÄ¾Ê¹.
+y
+java:S1450"WRemove the "back_btn" field and declare it as a local variable in the relevant methods.(ÉŒÓúøÿÿÿÿ8éã¿É¹.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘âìÜüÿÿÿÿ
+v	java:S116"URename this field "flag_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–êĞ›ùÿÿÿÿ8ŸÄ¾Ê¹.
+W	java:S110"<This class has 9 parents which is greater than 5 authorized.(÷£’8ŸÄ¾Ê¹.
+
+java:S1186H"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Œğ£Â8¡íÑÌ¹.
+t	java:S116"SRename this field "back_btn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉŒÓúøÿÿÿÿ8©§¾É¹.
+X	java:S125]"<This block of commented-out lines of code should be removed.(éäåú8ïöøÌ¹.
+{
+java:S1450"YRemove the "flag_count" field and declare it as a local variable in the relevant methods.(–êĞ›ùÿÿÿÿ8ŸÄ¾Ê¹.
+
+java:S1186C"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(á¬‡İ8ïöøÌ¹.
+]	java:S125m"<This block of commented-out lines of code should be removed.(–“Åıÿÿÿÿ8ïöøÌ¹.

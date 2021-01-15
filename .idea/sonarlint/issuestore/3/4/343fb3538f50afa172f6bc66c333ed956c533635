@@ -1,0 +1,12 @@
+
+€
+java:S4165"jRemove this useless assignment; "countryNames" already holds the assigned value along all execution paths.(—Ò€º
+y
+java:S4165"cRemove this useless assignment; "flags" already holds the assigned value along all execution paths.(›Þ«Æ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»ûÛš
+W
+java:S12260"AIntroduce a new variable instead of reusing the parameter "view".(˜ÐËÀ
+N
+java:S1197"8Move the array designator from the variable to the type.(§ÀÓœ
+Q	java:S1251"<This block of commented-out lines of code should be removed.(€×ÇÊ
+V	java:S1254"<This block of commented-out lines of code should be removed.(–Ì›Ûüÿÿÿÿ

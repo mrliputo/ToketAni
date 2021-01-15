@@ -1,0 +1,143 @@
+
+L
+java:S1874}"/Remove this use of "Handler"; it is deprecated.(ïóî‘8’Ò€ô¹.
+Ÿ
+java:S1186Ö"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«û³±8¤ÛµÂ½.
+T
+java:S1611…"6Remove the parentheses around the "response" parameter(°‰„8¤ÛµÂ½.
+Y	java:S125ë"<This block of commented-out lines of code should be removed.(¢¶ûÎ8¤ÛµÂ½.
+
+java:S1450v"_Remove the "search_view_recy" field and declare it as a local variable in the relevant methods.(Ëä¦Œûÿÿÿÿ8’Ò€ô¹.
+K
+java:S1604¬"(Make this anonymous inner class a lambda(¯°¹Åøÿÿÿÿ8ş‹»Â½.
+d
+java:S2142Ö"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8¤ÛµÂ½.
+Y	java:S125Å"<This block of commented-out lines of code should be removed.(€òî¸8–ûç¼.
+^	java:S125É"<This block of commented-out lines of code should be removed.(à˜ş¯ıÿÿÿÿ8¤ÛµÂ½.
+X	java:S110c"<This class has 9 parents which is greater than 5 authorized.(áûœß8’Ò€ô¹.
+y
+java:S1450Š"VRemove the "mapView" field and declare it as a local variable in the relevant methods.(·Àºúÿÿÿÿ8à ·Â½.
+t	java:S116n"SRename this field "back_btn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉŒÓúøÿÿÿÿ8’Ò€ô¹.
+¤
+java:S1186ã"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ö¾¨¶ùÿÿÿÿ8¤ÛµÂ½.
+i
+java:S2184©"FCast one of the operands of this multiplication operation to a "long".(Ó­Àùÿÿÿÿ8¤ÛµÂ½.
+y
+java:S1450{"WRemove the "save_loc" field and declare it as a local variable in the relevant methods.(Ä¦¾§ıÿÿÿÿ8’Ò€ô¹.
+u
+java:S3776è"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(Ó»×¶şÿÿÿÿ8¤ÛµÂ½.
+D	java:S131„""Add a default case to this switch.(öÛ«°şÿÿÿÿ8¤ÛµÂ½.
+^	java:S125Ñ"<This block of commented-out lines of code should be removed.(”ãÂàıÿÿÿÿ8¤ÛµÂ½.
+Y	java:S125à"<This block of commented-out lines of code should be removed.(Øç’é8¤ÛµÂ½.
+F
+java:S1185‡"(Remove this method to simply inherit it.(Ù«µ§8¤ÛµÂ½.
+S
+java:S1068†"0Remove this unused "viewAnimator" private field.(í«¤Èûÿÿÿÿ8’Ò€ô¹.
+X	java:S125¥"<This block of commented-out lines of code should be removed.(ˆì¦8×÷‹ö¹.
+^	java:S125¦"<This block of commented-out lines of code should be removed.(î÷Çşÿÿÿÿ8¥šòÂ½.
+Y	java:S125Ì"<This block of commented-out lines of code should be removed.(îê…ì8¤ÛµÂ½.
+Ÿ
+java:S1186’"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(çÅğÙ8¤ÛµÂ½.
+~	java:S116p"]Rename this field "session_management" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«éØíüÿÿÿÿ8Œíú¸¶.
+]	java:S125\"<This block of commented-out lines of code should be removed.(îÔ¨Éùÿÿÿÿ8’Ò€ô¹.
+€
+java:S1450o"cRemove the "mFusedLocationClient" field and declare it as a local variable in the relevant methods.(Ğ×°ş8Œíú¸¶.
+w	java:S116w"VRename this field "search_text" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú×ÙÜüÿÿÿÿ8’Ò€ô¹.
+^	java:S125Å"<This block of commented-out lines of code should be removed.(õïÉ’ÿÿÿÿÿ8¤ÛµÂ½.
+Ÿ
+java:S1186—"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÁïÕÒ8¤ÛµÂ½.
+d
+java:S2259ù"FA "NullPointerException" could be thrown; "location" is nullable here.(°½÷‚8¤ÛµÂ½.
+d
+java:S1128H"GRemove this unused import 'com.mapbox.mapboxsdk.camera.CameraPosition'.(»†ğÖ8ş†ÕÂ½.
+Z
+java:S1611‹"7Remove the parentheses around the "exception" parameter(¶ˆØ¦ıÿÿÿÿ8¤ÛµÂ½.
+^	java:S125Ç"<This block of commented-out lines of code should be removed.(¹²¸şÿÿÿÿ8¤ÛµÂ½.
+F
+java:S1604¡"(Make this anonymous inner class a lambda(ÍÕª8Æô¹Â½.
+P
+java:S1144î"2Remove this unused private "displayDialog" method.(¼úĞ›8¤ÛµÂ½.
+^	java:S125ã"<This block of commented-out lines of code should be removed.(ô×‹òşÿÿÿÿ8¤ÛµÂ½.
+i
+java:S2184¨"FCast one of the operands of this multiplication operation to a "long".(ù¡£İùÿÿÿÿ8¤ÛµÂ½.
+Y	java:S125¸"<This block of commented-out lines of code should be removed.(ÕèÛÆ8’Ò€ô¹.
+n
+java:S1301„"KReplace this "switch" statement by "if" statements to increase readability.(öÛ«°şÿÿÿÿ8¤ÛµÂ½.
+F
+java:S1604ò"(Make this anonymous inner class a lambda(úˆ¨—8¤ÛµÂ½.
+t	java:S116{"SRename this field "save_loc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä¦¾§ıÿÿÿÿ8’Ò€ô¹.
+F
+java:S1604"(Make this anonymous inner class a lambda(Î¬¯”8¤ÛµÂ½.
+Ÿ
+java:S1186ä"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(½ë¿í8¤ÛµÂ½.
+|	java:S116v"[Rename this field "search_view_recy" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëä¦Œûÿÿÿÿ8’Ò€ô¹.
+
+java:S1450k"_Remove the "isNetworkEnabled" field and declare it as a local variable in the relevant methods.(æ¤Àçşÿÿÿÿ8’Ò€ô¹.
+¤
+java:S1186Û"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ê¥¾àûÿÿÿÿ8¤ÛµÂ½.
+Y	java:S125Ü"<This block of commented-out lines of code should be removed.(Àÿøø8¤ÛµÂ½.
+{
+java:S1450i"^Remove the "locationManager" field and declare it as a local variable in the relevant methods.(ô­âº8’Ò€ô¹.
+Y	java:S125¤"<This block of commented-out lines of code should be removed.(˜¢‘Ğ8¤ÛµÂ½.
+Y	java:S125"<This block of commented-out lines of code should be removed.(ŒöÇ÷8¤ÛµÂ½.
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘âìÜüÿÿÿÿ8šúœÕ¶.
+p
+java:S3776Ï"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(©– 8¤ÛµÂ½.
+Y	java:S125ø"<This block of commented-out lines of code should be removed.(€òî¸8¤ÛµÂ½.
+Y	java:S125Œ"<This block of commented-out lines of code should be removed.(ˆ•æÒ8¤ÛµÂ½.
+^	java:S125¤"<This block of commented-out lines of code should be removed.(­´­™ıÿÿÿÿ8Ÿ­ÅÂ½.
+a
+java:S2130Ü">Use "Double.parseDouble" for this string-to-double conversion.(ªóàÌüÿÿÿÿ8¤ÛµÂ½.
+\
+java:S1854½">Remove this useless assignment to local variable "statusCode".(ó‡øÂ8¤ÛµÂ½.
+^	java:S125ÿ"<This block of commented-out lines of code should be removed.(¯ÌËÔÿÿÿÿÿ8¤ÛµÂ½.
+z
+java:S1450q"^Remove the "locationRequest" field and declare it as a local variable in the relevant methods.(¢¢ B8’Ò€ô¹.
+K
+java:S1604·"(Make this anonymous inner class a lambda(œÁÈÌşÿÿÿÿ8¤ÛµÂ½.
+F
+java:S1604 "(Make this anonymous inner class a lambda(¡à«¡8¤ÛµÂ½.
+G
+java:S1068")Remove this unused "queue" private field.(®¤œé8’Ò€ô¹.
+^	java:S125Å"<This block of commented-out lines of code should be removed.(–“Åıÿÿÿÿ8¤ÛµÂ½.
+v	java:S116x"URename this field "search_lay" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ´Î‹ÿÿÿÿÿ8’Ò€ô¹.
+Y	java:S125­"<This block of commented-out lines of code should be removed.(¢æ÷ş8¤ÛµÂ½.
+¤
+java:S1186¿"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(•Š¯¿úÿÿÿÿ8¤ÛµÂ½.
+V
+java:S1128"9Remove this unused import 'androidx.annotation.Nullable'.(¾Èêš8ş†ÕÂ½.
+K
+java:S1604"(Make this anonymous inner class a lambda(«æ•·ÿÿÿÿÿ8¤ÛµÂ½.
+\
+java:S2130İ">Use "Double.parseDouble" for this string-to-double conversion.(ş¨Üñ8¤ÛµÂ½.
+x	java:S116z"WRename this field "address_text" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ÁÉ—ıÿÿÿÿ8’Ò€ô¹.
+^	java:S125š"<This block of commented-out lines of code should be removed.(¯ÌËÔÿÿÿÿÿ8¤ÛµÂ½.
+}
+java:S1450j"[Remove the "isGPSEnabled" field and declare it as a local variable in the relevant methods.(Ö¤šùûÿÿÿÿ8½”î¸¶.
+^	java:S125²"<This block of commented-out lines of code should be removed.(Î«­íúÿÿÿÿ8¤ÛµÂ½.
+u
+java:S3776»"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(øˆ÷Ãùÿÿÿÿ8¤ÛµÂ½.
+Y	java:S125‰"<This block of commented-out lines of code should be removed.(ˆ•æÒ8¤ÛµÂ½.
+R
+java:S1066Ò"/Merge this if statement with the enclosing one.(êÿ×¤ùÿÿÿÿ8¤ÛµÂ½.
+h
+java:S1874"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ÀÄŞ’8¤ÛµÂ½.
+r	java:S116y"VRename this field "address_lay" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÁ®ç8’Ò€ô¹.
+^	java:S125Ó"<This block of commented-out lines of code should be removed.(Ö™³àùÿÿÿÿ8¤ÛµÂ½.
+r
+java:S1450"TRemove the "queue" field and declare it as a local variable in the relevant methods.(®¤œé8’Ò€ô¹.
+^	java:S125§"<This block of commented-out lines of code should be removed.(Ö™³àùÿÿÿÿ8¤ÛµÂ½.
+y
+java:S1450n"WRemove the "back_btn" field and declare it as a local variable in the relevant methods.(ÉŒÓúøÿÿÿÿ8’Ò€ô¹.
+M
+java:S1481½"/Remove this unused "statusCode" local variable.(ó‡øÂ8¤ÛµÂ½.
+R
+java:S1066Ç"/Merge this if statement with the enclosing one.(äñğÓÿÿÿÿÿ8¤ÛµÂ½.
+n	java:S117°"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í¥×8¤ÛµÂ½.
+^	java:S125ä"<This block of commented-out lines of code should be removed.(§ÿ–¿şÿÿÿÿ8¤ÛµÂ½.
+k
+java:S2259Ó"MA "NullPointerException" could be thrown; "locationManager" is nullable here.(¡ßÒŠ8¤ÛµÂ½.
+Ÿ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÀÄŞ’8¤ÛµÂ½.
+H
+java:S1068}"+Remove this unused "handler" private field.(ïóî‘8’Ò€ô¹.

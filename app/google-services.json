@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "352076647507",
+    "firebase_url": "https://gogrocer-ab300.firebaseio.com",
+    "project_id": "gogrocer-ab300",
+    "storage_bucket": "gogrocer-ab300.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352076647507:android:7a65b407210c20c4268aa6",
+        "android_client_info": {
+          "package_name": "com.gogroceruser.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352076647507-l98tus2msncfjdashs5haabodmtuhgr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVRRyjzUXaUvmB2KS81lcFFfLgoA20o9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352076647507-l98tus2msncfjdashs5haabodmtuhgr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

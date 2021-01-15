@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:id="@+id/layout"
+    android:orientation="vertical"
+    android:background="@color/white"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:orientation="vertical">
+    <TextView
+        android:id="@+id/coupun_heading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="22dp"
+        android:text="Grocery"
+        android:textAllCaps="true"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:padding="5dp">
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/discrip_coupon"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="16dp"
+        android:textColor="@color/black"
+        android:text="Data"
+        android:padding="5dp"/>
+
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/grey"
+        android:layout_marginTop="5dp"/>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp">
+    <TextView
+        android:id="@+id/copen_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16dp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:text="2jj32mj"
+        android:padding="10dp"
+        android:background="@drawable/coupentext">
+
+    </TextView>
+
+        <TextView
+            android:id="@+id/applybtn"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:textSize="16dp"
+            android:textColor="@color/orange"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:text="apply"
+            android:textAllCaps="true"
+            android:layout_alignParentRight="true"
+            android:padding="10dp">
+
+        </TextView>
+    </RelativeLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/grey"
+        android:layout_marginTop="5dp"/>
+</LinearLayout>

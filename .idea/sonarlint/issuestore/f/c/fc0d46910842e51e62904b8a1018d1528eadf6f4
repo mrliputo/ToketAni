@@ -1,0 +1,10 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¸Œ¯ÿÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ôä¯’ûÿÿÿÿ
+;
+java:S1659" Declare "id" on a separate line.(’î»‚øÿÿÿÿ
+?
+java:S1659"$Declare "detail" on a separate line.(’î»‚øÿÿÿÿ
+n	java:S116	"TRename this field "sub_array" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åŠŸÒùÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( …‚ıÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¸Œ¯ÿÿÿÿÿ

@@ -1,0 +1,68 @@
+
+r	java:S117{"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôé×—úÿÿÿÿ8Š—îÕ¹.
+N
+java:S1481{",Remove this unused "user_id" local variable.(ôé×—úÿÿÿÿ8ÛîÇ÷¹.
+v
+java:S1104‘"SMake address a static final constant or non-public and provide accessors if needed.(àùüËøÿÿÿÿ8ÛîÇ÷¹.
+T
+java:S1874H"2Remove this use of "setMessage"; it is deprecated.(ñËÄİÿÿÿÿÿ8ÛîÇ÷¹.
+_
+java:S1874‹"<Remove this use of "getActiveNetworkInfo"; it is deprecated.(ˆÛ¡Çøÿÿÿÿ8ÛîÇ÷¹.
+Y	java:S125œ"<This block of commented-out lines of code should be removed.(äù‚¥8ÛîÇ÷¹.
+r	java:S117}"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·‰ßŒùÿÿÿÿ8ÛîÇ÷¹.
+r	java:S117|"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†µÊ»ûÿÿÿÿ8Š—îÕ¹.
+@
+java:S16599"#Declare "addId" on a separate line.(çÅİ£8ÛîÇ÷¹.
+s	java:S117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ‘æ¡úÿÿÿÿ8ÛîÇ÷¹.
+s
+java:S1104‘"PMake name a static final constant or non-public and provide accessors if needed.(àùüËøÿÿÿÿ8ÛîÇ÷¹.
+F
+java:S1659‘"#Declare "phone" on a separate line.(àùüËøÿÿÿÿ8ÛîÇ÷¹.
+¤
+java:S1186ş"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ö èşÿÿÿÿ8ÛîÇ÷¹.
+^	java:S125Õ"<This block of commented-out lines of code should be removed.(¦ÕÕùÿÿÿÿ8ÛîÇ÷¹.
+n	java:S117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ô¨8ÛîÇ÷¹.
+y	java:S1163"]Rename this field "session_management" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÒéß8ÛîÇ÷¹.
+K
+java:S1144ˆ"-Remove this unused private "isOnline" method.(â˜‹Æ8ÛîÇ÷¹.
+Q
+java:S1874G"6Remove this use of "ProgressDialog"; it is deprecated.(¿Ú•ğúÿÿÿÿ
+>
+java:S16599"!Declare "dId" on a separate line.(çÅİ£8ÛîÇ÷¹.
+S
+java:S18746"6Remove this use of "ProgressDialog"; it is deprecated.(ğİıº8ÛîÇ÷¹.
+V
+java:S1874‹"3Remove this use of "isConnected"; it is deprecated.(ˆÛ¡Çøÿÿÿÿ8ÛîÇ÷¹.
+J
+java:S1604a"(Make this anonymous inner class a lambda(Úğ€Èúÿÿÿÿ8ÛîÇ÷¹.
+^	java:S125Õ"<This block of commented-out lines of code should be removed.(Áş¯ñıÿÿÿÿ8ÛîÇ÷¹.
+^	java:S125À"<This block of commented-out lines of code should be removed.(©…†Ğùÿÿÿÿ8ÛîÇ÷¹.
+m	java:S117\"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔëÀ”8ÛîÇ÷¹.
+s	java:S116:"RRename this field "user_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù¡úÆúÿÿÿÿ8ÛîÇ÷¹.
+t
+java:S1104‘"QMake phone a static final constant or non-public and provide accessors if needed.(àùüËøÿÿÿÿ8ÛîÇ÷¹.
+_
+java:S1874‹"<Remove this use of "getActiveNetworkInfo"; it is deprecated.(ˆÛ¡Çøÿÿÿÿ8ÛîÇ÷¹.
+^	java:S125â"<This block of commented-out lines of code should be removed.(–“Åıÿÿÿÿ8ÛîÇ÷¹.
+R
+java:S1066ñ"/Merge this if statement with the enclosing one.(âé…Üøÿÿÿÿ8ÛîÇ÷¹.
+K
+java:S3398Ë"(Move this method into "DeliveryAdapter".(´ƒîüÿÿÿÿ8ÛîÇ÷¹.
+Y	java:S125²"<This block of commented-out lines of code should be removed.(€ñ½8ÛîÇ÷¹.
+Y	java:S125´"<This block of commented-out lines of code should be removed.(áµ©„8ÛîÇ÷¹.
+H
+java:S1659‘"%Declare "address" on a separate line.(àùüËøÿÿÿÿ8ÛîÇ÷¹.
+r	java:S117Y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øı–Ìøÿÿÿÿ8ÛîÇ÷¹.
+G
+java:S16594"*Declare "delieverHere" on a separate line.(›„¶¶8ÛîÇ÷¹.
+¤
+java:S1186¼"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ö èşÿÿÿÿ8ÛîÇ÷¹.
+m	java:S117z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß »€8Š—îÕ¹.
+X	java:S1101"<This class has 9 parents which is greater than 5 authorized.(äö¢İ8ÛîÇ÷¹.
+y	java:S116’"WRename this field "edit_address" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÈüªûÿÿÿÿ8ÛîÇ÷¹.
+E
+java:S16594"(Declare "addAddress" on a separate line.(›„¶¶8ÛîÇ÷¹.
+o	java:S116<"SRename this field "show_add" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÂ8ÔëÊ÷¹.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘âìÜüÿÿÿÿ
+G
+java:S1659”"$Declare "layout" on a separate line.(´ÃÓûúÿÿÿÿ8ÛîÇ÷¹.

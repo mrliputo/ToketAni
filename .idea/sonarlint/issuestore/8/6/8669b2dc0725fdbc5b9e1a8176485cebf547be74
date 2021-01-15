@@ -1,0 +1,10 @@
+
+r	java:S116"QRename this field "map_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å‡”Ïıÿÿÿÿ8›¸—¿¾.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í„¼‹ıÿÿÿÿ8‡İ˜¿¾.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ß¼Íÿÿÿÿÿ8‡İ˜¿¾.
+q	java:S116"URename this field "google_map" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©àİ8œš˜¿¾.
+j	java:S100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÕ¢€8‡İ˜¿¾.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í„¼‹ıÿÿÿÿ8‡İ˜¿¾.
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ùøÇ8‡İ˜¿¾.
+m	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÕ¢€8‡İ˜¿¾.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ôä¯’ûÿÿÿÿ

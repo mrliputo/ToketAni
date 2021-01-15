@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:orientation="vertical">
+
+    <View
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:background="@drawable/rewardscup"
+        android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/tv_socity_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="8dp"
+            android:text="@string/my_reward_points"
+            android:textColor="@color/hintColor"
+            android:textSize="18sp" />
+        <TextView
+            android:id="@+id/reward_points"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <com.tecmanic.gogrocer.util.GifImageView
+            android:layout_width="match_parent"
+            android:visibility="invisible"
+            android:id="@+id/gif_image"
+            android:layout_margin="20dp"
+            android:layout_height="150dp"/>
+
+        <TextView
+            android:id="@+id/reedme_point"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="40dp"
+            android:padding="5dp"
+            android:minHeight="52dp"
+            android:layout_marginEnd="40dp"
+            android:gravity="center"
+            android:text="@string/redeem"
+            android:background="@drawable/rounded_shape"
+            android:backgroundTint="@color/green"
+            android:textColor="#fff"
+            android:fontFamily="@font/opensans_semibold"
+            android:textSize="15sp" />
+
+
+</LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/progress_bar"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:clickable="false"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:visibility="gone"
+        android:layout_centerInParent="true"
+        android:background="@color/black_fade"
+        android:layout_height="match_parent">
+        <androidx.core.widget.ContentLoadingProgressBar
+            style="@style/Widget.AppCompat.ProgressBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+
+</RelativeLayout>

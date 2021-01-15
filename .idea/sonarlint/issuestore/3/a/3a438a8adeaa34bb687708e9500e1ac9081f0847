@@ -1,0 +1,365 @@
+
+K	java:S108É")Either remove or fill this block of code.(™²¨©ûÿÿÿÿ8’îû¬¸.
+S
+java:S1874Î
+"0Remove this use of "getColor"; it is deprecated.(ËŒè½ıÿÿÿÿ8’îû¬¸.
+t	java:S116H"_Rename this field "Relative_used_coupon" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ÔƒÀ
+s	java:S116y"RRename this field "raz_txt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Âİ¸ùÿÿÿÿ8õÇª¸.
+K
+java:S1604Á"(Make this anonymous inner class a lambda( ••»üÿÿÿÿ8õŒÿ«¸.
+H
+java:S1068l"+Remove this unused "getdate" private field.(êÿâ˜8Ø¼Æª¸.
+¤
+java:S1186Ü"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ö èşÿÿÿÿ8’îû¬¸.
+^	java:S125ó"<This block of commented-out lines of code should be removed.(È„öŞüÿÿÿÿ8õŒÿ«¸.
+g	java:S116X"RRename this field "rb_card" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×¥ä•
+^	java:S125‚"<This block of commented-out lines of code should be removed.(í¸ºüÿÿÿÿ8’îû¬¸.
+^	java:S125´"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8Ø¼Æª¸.
+^	java:S125ğ"<This block of commented-out lines of code should be removed.(ûöÊîıÿÿÿÿ8’îû¬¸.
+Y	java:S125ˆ"<This block of commented-out lines of code should be removed.(úŒµŞ8’îû¬¸.
+S
+java:S1874"0Remove this use of "getColor"; it is deprecated.(•ö«ÿÿÿÿÿ8õŒÿ«¸.
+:
+java:S1659M"%Declare "cart_id" on a separate line.(Ï«½q
+S
+java:S1874Î"0Remove this use of "getColor"; it is deprecated.(ÔºéÓıÿÿÿÿ8õŒÿ«¸.
+K
+java:S1604Ì"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ8’îû¬¸.
+K
+java:S1604»"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ8’îû¬¸.
+e
+java:S1192£"GDefine a constant instead of duplicating this literal "status" 4 times.(åÉå­8õŒÿ«¸.
+t	java:S116Y"ZRename this field "checkBox_Wallet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡œ¶˜øÿÿÿÿ
+Y	java:S125é"<This block of commented-out lines of code should be removed.(Åâêì8€½¶¬¸.
+K
+java:S1604Ô	"(Make this anonymous inner class a lambda(±æÿÚıÿÿÿÿ8’îû¬¸.
+^	java:S125ÿ"<This block of commented-out lines of code should be removed.(½…šüÿÿÿÿ8õŒÿ«¸.
+>
+java:S1659A"#Declare "llcod" on a separate line.(³ÏÃûÿÿÿÿ
+S
+java:S1874ù"0Remove this use of "getColor"; it is deprecated.(ñœŸãøÿÿÿÿ8õŒÿ«¸.
+S
+java:S1874Ş"0Remove this use of "getColor"; it is deprecated.(……¥øÿÿÿÿ8õŒÿ«¸.
+N
+java:S1874Ø"0Remove this use of "getColor"; it is deprecated.(Â‡ºù8õŒÿ«¸.
+^	java:S125ë"<This block of commented-out lines of code should be removed.(‰ÌÃøÿÿÿÿ8’îû¬¸.
+w
+java:S1450{"URemove the "paypal" field and declare it as a local variable in the relevant methods.(½‰½Ùÿÿÿÿÿ8õŒÿ«¸.
+Y	java:S125²"<This block of commented-out lines of code should be removed.(ßİıû8’îû¬¸.
+p	java:S116q"VRename this field "payable_amt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ÀçÖûÿÿÿÿ
+Q	java:S110?"<This class has 9 parents which is greater than 5 authorized.(òåÒÛ
+X
+java:S1117¡":Rename "status" which hides the field declared at line 80.(åÉå­8’îû¬¸.
+S
+java:S1874Â
+"0Remove this use of "getColor"; it is deprecated.(……¥øÿÿÿÿ8’îû¬¸.
+K
+java:S1604ò"(Make this anonymous inner class a lambda(°Ö½âùÿÿÿÿ8’îû¬¸.
+N
+java:S1874Ü"0Remove this use of "getColor"; it is deprecated.(£ğÁË8õŒÿ«¸.
+Y	java:S125¿	"<This block of commented-out lines of code should be removed.(­ı°8’îû¬¸.
+^	java:S125˜"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8õèÖª¸.
+M
+java:S1068n"+Remove this unused "rewards" private field.(üÁÒ¿üÿÿÿÿ8Ø¼Æª¸.
+K
+java:S1604›"(Make this anonymous inner class a lambda(Úïœæşÿÿÿÿ8’îû¬¸.
+^	java:S125í"<This block of commented-out lines of code should be removed.(¯ ‰°ıÿÿÿÿ8’îû¬¸.
+n	java:S116Q"YRename this field "payment_method" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä¶Í¨
+L
+java:S1066Ü
+"/Merge this if statement with the enclosing one.(ÿêà!8’îû¬¸.
+m	java:S116U"XRename this field "wallet_status" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÊÛõ
+S
+java:S1874ß"0Remove this use of "getColor"; it is deprecated.(……¥øÿÿÿÿ8õŒÿ«¸.
+V
+java:S1874¤"3Remove this use of "getDrawable"; it is deprecated.(³ÿôçøÿÿÿÿ8õŒÿ«¸.
+S
+java:S1874Á"0Remove this use of "getColor"; it is deprecated.(……¥øÿÿÿÿ8’îû¬¸.
+n	java:S117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ßùœ8’îû¬¸.
+m	java:S116S"XRename this field "wallet_amount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰†ì
+o	java:S116}"TRename this field "razor_pay" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùò8×‡Æª¸.
+Y	java:S125—"<This block of commented-out lines of code should be removed.(Œ˜æ©8’îû¬¸.
+Y	java:S125¬"<This block of commented-out lines of code should be removed.(Ø®–˜8õŒÿ«¸.
+:
+java:S1659N"$Declare "tcards" on a separate line.(ê‘Ï
+^	java:S125æ
+"<This block of commented-out lines of code should be removed.(™í¨‰ÿÿÿÿÿ8Şû®­¸.
+O
+java:S1068p"2Remove this unused "coupounApplied" private field.(’†óä8Ø¼Æª¸.
+h	java:S116X"SRename this field "rb_Store" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×¥ä•
+w	java:S116a"]Rename this field "Used_Wallet_amount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹¤ÕÉúÿÿÿÿ
+t	java:S116J"ZRename this field "coupen_recycler" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ïˆèùÿÿÿÿ
+N
+java:S1874ò"0Remove this use of "getColor"; it is deprecated.(Â‡ºù8õŒÿ«¸.
+o	java:S116T"URename this field "reset_text" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ğÌšşÿÿÿÿ
+H
+java:S1659H"2Declare "Relative_used_coupon" on a separate line.(”ÔƒÀ
+^	java:S125½	"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8’îû¬¸.
+m
+java:S1192ì
+"ODefine a constant instead of duplicating this literal "paymentExample" 4 times.(™¬Á”8’îû¬¸.
+H
+java:S1659H"2Declare "Relative_used_wallet" on a separate line.(”ÔƒÀ
+y
+java:S1450|"WRemove the "razorpay" field and declare it as a local variable in the relevant methods.(“×¾Éıÿÿÿÿ8õŒÿ«¸.
+a
+java:S1854­">Remove this useless assignment to local variable "jsonObject".(àÒšìùÿÿÿÿ8’îû¬¸.
+_
+java:S2259ã
+"BA "NullPointerException" could be thrown; "data" is nullable here.(»›ô8’îû¬¸.
+N
+java:S1874•"0Remove this use of "getColor"; it is deprecated.(¨Á…ñ8õŒÿ«¸.
+e
+java:S1854ÿ"BRemove this useless assignment to local variable "deliverycharge".(ıâ‹şÿÿÿÿ8’îû¬¸.
+7
+java:S1659E"!Declare "lng" on a separate line.(ßé¾Ÿ
+X
+java:S1117£":Rename "status" which hides the field declared at line 80.(åÉå­8’îû¬¸.
+n	java:S117ı"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£Ö×‚8ˆğº¬¸.
+N
+java:S1874¬"0Remove this use of "getColor"; it is deprecated.(©†À8õŒÿ«¸.
+M
+java:S1068k"+Remove this unused "gettime" private field.(¬öç¸øÿÿÿÿ8Ø¼Æª¸.
+s	java:S117Ñ	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„å“·øÿÿÿÿ8’îû¬¸.
+L
+java:S1659W"1Declare "used_coupon_ammount" on a separate line.(İ†¢¤şÿÿÿÿ
+R
+java:S1481­"/Remove this unused "jsonObject" local variable.(àÒšìùÿÿÿÿ8’îû¬¸.
+X
+java:S1117ã
+";Rename "confirm" which hides the field declared at line 82.(»›ô8’îû¬¸.
+@
+java:S1659A"%Declare "llcards" on a separate line.(³ÏÃûÿÿÿÿ
+^	java:S125æ"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8’îû¬¸.
+q	java:S116b"WRename this field "total_amount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­–ìÂüÿÿÿÿ
+K
+java:S1604ã"(Make this anonymous inner class a lambda(ÂŠ¿şÿÿÿÿ8õŒÿ«¸.
+^
+java:S1854¤";Remove this useless assignment to local variable "message".(ëè Øúÿÿÿÿ8’îû¬¸.
+g	java:S116g"RRename this field "db_cart" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù
+a
+java:S1854¥">Remove this useless assignment to local variable "jsonObject".(àÒšìùÿÿÿÿ8’îû¬¸.
+S
+java:S1874Ê
+"0Remove this use of "getColor"; it is deprecated.(……¥øÿÿÿÿ8’îû¬¸.
+v	java:S116W"\Rename this field "my_wallet_ammount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ†¢¤şÿÿÿÿ
+¤
+java:S1186ÿ	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ö èşÿÿÿÿ8’îû¬¸.
+^	java:S125ó"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8’îû¬¸.
+:
+java:S1659X"$Declare "rb_Cod" on a separate line.(×¥ä•
+K
+java:S1604ê	"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ8’îû¬¸.
+J
+java:S1659W"/Declare "my_wallet_ammount" on a separate line.(İ†¢¤şÿÿÿÿ
+t	java:S116H"_Rename this field "Relative_used_wallet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ÔƒÀ
+V
+java:S1874§"3Remove this use of "getDrawable"; it is deprecated.(åãñªùÿÿÿÿ8Ø¼Æª¸.
+^	java:S125ì"<This block of commented-out lines of code should be removed.(©šØºùÿÿÿÿ8õŒÿ«¸.
+Y	java:S125º"<This block of commented-out lines of code should be removed.(¯Éï›8õŒÿ«¸.
+Y	java:S125’	"<This block of commented-out lines of code should be removed.(ß„º¼8’îû¬¸.
+>
+java:S1659N"(Declare "tpromocode" on a separate line.(ê‘Ï
+T
+java:S1874“"6Remove this use of "ProgressDialog"; it is deprecated.(ˆ¸‚ğ8Ø¼Æª¸.
+m	java:S116t"XRename this field "coupon_amount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Âèõ
+N
+java:S1874Ù"0Remove this use of "getColor"; it is deprecated.(¨Á…ñ8õŒÿ«¸.
+9
+java:S1659d"#Declare "lineb" on a separate line.(ÛÜ¡¬
+f	java:S116M"RRename this field "cart_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï«½q
+r	java:S116z"VRename this field "payment_opt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±”ÖÖ8œ¦ª¸.
+Q
+java:S1068j"/Remove this unused "getstore_id" private field.(ÒúÚ†şÿÿÿÿ8Ø¼Æª¸.
+Y	java:S125¸"<This block of commented-out lines of code should be removed.(Âí‘Î8õŒÿ«¸.
+N
+java:S1874î"0Remove this use of "getColor"; it is deprecated.(„é÷8õŒÿ«¸.
+¤
+java:S1186ä"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ö èşÿÿÿÿ8’îû¬¸.
+N
+java:S1874¦"0Remove this use of "getColor"; it is deprecated.(£ğÁË8õŒÿ«¸.
+^	java:S125á	"<This block of commented-out lines of code should be removed.(¤·³®úÿÿÿÿ8’îû¬¸.
+s	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šûòèøÿÿÿÿ8õŒÿ«¸.
+l
+java:S1871«"NThis branch's code block is the same as the block for the branch on line 1059.(Ÿ¸ˆÑ8’îû¬¸.
+F	java:S108æ")Either remove or fill this block of code.(Ôá†¢8õŒÿ«¸.
+F	java:S108Ä")Either remove or fill this block of code.(Ôá†¢8õŒÿ«¸.
+^	java:S125Ä	"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8’îû¬¸.
+I
+java:S1172ı"+Remove this unused method parameter "name".(£Ö×‚8ˆğº¬¸.
+Y	java:S125ó"<This block of commented-out lines of code should be removed.(ËÖÕÛ8õŒÿ«¸.
+t	java:S116Z"ZRename this field "checkBox_coupon" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ®°­ùÿÿÿÿ
+v	java:S116~"URename this field "paypal_lay" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ı”ûÿÿÿÿ8Ø¼Æª¸.
+N
+java:S1874†"0Remove this use of "getColor"; it is deprecated.(©†À8šŸãª¸.
+s	java:S116w"YRename this field "coupon_apply_t" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ùÓºıÿÿÿÿ
+v
+java:S3776‹"SRefactor this method to reduce its Cognitive Complexity from 160 to the 15 allowed.(¨Œşÿÿÿÿ8Ø¼Æª¸.
+^	java:S125‘"<This block of commented-out lines of code should be removed.(ğ§ßôûÿÿÿÿ8õŒÿ«¸.
+Y	java:S125‹"<This block of commented-out lines of code should be removed.(ßİıû8õŒÿ«¸.
+x	java:S116W"^Rename this field "used_coupon_ammount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ†¢¤şÿÿÿÿ
+Y	java:S125°"<This block of commented-out lines of code should be removed.( ´ 8õŒÿ«¸.
+P
+java:S1874”"2Remove this use of "setMessage"; it is deprecated.(ğÓÉÕ8Ø¼Æª¸.
+S
+java:S1874Ë"0Remove this use of "getColor"; it is deprecated.(Ì¬ãíûÿÿÿÿ8õŒÿ«¸.
+X
+java:S1874s"6Remove this use of "ProgressDialog"; it is deprecated.(·á…Çùÿÿÿÿ8Ø¼Æª¸.
+S
+java:S1874×"0Remove this use of "getColor"; it is deprecated.(ËŒè½ıÿÿÿÿ8õŒÿ«¸.
+j
+java:S1192ö"GDefine a constant instead of duplicating this literal "wallet" 7 times.(Œ™•‹şÿÿÿÿ8õŒÿ«¸.
+R
+java:S1481¥"/Remove this unused "jsonObject" local variable.(àÒšìùÿÿÿÿ8’îû¬¸.
+p
+java:S3776ç"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(ÇÑÃø8’îû¬¸.
+Y	java:S125	"<This block of commented-out lines of code should be removed.(›†™Õ8’îû¬¸.
+n	java:S117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š‹»…8’îû¬¸.
+N
+java:S1874¢"0Remove this use of "getColor"; it is deprecated.(üü¨Ã8õŒÿ«¸.
+N
+java:S1874§"0Remove this use of "getColor"; it is deprecated.(¨Á…ñ8õŒÿ«¸.
+L
+java:S1659W"1Declare "used_wallet_ammount" on a separate line.(İ†¢¤şÿÿÿÿ
+o
+java:S3776µ
+"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(¹Î¾8’îû¬¸.
+O
+java:S1481¤",Remove this unused "message" local variable.(ëè Øúÿÿÿÿ8’îû¬¸.
+s	java:S117Ü	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„’Áşÿÿÿÿ8’îû¬¸.
+^	java:S125¶	"<This block of commented-out lines of code should be removed.(±ÕÙÙüÿÿÿÿ8’îû¬¸.
+f
+java:S1192Ô"HDefine a constant instead of duplicating this literal "success" 7 times.(ñÂ†‡8õŒÿ«¸.
+^	java:S125õ"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8õŒÿ«¸.
+v	java:S116G"\Rename this field "Promo_code_layout" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ôÓ¬ıÿÿÿÿ
+k
+java:S1192È"HDefine a constant instead of duplicating this literal "Error: " 3 times.(Ñ©…Õøÿÿÿÿ8’îû¬¸.
+k
+java:S1192˜"HDefine a constant instead of duplicating this literal "cart_id" 3 times.(£÷–áûÿÿÿÿ8’îû¬¸.
+¤
+java:S1186Ó"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ö èşÿÿÿÿ8’îû¬¸.
+Y	java:S125Á"<This block of commented-out lines of code should be removed.(ç—­8’îû¬¸.
+q	java:S116\"URename this field "use_paypal" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹²Ù¥8”ÒÉª¸.
+v	java:S116D"aRename this field "Prefrence_TotalAmmount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áƒˆ
+Y	java:S125§"<This block of commented-out lines of code should be removed.(úúœ‹8Ø¼Æª¸.
+Y	java:S125á"<This block of commented-out lines of code should be removed.(ë¥ÏÖ8’îû¬¸.
+N
+java:S1874”"0Remove this use of "getColor"; it is deprecated.(£ğÁË8õŒÿ«¸.
+Y	java:S125ù"<This block of commented-out lines of code should be removed.(ßÒÍ†8õŒÿ«¸.
+Y	java:S125î"<This block of commented-out lines of code should be removed.(Åâêì8ªâ¶¬¸.
+j	java:S116m"URename this field "getuser_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š£÷¾
+J
+java:S1659G"/Declare "Coupon_and_wallet" on a separate line.(¡ôÓ¬ıÿÿÿÿ
+k
+java:S1871İ"MThis branch's code block is the same as the block for the branch on line 341.(ãîŸ8™Ê¢¬¸.
+s	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šûòèøÿÿÿÿ8’îû¬¸.
+^	java:S125…"<This block of commented-out lines of code should be removed.(‡¨ÏÈøÿÿÿÿ8’îû¬¸.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘âìÜüÿÿÿÿ
+n	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ÿ—8’îû¬¸.
+;
+java:S1659X"%Declare "rb_card" on a separate line.(×¥ä•
+N
+java:S1874„"0Remove this use of "getColor"; it is deprecated.(üü¨Ã8õŒÿ«¸.
+v	java:S116G"\Rename this field "Coupon_and_wallet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ôÓ¬ıÿÿÿÿ
+^	java:S125Û"<This block of commented-out lines of code should be removed.(¨ö¤øÿÿÿÿ8’îû¬¸.
+F
+java:S1604·"(Make this anonymous inner class a lambda(ª‹ïç8õŒÿ«¸.
+q	java:S116x"URename this field "paypal_txt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú”–8ôÇª¸.
+K
+java:S1604Ä"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ8’îû¬¸.
+i
+java:S1192Ê"FDefine a constant instead of duplicating this literal "cards" 3 times.(ÊÕûıÿÿÿÿ8õŒÿ«¸.
+n	java:S116V"TRename this field "total_amt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÒóéÿÿÿÿÿ
+X	java:S125ñ"<This block of commented-out lines of code should be removed.(¼‹´X8õŒÿ«¸.
+F
+java:S1604Í"(Make this anonymous inner class a lambda(ÁòäÂ8õŒÿ«¸.
+Y	java:S125‘"<This block of commented-out lines of code should be removed.(ËÖÕÛ8õŒÿ«¸.
+F
+java:S1604ó"(Make this anonymous inner class a lambda(¨ ß¢8õŒÿ«¸.
+N
+java:S1874ú"0Remove this use of "getColor"; it is deprecated.(ìî˜8õŒÿ«¸.
+^	java:S125‹"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8’îû¬¸.
+p	java:S116j"VRename this field "getstore_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒúÚ†şÿÿÿÿ
+8
+java:S1659N""Declare "tcod" on a separate line.(ê‘Ï
+x	java:S116W"^Rename this field "used_wallet_ammount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ†¢¤şÿÿÿÿ
+|
+java:S2293ê"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô›Óíüÿÿÿÿ8’îû¬¸.
+X	java:S125€"<This block of commented-out lines of code should be removed.(ñ¡İA8’îû¬¸.
+^	java:S125î"<This block of commented-out lines of code should be removed.(È„öŞüÿÿÿÿ8õŒÿ«¸.
+X	java:S125é"<This block of commented-out lines of code should be removed.(ö¾™8’îû¬¸.
+r	java:S116W"XRename this field "order_ammount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ†¢¤şÿÿÿÿ
+w
+java:S1450z"ZRemove the "payment_opt" field and declare it as a local variable in the relevant methods.(±”ÖÖ8ñºŞ«¸.
+|
+java:S2293‘"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô›Óíüÿÿÿÿ8’îû¬¸.
+n	java:S117é"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ßùœ8’îû¬¸.
+N
+java:S1874ş"0Remove this use of "getColor"; it is deprecated.(üü¨Ã8õŒÿ«¸.
+^	java:S125"<This block of commented-out lines of code should be removed.(½…šüÿÿÿÿ8õŒÿ«¸.
+F	java:S108»")Either remove or fill this block of code.(Ôá†¢8õŒÿ«¸.
+r	java:S116c"]Rename this field "order_total_amount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡¡¼
+l
+java:S1871Ã
+"NThis branch's code block is the same as the block for the branch on line 1339.(ï„ÊÄ8’îû¬¸.
+E
+java:S1604Ğ"(Make this anonymous inner class a lambda(ñ–ôY8õŒÿ«¸.
+V
+java:S1481ÿ"3Remove this unused "deliverycharge" local variable.(ıâ‹şÿÿÿÿ8’îû¬¸.
+N
+java:S1874â"0Remove this use of "getColor"; it is deprecated.(Â‡ºù8õŒÿ«¸.
+p
+java:S1871á"MThis branch's code block is the same as the block for the branch on line 345.(Ù‘é·øÿÿÿÿ8™Ê¢¬¸.
+Y	java:S125ÿ"<This block of commented-out lines of code should be removed.(Ì‡¼¨8’îû¬¸.
+N
+java:S1874Â"0Remove this use of "getColor"; it is deprecated.(Úãİ£8õŒÿ«¸.
+^	java:S125û"<This block of commented-out lines of code should be removed.(•íÚ­ûÿÿÿÿ8ÍôÙø¹.
+^	java:S125®"<This block of commented-out lines of code should be removed.(×§ŠÕüÿÿÿÿ8Ø¼Æª¸.
+^	java:S125ğ"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8õŒÿ«¸.
+N
+java:S1874Ä"0Remove this use of "getColor"; it is deprecated.(Â‡ºù8õŒÿ«¸.
+h
+java:S1192Ï"JDefine a constant instead of duplicating this literal "order_amt" 4 times.(¼ ëÂ8õŒÿ«¸.
+F
+java:S1604›"(Make this anonymous inner class a lambda(ıÏ¸Ø8’îû¬¸.
+F
+java:S1659W"+Declare "order_ammount" on a separate line.(İ†¢¤şÿÿÿÿ
+q	java:S116H"\Rename this field "Apply_Coupon_Code" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ÔƒÀ
+x	java:S116["WRename this field "use_razorpay" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­¿´şÿÿÿÿ8ÆøÈª¸.
+s	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šûòèøÿÿÿÿ8’îû¬¸.
+S
+java:S1874Í"0Remove this use of "getColor"; it is deprecated.(ÔºéÓıÿÿÿÿ8õŒÿ«¸.
+O
+java:S1068i"2Remove this unused "getlocation_id" private field.(ŸÉŠ”8Ø¼Æª¸.
+^	java:S125²"<This block of commented-out lines of code should be removed.(È„öŞüÿÿÿÿ8õŒÿ«¸.
+|
+java:S2293—"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô›Óíüÿÿÿÿ8’îû¬¸.
+K
+java:S1604“"(Make this anonymous inner class a lambda(ÉİÈıùÿÿÿÿ8õŒÿ«¸.
+k
+java:S1192¤"HDefine a constant instead of duplicating this literal "message" 3 times.(ëè Øúÿÿÿÿ8’îû¬¸.
+N
+java:S1874ğ"0Remove this use of "getColor"; it is deprecated.(©†À8õŒÿ«¸.
+s	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šûòèøÿÿÿÿ8’îû¬¸.
+¤
+java:S1186í	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£µ¢›ÿÿÿÿÿ8’îû¬¸.
+^	java:S125‹"<This block of commented-out lines of code should be removed.(Ã¶Áúÿÿÿÿ8õŒÿ«¸.
+F	java:S108–")Either remove or fill this block of code.(Ôá†¢8õŒÿ«¸.
+^	java:S125Ã"<This block of commented-out lines of code should be removed.(¹Â÷ßûÿÿÿÿ8õŒÿ«¸.
+N
+java:S1874 "0Remove this use of "getColor"; it is deprecated.(Â‡ºù8õŒÿ«¸.
+K	java:S108Ò")Either remove or fill this block of code.(™²¨©ûÿÿÿÿ8’îû¬¸.
+f	java:S116X"QRename this field "rb_Cod" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×¥ä•
+n	java:S116i"YRename this field "getlocation_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÉŠ”
+^	java:S125°	"<This block of commented-out lines of code should be removed.(ûöÊîıÿÿÿÿ8’îû¬¸.
+Y	java:S125¿"<This block of commented-out lines of code should be removed.(ÖÖ‚8õŒÿ«¸.
+s	java:S116W"YRename this field "payble_ammount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ†¢¤şÿÿÿÿ
+D
+java:S1659A")Declare "llpromocode" on a separate line.(³ÏÃûÿÿÿÿ
+i	java:S116]"TRename this field "et_Coupon" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şá–´
+S
+java:S1874å"0Remove this use of "getColor"; it is deprecated.(ÔºéÓıÿÿÿÿ8õŒÿ«¸.
+Y	java:S125ã"<This block of commented-out lines of code should be removed.(Å¯ßá8’îû¬¸.
+^	java:S125ø"<This block of commented-out lines of code should be removed.(ÕåîÆøÿÿÿÿ8’îû¬¸.
+X	java:S125Ï
+"<This block of commented-out lines of code should be removed.(€–´&8’îû¬¸.

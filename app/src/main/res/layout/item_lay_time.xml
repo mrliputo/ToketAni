@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:padding="10dp"
+    android:layout_height="wrap_content">
+
+    <RadioButton
+        android:id="@+id/time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/opensans_regular"
+        android:text="09:00 - 18:00"
+        android:gravity="center"
+        android:textColor="@color/darkGrey"/>
+
+    <TextView
+        android:id="@+id/slotname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="available"
+        android:gravity="center"
+        android:layout_centerVertical="true"
+        android:layout_alignParentRight="true"
+        />
+
+
+</RelativeLayout>

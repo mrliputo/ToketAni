@@ -1,0 +1,333 @@
+
+
+java:S1104"cMake delete_all_notification a static final constant or non-public and provide accessors if needed.(òÔ´ıÿÿÿÿ
+t
+java:S3008S"RRename this field "IMG_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é°ûùÿÿÿÿ8¢½Äˆ¶.
+w
+java:S1104q"\Make DELETE_ORDER_URL a static final constant or non-public and provide accessors if needed.(ÇÜƒßøÿÿÿÿ
+v
+java:S3008e"[Rename this field "secondary_banner" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø³şÜÿÿÿÿÿ
+s
+java:S1104r"XMake delete_order a static final constant or non-public and provide accessors if needed.(ÍŞ½ùÿÿÿÿ
+s
+java:S1104z"XMake OrderDoneUrl a static final constant or non-public and provide accessors if needed.(ä±Çöıÿÿÿÿ
+G
+java:S1444…"1Make this "public static cat_product" field final(Ç’
+Y
+java:S1444"=Make this "public static delete_all_notification" field final(òÔ´ıÿÿÿÿ
+H
+java:S1444["2Make this "public static USERBLOCKAPI" field final(×ŠûÙ
+q
+java:S1104]"VMake verify_otp a static final constant or non-public and provide accessors if needed.(£ü¹Ùşÿÿÿÿ
+K
+java:S1444]"0Make this "public static verify_otp" field final(£ü¹Ùşÿÿÿÿ
+q
+java:S1104^"VMake ChangePass a static final constant or non-public and provide accessors if needed.(ÑöŸîùÿÿÿÿ
+q
+java:S1104x"[Make RecharegeWallet a static final constant or non-public and provide accessors if needed.(˜Óğ
+g
+java:S3008W"QRename this field "SignUp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ÉÇ˜
+i
+java:S3008b"SRename this field "HomeDeal" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çİı
+M
+java:S1444„"6Make this "public static EDIT_PROFILE_URL" field final(’‚Ü±
+v
+java:S3008”"XRename this field "GOOGLEMAP_KEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’Ê„Ë8Æä¨À.
+L
+java:S1444Š"5Make this "public static Wallet_CHECKOUT" field final(†©à
+r
+java:S1104n"WMake ShowAddress a static final constant or non-public and provide accessors if needed.(œŸ£Îøÿÿÿÿ
+q
+java:S1104\"[Make forget_password a static final constant or non-public and provide accessors if needed.(ìà’á
+K
+java:S1444x"5Make this "public static RecharegeWallet" field final(˜Óğ
+M
+java:S1444Œ"1Make this "public static COUPON_CODE" field final(·¹ÚÏùÿÿÿÿ
+v
+java:S3008U"YRename this field "BANNER_IMG_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áª 8¢½Äˆ¶.
+q
+java:S3008n"VRename this field "ShowAddress" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œŸ£Îøÿÿÿÿ
+H
+java:S1444‡"1Make this "public static MinMaxOrder" field final(¶ª€Ñ
+Q
+java:S1444e"6Make this "public static secondary_banner" field final(Ø³şÜÿÿÿÿÿ
+p
+java:S1104y"UMake myprofile a static final constant or non-public and provide accessors if needed.(©æõ‚ıÿÿÿÿ
+l
+java:S3008m"VRename this field "Add_address" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ÔÒ¼
+u
+java:S1104†"YMake OrderContinue a static final constant or non-public and provide accessors if needed.(î€× ıÿÿÿÿ
+t
+java:S1104•"VMake MAPBOX_KEY a static final constant or non-public and provide accessors if needed.(ùôß8Æä¨À.
+K
+java:S1444"/Make this "public static NoticeURl" field final(“şæ÷üÿÿÿÿ
+w
+java:S1104e"\Make secondary_banner a static final constant or non-public and provide accessors if needed.(Ø³şÜÿÿÿÿÿ
+l
+java:S1104g"VMake Categories a static final constant or non-public and provide accessors if needed.(‰èÉÓ
+r
+java:S1104k"WMake CityListUrl a static final constant or non-public and provide accessors if needed.(¯ §øÿÿÿÿ
+L
+java:S1444n"1Make this "public static ShowAddress" field final(œŸ£Îøÿÿÿÿ
+O
+java:S1444S"-Make this "public static IMG_URL" field final(é°ûùÿÿÿÿ8¢½Äˆ¶.
+v
+java:S3008q"[Rename this field "DELETE_ORDER_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÜƒßøÿÿÿÿ
+X	java:S125P"<This block of commented-out lines of code should be removed.(÷‰Îì8éÉ©À.
+Q
+java:S1444o"6Make this "public static SelectAddressURL" field final(‘ì•çûÿÿÿÿ
+B
+java:S1444W",Make this "public static SignUp" field final(˜ÉÇ˜
+u
+java:S1104c"ZMake redeem_rewards a static final constant or non-public and provide accessors if needed.(™ú¦Æùÿÿÿÿ
+K
+java:S1444\"5Make this "public static forget_password" field final(ìà’á
+r
+java:S3008„"[Rename this field "EDIT_PROFILE_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’‚Ü±
+m
+java:S1104…"WMake cat_product a static final constant or non-public and provide accessors if needed.(Ç’
+G
+java:S1444m"1Make this "public static Add_address" field final(®ÔÒ¼
+h
+java:S1104W"RMake SignUp a static final constant or non-public and provide accessors if needed.(˜ÉÇ˜
+m
+java:S1104i"RMake Search a static final constant or non-public and provide accessors if needed.(¦²úÿÿÿÿ
+u
+java:S1104T"XMake BANN_IMG_URL a static final constant or non-public and provide accessors if needed.(˜¶‡ü8¢½Äˆ¶.
+B
+java:S1444d",Make this "public static BANNER" field final(İõÀ
+Q
+java:S1444U"4Make this "public static BANNER_IMG_URL" field final(áª 8¢½Äˆ¶.
+j
+java:S1104}"TMake AboutUrl a static final constant or non-public and provide accessors if needed.(áâÉÁ
+G
+java:S1444i",Make this "public static Search" field final(¦²úÿÿÿÿ
+q
+java:S1104"UMake NoticeURl a static final constant or non-public and provide accessors if needed.(“şæ÷üÿÿÿÿ
+k
+java:S3008p"VRename this field "EditAddress" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú³‡.
+r
+java:S1104u"WMake CalenderUrl a static final constant or non-public and provide accessors if needed.(ü„úÿÿÿÿ
+p
+java:S1104w"ZMake WALLET_REFRESH a static final constant or non-public and provide accessors if needed.(µªñ¿
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(·Á¿„ıÿÿÿÿ
+s
+java:S3008s"XRename this field "delivery_info" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÑİúÿÿÿÿ
+m
+java:S1104~"RMake topsix a static final constant or non-public and provide accessors if needed.(Ğ¯øÿÿÿÿ
+s
+java:S1104„"\Make EDIT_PROFILE_URL a static final constant or non-public and provide accessors if needed.(’‚Ü±
+D
+java:S1444}".Make this "public static AboutUrl" field final(áâÉÁ
+p
+java:S3008^"URename this field "ChangePass" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑöŸîùÿÿÿÿ
+u
+java:S1104S"SMake IMG_URL a static final constant or non-public and provide accessors if needed.(é°ûùÿÿÿÿ8¢½Äˆ¶.
+Q
+java:S1444”"3Make this "public static GOOGLEMAP_KEY" field final(’Ê„Ë8Æä¨À.
+K
+java:S1444^"0Make this "public static ChangePass" field final(ÑöŸîùÿÿÿÿ
+o
+java:S3008l"YRename this field "SocietyListUrl" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àğ«
+l
+java:S1104Z"QMake Login a static final constant or non-public and provide accessors if needed.(ÍëÎ²üÿÿÿÿ
+s
+java:S1104’"WMake currencyApi a static final constant or non-public and provide accessors if needed.(‰¥àüÿÿÿÿ
+o
+java:S3008X"TRename this field "SignUpOtp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©Ó‰êüÿÿÿÿ
+l
+java:S1104p"WMake EditAddress a static final constant or non-public and provide accessors if needed.(Ú³‡.
+p
+java:S3008\"ZRename this field "forget_password" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìà’á
+s
+java:S3008•"URename this field "MAPBOX_KEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùôß8Æä¨À.
+N
+java:S1444s"3Make this "public static delivery_info" field final(šÑİúÿÿÿÿ
+n
+java:S1104["XMake USERBLOCKAPI a static final constant or non-public and provide accessors if needed.(×ŠûÙ
+r
+java:S1104Š"[Make Wallet_CHECKOUT a static final constant or non-public and provide accessors if needed.(†©à
+o
+java:S3008`"YRename this field "HomeTopSelling" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÏˆ
+J
+java:S1444l"4Make this "public static SocietyListUrl" field final(àğ«
+m
+java:S3008["WRename this field "USERBLOCKAPI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ŠûÙ
+L
+java:S1444u"1Make this "public static CalenderUrl" field final(ü„úÿÿÿÿ
+P
+java:S1444‘"4Make this "public static updatenotifyby" field final(öÍÓ¾ùÿÿÿÿ
+s
+java:S1104ˆ"WMake rewardlines a static final constant or non-public and provide accessors if needed.(ç©õÈûÿÿÿÿ
+J
+java:S1444".Make this "public static whatsnew" field final(ªÁô¼şÿÿÿÿ
+r
+java:S3008r"WRename this field "delete_order" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍŞ½ùÿÿÿÿ
+t
+java:S3008c"YRename this field "redeem_rewards" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ú¦Æùÿÿÿÿ
+q
+java:S3008u"VRename this field "CalenderUrl" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü„úÿÿÿÿ
+q
+java:S3008Š"ZRename this field "Wallet_CHECKOUT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†©à
+p
+java:S3008"TRename this field "NoticeURl" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“şæ÷üÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(µı—çùÿÿÿÿ
+X	java:S125F"<This block of commented-out lines of code should be removed.(÷‰Îì8Ï”Û¿¾.
+s
+java:S1104Œ"WMake COUPON_CODE a static final constant or non-public and provide accessors if needed.(·¹ÚÏùÿÿÿÿ
+g
+java:S3008d"QRename this field "BANNER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İõÀ
+O
+java:S1444c"4Make this "public static redeem_rewards" field final(™ú¦Æùÿÿÿÿ
+r
+java:S1104‚"VMake SupportUrl a static final constant or non-public and provide accessors if needed.(Ì­Öüùÿÿÿÿ
+n
+java:S3008"SRename this field "TermsUrl" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ÇÏ­úÿÿÿÿ
+p
+java:S1104l"ZMake SocietyListUrl a static final constant or non-public and provide accessors if needed.(àğ«
+l
+java:S3008i"QRename this field "Search" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦²úÿÿÿÿ
+D
+java:S1444b".Make this "public static HomeDeal" field final(Çİı
+i
+java:S3008}"SRename this field "AboutUrl" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áâÉÁ
+n
+java:S3008"WRename this field "apply_coupon" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸®Á¨
+F
+java:S1444a"0Make this "public static HomeRecent" field final(‹Ğîª
+M
+java:S1444z"2Make this "public static OrderDoneUrl" field final(ä±Çöıÿÿÿÿ
+t
+java:S1104s"YMake delivery_info a static final constant or non-public and provide accessors if needed.(šÑİúÿÿÿÿ
+u
+java:S1104R"XMake BASE_URL_Map a static final constant or non-public and provide accessors if needed.(ñ¹Û 8Ï”Û¿¾.
+J
+java:S1444Q".Make this "public static BASE_URL" field final(´›Îi8Şãã¿¼.
+w
+java:S1104U"ZMake BANNER_IMG_URL a static final constant or non-public and provide accessors if needed.(áª 8¢½Äˆ¶.
+o
+java:S1104"XMake apply_coupon a static final constant or non-public and provide accessors if needed.(¸®Á¨
+M
+java:S1444ˆ"1Make this "public static rewardlines" field final(ç©õÈûÿÿÿÿ
+v
+java:S3008o"[Rename this field "SelectAddressURL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ì•çûÿÿÿÿ
+o
+java:S3008Q"SRename this field "BASE_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´›Îi8Şãã¿¼.
+r
+java:S3008z"WRename this field "OrderDoneUrl" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä±Çöıÿÿÿÿ
+M
+java:S1444r"2Make this "public static delete_order" field final(ÍŞ½ùÿÿÿÿ
+p
+java:S1104X"UMake SignUpOtp a static final constant or non-public and provide accessors if needed.(©Ó‰êüÿÿÿÿ
+O
+java:S1444R"2Make this "public static BASE_URL_Map" field final(ñ¹Û 8Ï”Û¿¾.
+l
+java:S1104a"VMake HomeRecent a static final constant or non-public and provide accessors if needed.(‹Ğîª
+k
+java:S3008Z"PRename this field "Login" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍëÎ²üÿÿÿÿ
+p
+java:S3008{"ZRename this field "PendingOrderUrl" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡«Ñª
+J
+java:S1444w"4Make this "public static WALLET_REFRESH" field final(µªñ¿
+t
+java:S3008R"WRename this field "BASE_URL_Map" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ¹Û 8Ï”Û¿¾.
+p
+java:S3008]"URename this field "verify_otp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ü¹Ùşÿÿÿÿ
+q
+java:S3008‚"URename this field "SupportUrl" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì­Öüùÿÿÿÿ
+w
+java:S1104”"YMake GOOGLEMAP_KEY a static final constant or non-public and provide accessors if needed.(’Ê„Ë8Æä¨À.
+J
+java:S1444X"/Make this "public static SignUpOtp" field final(©Ó‰êüÿÿÿÿ
+p
+java:S1104‹"YMake ADD_ORDER_URL a static final constant or non-public and provide accessors if needed.(ãÀ«Õ
+F
+java:S1444Z"+Make this "public static Login" field final(ÍëÎ²üÿÿÿÿ
+n
+java:S1104‡"WMake MinMaxOrder a static final constant or non-public and provide accessors if needed.(¶ª€Ñ
+k
+java:S3008g"URename this field "Categories" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰èÉÓ
+]	java:S125K"<This block of commented-out lines of code should be removed.(¼Ó–úÿÿÿÿÿ8Ï”Û¿¾.
+o
+java:S3008w"YRename this field "WALLET_REFRESH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µªñ¿
+h
+java:S1104d"RMake BANNER a static final constant or non-public and provide accessors if needed.(İõÀ
+L
+java:S1444‚"0Make this "public static SupportUrl" field final(Ì­Öüùÿÿÿÿ
+p
+java:S3008x"ZRename this field "RecharegeWallet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Óğ
+p
+java:S1104`"ZMake HomeTopSelling a static final constant or non-public and provide accessors if needed.(ŸÏˆ
+t
+java:S3008†"XRename this field "OrderContinue" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î€× ıÿÿÿÿ
+J
+java:S1444y"/Make this "public static myprofile" field final(©æõ‚ıÿÿÿÿ
+p
+java:S1104h"ZMake ProductVarient a static final constant or non-public and provide accessors if needed.(ÕïöŠ
+q
+java:S1104{"[Make PendingOrderUrl a static final constant or non-public and provide accessors if needed.(¡«Ñª
+J
+java:S1444`"4Make this "public static HomeTopSelling" field final(ŸÏˆ
+F
+java:S1444g"0Make this "public static Categories" field final(‰èÉÓ
+L
+java:S1444k"1Make this "public static CityListUrl" field final(¯ §øÿÿÿÿ
+p
+java:S1104"TMake whatsnew a static final constant or non-public and provide accessors if needed.(ªÁô¼şÿÿÿÿ
+q
+java:S3008k"VRename this field "CityListUrl" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ §øÿÿÿÿ
+O
+java:S1444†"3Make this "public static OrderContinue" field final(î€× ıÿÿÿÿ
+m
+java:S3008‡"VRename this field "MinMaxOrder" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ª€Ñ
+t
+java:S3008T"WRename this field "BANN_IMG_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜¶‡ü8¢½Äˆ¶.
+I
+java:S1444".Make this "public static TermsUrl" field final(¸ÇÏ­úÿÿÿÿ
+I
+java:S1444"2Make this "public static apply_coupon" field final(¸®Á¨
+N
+java:S1444•"0Make this "public static MAPBOX_KEY" field final(ùôß8Æä¨À.
+w
+java:S1104o"\Make SelectAddressURL a static final constant or non-public and provide accessors if needed.(‘ì•çûÿÿÿÿ
+j
+java:S1104b"TMake HomeDeal a static final constant or non-public and provide accessors if needed.(Çİı
+n	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(îîŒ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±¤±ªÿÿÿÿÿ
+m
+java:S1104m"WMake Add_address a static final constant or non-public and provide accessors if needed.(®ÔÒ¼
+G
+java:S1444~",Make this "public static topsix" field final(Ğ¯øÿÿÿÿ
+p
+java:S1104Q"TMake BASE_URL a static final constant or non-public and provide accessors if needed.(´›Îi8Şãã¿¼.
+o
+java:S1104"TMake TermsUrl a static final constant or non-public and provide accessors if needed.(¸ÇÏ­úÿÿÿÿ
+v
+java:S1104‘"ZMake updatenotifyby a static final constant or non-public and provide accessors if needed.(öÍÓ¾ùÿÿÿÿ
+o
+java:S3008h"YRename this field "ProductVarient" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕïöŠ
+o
+java:S3008‹"XRename this field "ADD_ORDER_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÀ«Õ
+l
+java:S3008…"VRename this field "cat_product" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç’
+F
+java:S1444p"1Make this "public static EditAddress" field final(Ú³‡.
+k
+java:S3008a"URename this field "HomeRecent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹Ğîª
+M
+java:S1444’"1Make this "public static currencyApi" field final(‰¥àüÿÿÿÿ
+O
+java:S1444T"2Make this "public static BANN_IMG_URL" field final(˜¶‡ü8¢½Äˆ¶.
+Q
+java:S1444q"6Make this "public static DELETE_ORDER_URL" field final(ÇÜƒßøÿÿÿÿ
+~
+java:S3008"bRename this field "delete_all_notification" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÔ´ıÿÿÿÿ
+J
+java:S1444h"4Make this "public static ProductVarient" field final(ÕïöŠ
+J
+java:S1444‹"3Make this "public static ADD_ORDER_URL" field final(ãÀ«Õ
+r
+java:S3008Œ"VRename this field "COUPON_CODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·¹ÚÏùÿÿÿÿ
+K
+java:S1444{"5Make this "public static PendingOrderUrl" field final(¡«Ñª

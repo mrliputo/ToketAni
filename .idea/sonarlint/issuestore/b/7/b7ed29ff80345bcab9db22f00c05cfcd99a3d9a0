@@ -1,0 +1,67 @@
+
+M
+java:S1066ÿ"/Merge this if statement with the enclosing one.(„÷µÀ8Êü¥û¹.
+w
+java:S14501"ZRemove the "countryFlag" field and declare it as a local variable in the relevant methods.(öã‹»8©ö©Ì¹.
+@
+java:S1659'"%Declare "etPhone" on a separate line.(Îà«øÿÿÿÿ
+s	java:S117Ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İŞ–ñùÿÿÿÿ8Êü¥û¹.
+^	java:S125§"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8Êü¥û¹.
+u	java:S116-"TRename this field "flag_view" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó”Ä¥úÿÿÿÿ8õœ¢Ì¹.
+@
+java:S1659'"%Declare "etEmail" on a separate line.(Îà«øÿÿÿÿ
+T
+java:S1874F"2Remove this use of "setMessage"; it is deprecated.(ñËÄİÿÿÿÿÿ8õœ¢Ì¹.
+~	java:S116/"]Rename this field "session_management" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«éØíüÿÿÿÿ8åå¡Ì¹.
+g
+java:S1192"KDefine a constant instead of duplicating this literal "user_email" 3 times.(Çö‚–ÿÿÿÿÿ
+l	java:S117¹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çö‚–ÿÿÿÿÿ
+S
+java:S1874*"6Remove this use of "ProgressDialog"; it is deprecated.(ğİıº8õœ¢Ì¹.
+F
+java:S1604"(Make this anonymous inner class a lambda(ı°½û8Êü¥û¹.
+L
+java:S10681"/Remove this unused "countryFlag" private field.(öã‹»8©ö©Ì¹.
+^	java:S125¥"<This block of commented-out lines of code should be removed.(‘£éòÿÿÿÿÿ8Êü¥û¹.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘âìÜüÿÿÿÿ
+8
+java:S1659+"#Declare "token" on a separate line.(È«¤@
+S
+java:S1481½"0Remove this unused "is_verified" local variable.(šÑË•ûÿÿÿÿ8Êü¥û¹.
+X	java:S125`"<This block of commented-out lines of code should be removed.(İ“¤®8‡ø¨û¹.
+_
+java:S1874÷"<Remove this use of "getActiveNetworkInfo"; it is deprecated.(ˆÛ¡Çøÿÿÿÿ8Êü¥û¹.
+b
+java:S1854£"?Remove this useless assignment to local variable "is_verified".(šÑË•ûÿÿÿÿ8Êü¥û¹.
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çö‚–ÿÿÿÿÿ
+?
+java:S1659'"$Declare "etPAss" on a separate line.(Îà«øÿÿÿÿ
+X	java:S125I"<This block of commented-out lines of code should be removed.(î‘©õ8õœ¢Ì¹.
+u	java:S116."TRename this field "country_c" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£½Àãıÿÿÿÿ8åå¡Ì¹.
+_
+java:S1874÷"<Remove this use of "getActiveNetworkInfo"; it is deprecated.(ˆÛ¡Çøÿÿÿÿ8Êü¥û¹.
+b
+java:S1854½"?Remove this useless assignment to local variable "is_verified".(šÑË•ûÿÿÿÿ8Êü¥û¹.
+Y	java:S125€"<This block of commented-out lines of code should be removed.(‰ÄÒÿ8ââ¥û¹.
+g
+java:S1192Ÿ"KDefine a constant instead of duplicating this literal "user_phone" 3 times.(İŞ–ñùÿÿÿÿ
+X
+java:S1874E"6Remove this use of "ProgressDialog"; it is deprecated.(Ï±ãœùÿÿÿÿ8õœ¢Ì¹.
+m	java:S117·"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ŒÚd8Êü¥û¹.
+s	java:S117£"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÑË•ûÿÿÿÿ8Êü¥û¹.
+m	java:S117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ŒÚd8Êü¥û¹.
+l
+java:S1192 "NDefine a constant instead of duplicating this literal "user_password" 3 times.(…¢›8Êü¥û¹.
+s	java:S117º"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İŞ–ñùÿÿÿÿ8Êü¥û¹.
+Y	java:S125­"<This block of commented-out lines of code should be removed.(ò´ü›8Êü¥û¹.
+V
+java:S1874÷"3Remove this use of "isConnected"; it is deprecated.(ˆÛ¡Çøÿÿÿÿ8Êü¥û¹.
+Y	java:S125‚"<This block of commented-out lines of code should be removed.(¡Õ±š8ââ¥û¹.
+Q	java:S110%"<This class has 9 parents which is greater than 5 authorized.(˜£‡
+g
+java:S1192œ"JDefine a constant instead of duplicating this literal "user_name" 3 times.(³ŒÚd8Êü¥û¹.
+s	java:S117¡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß•ÿËúÿÿÿÿ8Êü¥û¹.
+W	java:S1254"<This block of commented-out lines of code should be removed.(©Ğê8õœ¢Ì¹.
+s	java:S117½"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÑË•ûÿÿÿÿ8Êü¥û¹.
+S
+java:S1481£"0Remove this unused "is_verified" local variable.(šÑË•ûÿÿÿÿ8Êü¥û¹.

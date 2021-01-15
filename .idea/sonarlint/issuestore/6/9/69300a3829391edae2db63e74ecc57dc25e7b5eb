@@ -1,0 +1,100 @@
+
+^	java:S125ì"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8şÖ•õ¹.
+Y	java:S125ª"<This block of commented-out lines of code should be removed.(ù İ¤8–ˆ—õ¹.
+X
+java:S1874N"6Remove this use of "ProgressDialog"; it is deprecated.(¿Ú•ğúÿÿÿÿ8¸ù¡ª¹.
+Y	java:S125•"<This block of commented-out lines of code should be removed.(Õ›ÆÖ8–ˆ—õ¹.
+=
+java:S16596"!Declare "qty" on a separate line.(‹òÿM8¸ù¡ª¹.
+j	java:S1168"URename this field "product_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍšÌ‘
+V
+java:S1874’"3Remove this use of "isConnected"; it is deprecated.(ˆÛ¡Çøÿÿÿÿ8–ˆ—õ¹.
+G
+java:S16596"+Declare "discription12" on a separate line.(‹òÿM8¸ù¡ª¹.
+@
+java:S16596"$Declare "unit12" on a separate line.(‹òÿM8¸ù¡ª¹.
+A
+java:S16594"$Declare "nodata" on a separate line.(²Çü•8¸ù¡ª¹.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘âìÜüÿÿÿÿ
+q	java:S1162"URename this field "ll_addQuan" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÌ•£8¸ù¡ª¹.
+Y	java:S125ß"<This block of commented-out lines of code should be removed.(¶¹¦Å8–ˆ—õ¹.
+9
+java:S16595"#Declare "minus" on a separate line.(ğ¬ç½
+Y	java:S125‹"<This block of commented-out lines of code should be removed.(—¹á8–ˆ—õ¹.
+?
+java:S16596"#Declare "mrp12" on a separate line.(‹òÿM8¸ù¡ª¹.
+q	java:S1162"URename this field "ll_details" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÌ•£8¸ù¡ª¹.
+h	java:S1165"SRename this field "txt_unit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ¬ç½
+n	java:S1162"RRename this field "btn_Add" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÌ•£8¸ù¡ª¹.
+X	java:S125æ"<This block of commented-out lines of code should be removed.(Ï­U8–ˆ—õ¹.
+T
+java:S1874O"2Remove this use of "setMessage"; it is deprecated.(ñËÄİÿÿÿÿÿ8şÖ•õ¹.
+p	java:S1164"TRename this field "ProdPrice" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²Çü•8¸ù¡ª¹.
+Y	java:S125î"<This block of commented-out lines of code should be removed.(¡Õ±š8–ˆ—õ¹.
+S
+java:S18747"6Remove this use of "ProgressDialog"; it is deprecated.(ğİıº8¸ù¡ª¹.
+E
+java:S16592"(Declare "ll_addQuan" on a separate line.(âÌ•£8¸ù¡ª¹.
+¤
+java:S1186½"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ö èşÿÿÿÿ8–ˆ—õ¹.
+B
+java:S16594"%Declare "prodMrp" on a separate line.(²Çü•8¸ù¡ª¹.
+}
+java:S1450>"[Remove the "recyclerUnit" field and declare it as a local variable in the relevant methods.(ÔÍÏÀıÿÿÿÿ8¢°‘õ¹.
+Y	java:S125›"<This block of commented-out lines of code should be removed.(êÇïâ8–ˆ—õ¹.
+Y	java:S125Ø"<This block of commented-out lines of code should be removed.(¤¢ñú8–ˆ—õ¹.
+g	java:S1165"RRename this field "txt_qty" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ¬ç½
+j	java:S1168"URename this field "varient_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍšÌ‘
+X	java:S125Æ"<This block of commented-out lines of code should be removed.(“¸¸i8–ˆ—õ¹.
+;
+java:S16595"%Declare "txt_qty" on a separate line.(ğ¬ç½
+Y	java:S125Ë"<This block of commented-out lines of code should be removed.(²²ˆÄ8–ˆ—õ¹.
+q
+java:S1450?"TRemove the "stock" field and declare it as a local variable in the relevant methods.(ÿÌÀÛ8¸ù¡ª¹.
+^	java:S125°"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8–ˆ—õ¹.
+^	java:S125ü"<This block of commented-out lines of code should be removed.(ûöÊîıÿÿÿÿ8–ˆ—õ¹.
+_
+java:S1874’"<Remove this use of "getActiveNetworkInfo"; it is deprecated.(ˆÛ¡Çøÿÿÿÿ8–ˆ—õ¹.
+Y	java:S125ı"<This block of commented-out lines of code should be removed.(¤¢ñú8–ˆ—õ¹.
+Y	java:S125ˆ"<This block of commented-out lines of code should be removed.(Ö®€º8–ˆ—õ¹.
+C
+java:S16594"&Declare "prodDesc" on a separate line.(²Çü•8¸ù¡ª¹.
+8
+java:S16595""Declare "plus" on a separate line.(ğ¬ç½
+D
+java:S16592"'Declare "outofs_in" on a separate line.(âÌ•£8¸ù¡ª¹.
+^	java:S125ù"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8–ˆ—õ¹.
+^	java:S125ú"<This block of commented-out lines of code should be removed.(ƒûÉúÿÿÿÿ8–ˆ—õ¹.
+^	java:S125‚"<This block of commented-out lines of code should be removed.(±ÕÙÙüÿÿÿÿ8–ˆ—õ¹.
+Y	java:S125­"<This block of commented-out lines of code should be removed.(¡Õ±š8–ˆ—õ¹.
+B
+java:S16592"%Declare "btn_Add" on a separate line.(âÌ•£8¸ù¡ª¹.
+O
+java:S1602¢",Remove useless curly braces around statement(ËÕ£Õúÿÿÿÿ8ÓË˜õ¹.
+n
+java:S1192½"KDefine a constant instead of duplicating this literal "varient_id" 4 times.(Ü§¯ûúÿÿÿÿ8–ˆ—õ¹.
+^	java:S125‰"<This block of commented-out lines of code should be removed.(şüèÌûÿÿÿÿ8–ˆ—õ¹.
+^	java:S125ÿ"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8–ˆ—õ¹.
+<
+java:S16595"&Declare "txt_unit" on a separate line.(ğ¬ç½
+A
+java:S16592"$Declare "outofs" on a separate line.(âÌ•£8¸ù¡ª¹.
+A
+java:S16596"%Declare "price12" on a separate line.(‹òÿM8¸ù¡ª¹.
+F
+java:S16596"*Declare "varientimage" on a separate line.(‹òÿM8¸ù¡ª¹.
+_
+java:S1874’"<Remove this use of "getActiveNetworkInfo"; it is deprecated.(ˆÛ¡Çøÿÿÿÿ8–ˆ—õ¹.
+Y	java:S125Î"<This block of commented-out lines of code should be removed.(›†™Õ8–ˆ—õ¹.
+E
+java:S16592"(Declare "ll_details" on a separate line.(âÌ•£8¸ù¡ª¹.
+D
+java:S16594"'Declare "ProdPrice" on a separate line.(²Çü•8¸ù¡ª¹.
+x
+java:S3923È"[Remove this conditional structure or edit its code blocks so that they're not all the same.(øæâq8–ˆ—õ¹.
+>
+java:S16598"(Declare "varient_id" on a separate line.(ÍšÌ‘
+X	java:S1100"<This class has 9 parents which is greater than 5 authorized.(çãØŒ8¸ù¡ª¹.
+p	java:S1162"TRename this field "outofs_in" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÌ•£8¸ù¡ª¹.
+~	java:S116<"]Rename this field "session_management" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«éØíüÿÿÿÿ8¸ù¡ª¹.
+k	java:S100ç"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğŸ‹™8–ˆ—õ¹.

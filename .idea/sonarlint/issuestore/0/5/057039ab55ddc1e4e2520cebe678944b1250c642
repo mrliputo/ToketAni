@@ -1,0 +1,35 @@
+
+o	java:S1001"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó«¢©ûÿÿÿÿ8èï¥Ü·.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üöñ8í¯Ü·.
+j	java:S100A"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äöì¾8èï¥Ü·.
+s	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â„«úÿÿÿÿ8â¢©Ü·.
+o	java:S1009"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óçäøÿÿÿÿ8èï¥Ü·.
+k	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿŠ¥ê8â¢©Ü·.
+p	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â„«úÿÿÿÿ8â¢©Ü·.
+o	java:S100a"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ì¼¤øÿÿÿÿ8èï¥Ü·.
+r	java:S117e"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø«˜¤ùÿÿÿÿ8í¯Ü·.
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÆçš8èï¥Ü·.
+y	java:S116"XRename this field "product_image" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß¨ıãıÿÿÿÿ8×ëˆÜ·.
+o	java:S100e"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø«˜¤ùÿÿÿÿ8èï¥Ü·.
+k	java:S100‰"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÅì©8â¢©Ü·.
+j	java:S100…"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùä¬D8â¢©Ü·.
+l	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÀ€$8í¯Ü·.
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üöñ8èï¥Ü·.
+r	java:S117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„Şÿıÿÿÿÿÿ8í¯Ü·.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ôä¯’ûÿÿÿÿ
+t	java:S116"XRename this field "varient_image" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ“­8Ù¡ŠÜ·.
+o	java:S116"SRename this field "store_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î¤óÉ8Ä–‡Ü·.
+v	java:S116
+"URename this field "product_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÅÛÏøÿÿÿÿ8ß˜ˆÜ·.
+t	java:S116"SRename this field "valid_to" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê¦ìøıÿÿÿÿ8†Ñ¤Ü·.
+o	java:S100="NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜°”•üÿÿÿÿ8èï¥Ü·.
+o	java:S100E"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„Şÿıÿÿÿÿÿ8èï¥Ü·.
+i	java:S1005"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÀ€$8èï¥Ü·.
+v	java:S116"URename this field "valid_from" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôŸŠºûÿÿÿÿ8¼¥Ü·.
+m	java:S117…"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùä¬D8â¢©Ü·.
+q	java:S116	"URename this field "varient_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñçÿé8®ã‡Ü·.
+j	java:S100-"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆƒÕâ8èï¥Ü·.
+m	java:S117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆƒÕâ8í¯Ü·.
+r	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜°”•üÿÿÿÿ8í¯Ü·.
+s	java:S116"WRename this field "product_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’©œÙ8ó½ˆÜ·.
+o	java:S100)"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Éñ’øÿÿÿÿ8èï¥Ü·.

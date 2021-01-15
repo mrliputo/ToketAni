@@ -1,0 +1,7 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»ûÛš
+i	java:S116I"TRename this field "month_txt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬š®ß
+m	java:S116J"SRename this field "date_txt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÇ‡’úÿÿÿÿ
+g	java:S116K"RRename this field "day_txt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡²
+@
+java:S1068"+Remove this unused "context" private field.(êİç

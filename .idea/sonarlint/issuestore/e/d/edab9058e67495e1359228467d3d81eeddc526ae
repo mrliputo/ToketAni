@@ -1,0 +1,36 @@
+
+l
+java:S1192u"JDefine a constant instead of duplicating this literal "connected" 4 times.(İ¬Àçøÿÿÿÿ8ÙîÅ‘¶.
+Q
+java:S1874Ï"3Remove this use of "SettingsApi"; it is deprecated.(ğ½û8ÙîÅ‘¶.
+D	java:S131é""Add a default case to this switch.(×ö³–úÿÿÿÿ8ÙîÅ‘¶.
+M
+java:S1874"/Remove this use of "Handler"; it is deprecated.(„ÑñŒ8ĞŠçÃ½.
+[
+java:S1124-"EReorder the modifiers to comply with the Java Language Specification.(¨öáº
+7
+java:S1170+"!Make this final field static too.(®äùÆ
+Š
+java:S3252Ô"gUse static access with "com.google.android.gms.common.api.CommonStatusCodes" for "RESOLUTION_REQUIRED".(®â§èøÿÿÿÿ8ÙîÅ‘¶.
+i
+java:S1301ì"KReplace this "switch" statement by "if" statements to increase readability.(•öÀø8ÙîÅ‘¶.
+l
+java:S1192{"JDefine a constant instead of duplicating this literal "suspended" 4 times.(ù¡éÊıÿÿÿÿ8ÙîÅ‘¶.
+D
+java:S1604"(Make this anonymous inner class a lambda(’¿´;8ÙîÅ‘¶.
+d
+java:S2184Ç"FCast one of the operands of this multiplication operation to a "long".(åŞÖé8ÙîÅ‘¶.
+n
+java:S1301é"KReplace this "switch" statement by "if" statements to increase readability.(×ö³–úÿÿÿÿ8ÙîÅ‘¶.
+?	java:S131ì""Add a default case to this switch.(•öÀø8ÙîÅ‘¶.
+r	java:S116/"]Rename this field "session_management" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÒéß
+^	java:S125Û"<This block of commented-out lines of code should be removed.(‰ÂÁÑÿÿÿÿÿ8ÙîÅ‘¶.
+\
+java:S2184È"FCast one of the operands of this multiplication operation to a "long".(ËºÖ6
+T
+java:S1144n"7Remove this unused private "openDialogFunction" method.(ğÚÁÊ8ÙîÅ‘¶.
+F
+java:S1604"(Make this anonymous inner class a lambda(„ÑñŒ8ÙîÅ‘¶.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘âìÜüÿÿÿÿ
+u	java:S116+"`Rename this field "SPLASH_DISPLAY_LENGTH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®äùÆ
+Q	java:S110*"<This class has 9 parents which is greater than 5 authorized.(†ÕÉ¶

@@ -1,0 +1,95 @@
+
+^	java:S125Ñ"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8á¦í¨¹.
+Y	java:S125"<This block of commented-out lines of code should be removed.(®ƒ÷8ï‘ğ¨¹.
+|	java:S116ø"_Rename this field "currency_indicator_2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©²ß¨8ï‘ğ¨¹.
+A
+java:S1659ø"#Declare "pQuan" on a separate line.(©²ß¨8ï‘ğ¨¹.
+n
+java:S1104ø"PMake pMrp a static final constant or non-public and provide accessors if needed.(©²ß¨8ï‘ğ¨¹.
+^	java:S125¦"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8á¦í¨¹.
+v
+java:S1104ø"XMake pdiscountOff a static final constant or non-public and provide accessors if needed.(©²ß¨8ï‘ğ¨¹.
+X	java:S125Ñ"<This block of commented-out lines of code should be removed.(ò¼28ï‘ğ¨¹.
+n
+java:S1192Ò"KDefine a constant instead of duplicating this literal "varient_id" 3 times.(œı¦ıÿÿÿÿ8ï‘ğ¨¹.
+Y	java:S125Ø"<This block of commented-out lines of code should be removed.(¡ÕÄ¹8ï‘ğ¨¹.
+~	java:S116-"]Rename this field "session_management" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«éØíüÿÿÿÿ8ôå›İ·.
+¤
+java:S1186½"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ğ¸™áúÿÿÿÿ8ï‘ğ¨¹.
+s
+java:S1104ø"UMake pDescrptn a static final constant or non-public and provide accessors if needed.(©²ß¨8ï‘ğ¨¹.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»ûÛš
+X	java:S125{"<This block of commented-out lines of code should be removed.(ÑÁÿª8ôå›İ·.
+^	java:S125’"<This block of commented-out lines of code should be removed.(ôÁâşÿÿÿÿ8ï‘ğ¨¹.
+t	java:S116'"XRename this field "recyler_popup" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÂÀä8ôå›İ·.
+C
+java:S1659ø"%Declare "txtQuan" on a separate line.(©²ß¨8ï‘ğ¨¹.
+F
+java:S1659ú"(Declare "ll_addQuan" on a separate line.(†¶‹Ù8ï‘ğ¨¹.
+B
+java:S1659ú"$Declare "outofs" on a separate line.(†¶‹Ù8ï‘ğ¨¹.
+B
+java:S1659ø"$Declare "pPrice" on a separate line.(©²ß¨8ï‘ğ¨¹.
+q
+java:S1104ø"SMake txtQuan a static final constant or non-public and provide accessors if needed.(©²ß¨8ï‘ğ¨¹.
+q	java:S116)"URename this field "varient_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ğ¼8ôå›İ·.
+^	java:S125ª"<This block of commented-out lines of code should be removed.(ÛÇúÉùÿÿÿÿ8ï‘ğ¨¹.
+N
+java:S1659ø"0Declare "currency_indicator" on a separate line.(©²ß¨8ï‘ğ¨¹.
+H
+java:S1659ı"%Declare "catName" on a separate line.(å¼ ÷ıÿÿÿÿ8ï‘ğ¨¹.
+H
+java:S1659ø"*Declare "pdiscountOff" on a separate line.(©²ß¨8ï‘ğ¨¹.
+@
+java:S1659ø""Declare "plus" on a separate line.(©²ß¨8ï‘ğ¨¹.
+X	java:S125Ç"<This block of commented-out lines of code should be removed.(‡ò-8ï‘ğ¨¹.
+q	java:S116)"URename this field "product_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ğ¼8ôå›İ·.
+X	java:S1250"<This block of commented-out lines of code should be removed.(®òÆ»8İŞ·.
+o
+java:S1104ø"QMake minus a static final constant or non-public and provide accessors if needed.(©²ß¨8ï‘ğ¨¹.
+q	java:S116ú"TRename this field "outofs_in" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†¶‹Ù8ï‘ğ¨¹.
+|
+java:S1104ø"^Make currency_indicator a static final constant or non-public and provide accessors if needed.(©²ß¨8ï‘ğ¨¹.
+^	java:S125¡"<This block of commented-out lines of code should be removed.(Ü³“æÿÿÿÿÿ8ï‘ğ¨¹.
+p
+java:S1104ø"RMake pPrice a static final constant or non-public and provide accessors if needed.(©²ß¨8ï‘ğ¨¹.
+Y	java:S125›"<This block of commented-out lines of code should be removed.(Ş¸¡Î8Í¯ğ¨¹.
+A
+java:S1659ø"#Declare "minus" on a separate line.(©²ß¨8ï‘ğ¨¹.
+@
+java:S1659ø""Declare "pMrp" on a separate line.(©²ß¨8ï‘ğ¨¹.
+n
+java:S1104ø"PMake plus a static final constant or non-public and provide accessors if needed.(©²ß¨8ï‘ğ¨¹.
+r	java:S116ú"URename this field "ll_addQuan" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†¶‹Ù8ï‘ğ¨¹.
+P
+java:S1659ø"2Declare "currency_indicator_2" on a separate line.(©²ß¨8ï‘ğ¨¹.
+Y	java:S125«"<This block of commented-out lines of code should be removed.(®ƒ÷8ï‘ğ¨¹.
+\
+java:S1117ï"?Rename "preferences" which hides the field declared at line 37.(îóÖ8ï‘ğ¨¹.
+P
+java:S1068."3Remove this unused "varientProducts" private field.(ƒ×òÒ8ôå›İ·.
+O
+java:S1144¶",Remove this unused private "display" method.(øíßıÿÿÿÿ8ï‘ğ¨¹.
+N
+java:S1068,",Remove this unused "cartList" private field.(€Ù—äúÿÿÿÿ8²–€Ş·.
+]	java:S1256"<This block of commented-out lines of code should be removed.(éùªùüÿÿÿÿ8İŞ·.
+~
+java:S1104ø"`Make currency_indicator_2 a static final constant or non-public and provide accessors if needed.(©²ß¨8ï‘ğ¨¹.
+o	java:S116ú"RRename this field "btn_Add" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†¶‹Ù8ï‘ğ¨¹.
+E
+java:S1659)"(Declare "product_id" on a separate line.(¿ğ¼8ôå›İ·.
+Y	java:S125”"<This block of commented-out lines of code should be removed.(®ƒ÷8ï‘ğ¨¹.
+<
+java:S1170$"!Make this final field static too.(‡ä¢ ûÿÿÿÿ
+^	java:S125Â"<This block of commented-out lines of code should be removed.(ı¾éÜùÿÿÿÿ8ï‘ğ¨¹.
+E
+java:S1659ø"'Declare "pDescrptn" on a separate line.(©²ß¨8ï‘ğ¨¹.
+E
+java:S1659ú"'Declare "outofs_in" on a separate line.(†¶‹Ù8ï‘ğ¨¹.
+o
+java:S1104ø"QMake pQuan a static final constant or non-public and provide accessors if needed.(©²ß¨8ï‘ğ¨¹.
+z	java:S116ø"]Rename this field "currency_indicator" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©²ß¨8ï‘ğ¨¹.
+x
+java:S3923ä"[Remove this conditional structure or edit its code blocks so that they're not all the same.(øæâq8ï‘ğ¨¹.
+r
+java:S1104ø"TMake prodNAme a static final constant or non-public and provide accessors if needed.(©²ß¨8ï‘ğ¨¹.

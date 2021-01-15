@@ -1,0 +1,16 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»ûÛš
+x
+java:S1104}"VMake topSelling a static final constant or non-public and provide accessors if needed.(ç¶í‡ùÿÿÿÿ8Ç¿‰İ·.
+;
+java:S1700k"Rename field "topSelling"(ç¶í‡ùÿÿÿÿ8Œ–‡İ·.
+x
+java:S1104t"VMake topSelling a static final constant or non-public and provide accessors if needed.(ç¶í‡ùÿÿÿÿ8Ç¿‰İ·.
+u
+java:S2637-"XThis method's return value is marked "androidx.annotation.NonNull" but null is returned.(¥¹ï8±ğÃÛ·.
+Q
+java:S3740"/Provide the parametrized type for this generic.(ô¸â×úÿÿÿÿ8ø½ÃÛ·.
+x
+java:S1104k"VMake topSelling a static final constant or non-public and provide accessors if needed.(ç¶í‡ùÿÿÿÿ8Œ–‡İ·.
+y
+java:S1104†"VMake topSelling a static final constant or non-public and provide accessors if needed.(ç¶í‡ùÿÿÿÿ8°±Šİ·.
