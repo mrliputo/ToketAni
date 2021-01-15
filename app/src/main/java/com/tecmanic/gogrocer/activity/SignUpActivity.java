@@ -74,6 +74,7 @@ public class SignUpActivity extends AppCompatActivity {
         } else {
             progressBar.setVisibility(View.VISIBLE);
         }
+        progressBar.setVisibility(View.GONE);
     }
 
     @Override
@@ -181,8 +182,10 @@ public class SignUpActivity extends AppCompatActivity {
     private void signUpUrl() {
 
         if (token != null && !token.equalsIgnoreCase("")) {
+            System.out.println("disini hit service");
             hitService();
         } else {
+            System.out.println("disini hit tidak service");
             FirebaseInstanceId.getInstance().getInstanceId()
                     .addOnCompleteListener(task -> {
                         if (task.isSuccessful() && task.getResult() != null) {
@@ -200,6 +203,7 @@ public class SignUpActivity extends AppCompatActivity {
     private void hitService() {
         StringRequest stringRequest = new StringRequest(Request.Method.POST, SIGN_UP, response -> {
             try {
+                System.out.println("disinii : "+ response);
                 JSONObject jsonObject = new JSONObject(response);
                 String status = jsonObject.getString("status");
                 String msg = jsonObject.getString("message");

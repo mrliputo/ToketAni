@@ -68,8 +68,8 @@ public class BaseURL {
     public static final String CITY_ID = "CITY_ID";
     public static final String STORE_ID = "STORE_ID";
     public static final String APP_NAME = "GoGrocer";
-//    public static final String BASE_URL = "https://gogrocer.tecmanic.com/api/";
-    public static final String BASE_URL = "https://gogrocer.tecmanic.com/api/";
+//    public static final String BASE_URL = "http://betabookapp.96.lt/toketani/api/";
+    public static final String BASE_URL = "http://betabookapp.96.lt/toketani/api/";
     public static final String BASE_URL_MAP = BASE_URL;
     public static final String IMG_URL = "https://gogrocer.tecmanic.com/";
     public static final String BANN_IMG_URL = IMG_URL;

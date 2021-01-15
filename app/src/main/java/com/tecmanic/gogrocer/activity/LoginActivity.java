@@ -67,11 +67,13 @@ public class LoginActivity extends AppCompatActivity {
     private LinearLayout progressBar;
 
     private void show() {
+//        progressBar.setVisibility(View.GONE);
         if (progressBar.getVisibility() == View.VISIBLE) {
             progressBar.setVisibility(View.GONE);
         } else {
             progressBar.setVisibility(View.VISIBLE);
         }
+        progressBar.setVisibility(View.GONE);
     }
 
     @Override
@@ -136,6 +138,7 @@ public class LoginActivity extends AppCompatActivity {
             } else if (!isOnline()) {
                 Toast.makeText(getApplicationContext(), "Please check your Internet Connection!", Toast.LENGTH_SHORT).show();
             } else {
+                System.out.println("disini 139");
                 show();
                 loginUrl();
             }
@@ -162,6 +165,7 @@ public class LoginActivity extends AppCompatActivity {
     private void hitService() {
         StringRequest stringRequest = new StringRequest(Request.Method.POST, LOGIN, response -> {
             try {
+                System.out.println(response);
                 JSONObject jsonObject = new JSONObject(response);
                 String status = jsonObject.getString("status");
                 String msg = jsonObject.getString("message");
@@ -185,6 +189,7 @@ public class LoginActivity extends AppCompatActivity {
                         Intent intent = new Intent(getApplicationContext(), MainActivity.class);
                         startActivity(intent);
                         Toast.makeText(getApplicationContext(), msg, Toast.LENGTH_SHORT).show();
+
                         finish();
 
                     }
@@ -196,6 +201,7 @@ public class LoginActivity extends AppCompatActivity {
             } catch (JSONException e) {
                 e.printStackTrace();
             } finally {
+                System.out.println("disini 201");
                 show();
             }
         }, error -> show()) {
@@ -232,6 +238,7 @@ public class LoginActivity extends AppCompatActivity {
     }
 
     private void checkOtpStatus() {
+        System.out.println("disini 238");
         show();
         Retrofit emailOtp = new Retrofit.Builder()
                 .baseUrl(BaseURL.BASE_URL)
@@ -324,11 +331,13 @@ public class LoginActivity extends AppCompatActivity {
                     }
 
                 }
+                System.out.println("disini 332");
                 show();
             }
 
             @Override
             public void onFailure(@NonNull Call<CountryCodeModel> call, @NonNull Throwable t) {
+                System.out.println("disini 337");
                 show();
             }
         });

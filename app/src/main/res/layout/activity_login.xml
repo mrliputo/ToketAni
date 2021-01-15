@@ -133,7 +133,7 @@
                         android:gravity="center|left"
                         android:hint="Enter User ID"
                         android:inputType="phone"
-                        android:maxLength="10"
+                        android:maxLength="15"
                         android:maxLines="1"
                         android:paddingLeft="5dp"
                         android:textColor="@color/black"

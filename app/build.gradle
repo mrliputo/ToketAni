@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 30
     defaultConfig {
-        applicationId "com.gogroceruser.app"
+        applicationId "com.mrliputo.toketani"
         minSdkVersion 19
         targetSdkVersion 30
         versionCode 1
