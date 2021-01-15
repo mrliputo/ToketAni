@@ -29,7 +29,7 @@ public class AboutUs extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_about_us);
-        setTitle("About us");
+        setTitle("Tentang us");
         TextView tvInfo = findViewById(R.id.tv_info);
         if (ConnectivityReceiver.isConnected()) {
             makeGetInfoRequest(tvInfo);
