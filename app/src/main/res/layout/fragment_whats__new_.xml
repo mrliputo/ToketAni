@@ -33,7 +33,7 @@
         android:textStyle="bold"
         android:textColor="@color/white"
         android:textSize="17dp"
-        android:background="@color/orange"/>
+        android:background="#3c9658"/>
 
     <RelativeLayout
         android:visibility="gone"
@@ -44,7 +44,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textColor="@color/orange"
+            android:textColor="#3c9658"
             android:textSize="20sp"
             android:text="No Deal Today"
             android:gravity="center"/>

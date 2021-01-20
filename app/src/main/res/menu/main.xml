@@ -19,11 +19,11 @@
         <!--app:showAsAction="always"-->
         <!--/>-->
 
-    <item
+    <!--<item
         android:id="@+id/action_cart"
         android:actionLayout="@layout/menu_cart_layout"
         android:icon="@drawable/ic_cart"
         android:title="@string/nav_home"
         app:icon="@drawable/ic_cart"
-        app:showAsAction="ifRoom" />
+        app:showAsAction="ifRoom" />-->
 </menu>

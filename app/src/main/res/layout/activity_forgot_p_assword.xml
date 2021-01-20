@@ -115,7 +115,7 @@
                     android:textSize="17sp"
                     android:textColor="@color/white"
                     android:background="@drawable/rounded_shape"
-                    android:backgroundTint="@color/orange"
+                    android:backgroundTint="#3c9658"
                     android:fontFamily="@font/opensans_bold"></Button>
 
 

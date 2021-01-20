@@ -24,7 +24,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="57dp"
                 android:layout_gravity="bottom"
-                android:background="@color/orange"
+                android:background="#3c9658"
                 android:gravity="bottom">
 
                 <LinearLayout
@@ -71,7 +71,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="48dp"
                     android:layout_gravity="center"
-                    android:background="@color/orange"
+                    android:background="#3c9658"
                     android:gravity="center">
 
                     <TextView

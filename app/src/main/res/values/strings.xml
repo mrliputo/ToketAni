@@ -1,7 +1,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="app_name" tools:ignore="PrivateResource">GoGrocer</string>
+    <string name="app_name" tools:ignore="PrivateResource">toketani</string>
     <!--    <string name="app_name">Heritage Food</string>-->
-    <string name="currency" translatable="false">\u20B9</string>
+    <string name="currency" translatable="false">Rp.</string>
     <string name="emptyCart">NO items in the cart</string>
     <string name="tv_order_rs">Rs.</string>
     <string name="tv_order_qty">Qty</string>
@@ -33,17 +33,13 @@
     <string name="map_api_key">AIzaSyBvTaVufSFg8S4Buq1d0KzYZMDW_qd0L7Q</string>
 
     <string name="home_second">Home Second</string>
-    <string name="status_stop">Powered By <font color="#f7941e">GoGrocer</font></string>
+    <string name="status_stop">Powered By <font color="#f7941e">toketani</font></string>
     <string name="nav_terms" translatable="false">Terms &amp; Privacy</string>
     <string name="cart" translatable="false">Cart</string>
-    <string-array name="selectAction">
-        <item>Resend OTP</item>
-        <item>Enter OTP Manually</item>
-    </string-array>
-
     <string name="selected_place_info">Selected location information:\n%1$s</string>
 
     <string name="nav_home" translatable="false">Shop Now</string>
+
     <string name="outOfStock" translatable="false">Out of stock</string>
     <string name="nav_chat" translatable="false">Chat With Us</string>
     <string name="nav_user" translatable="false">User</string>
@@ -61,6 +57,7 @@
     <string name="btn_continue" translatable="false">Continue</string>
     <string name="btn_Register" translatable="false">Register</string>
     <string name="mapbox_access_token">pk.eyJ1IjoidGVjbWFuaWMiLCJhIjoiY2tkbzk4czBqMGh2czJ4dGEyZHE2emhhcSJ9.z68ISkju1nCXg1kSGavvBg</string>
+    <string name="no_internet" translatable="false">Sorry! Not connected to internet</string>
 
     <!--  <string name="currency" translatable="false">\u20B9</string>
     <string name="title_activity_main" translatable="false">MainActivity</string>
@@ -100,7 +97,6 @@
     <string name="continue_bt" translatable="false">Continue</string>
     <string name="wall_am" translatable="false">My Wallet Amount</string>-->
 
-    <string name="no_internet" translatable="false">Sorry! Not connected to internet</string>
     <string name="order_no" translatable="false">Order No.:\u0020</string>
     <string name="pending" translatable="false">Pending</string>
     <string name="confirm" translatable="false">Confirm</string>
@@ -109,8 +105,8 @@
     <string name="cancle" translatable="false">Cancel</string>
     <string name="date">Date:\u0020</string>
     <string name="time">Time:\u0020</string>
-
     <string name="tv_cart_title">Cart</string>
+
     <string name="debit" translatable="false">Debit / Credit Card</string>
     <string name="net" translatable="false">Net Banking</string>
     <string name="card" translatable="false">Cards</string>
@@ -123,8 +119,8 @@
     <string name="coupon" translatable="false">Coupon</string>
     <string name="sure_del" translatable="false">Are you sure!
     you want to delete all cart product</string>
-    <!-- fragment_delivery_time.xml -->
     <string name="tv_del_title">Delivery Date/Time</string>
+    <!-- fragment_delivery_time.xml -->
     <string name="tv_del_address">Delivery Address</string>
     <string name="et_del_address_hint">Enter Delivery address..</string>
     <string name="tv_del_continue">Continue With Time</string>
@@ -134,13 +130,13 @@
     <string name="tv_total_item_amount">Total Items And Amount</string>
     <string name="tv_total_total">Total Amount </string>
     <string name="Category">Category</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="menu_icon">menu icon</string>
     <string name="top_category">Top Category</string>
-
     <string name="card_number">Card Number</string>
+
     <string name="dummy_card">0000 0000 0000</string>
     <string name="card_expiry">Card Expiry</string>
     <string name="card_cvv">CVV</string>
@@ -149,6 +145,10 @@
     <string name="splash_image">splash image</string>
     <string name="my_reward_points">My Reward Points</string>
     <string name="redeem">Redeem</string>
+    <string-array name="selectAction">
+        <item>Resend OTP</item>
+        <item>Enter OTP Manually</item>
+    </string-array>
 
 
 </resources>

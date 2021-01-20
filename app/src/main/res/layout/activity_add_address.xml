@@ -13,7 +13,7 @@
         android:id="@+id/ll1"
         android:layout_width="match_parent"
         android:layout_height="50dp"
-        android:background="@color/orange"
+        android:background="#3c9658"
         android:orientation="horizontal">
 
         <LinearLayout
@@ -97,7 +97,7 @@
                     android:fontFamily="@font/opensans_semibold"
                     android:gravity="center|left"
                     android:text="Use my current location"
-                    android:textColor="@color/orange"
+                    android:textColor="#3c9658"
                     android:textSize="15sp"/>
 
             </LinearLayout>
@@ -146,7 +146,7 @@
                         android:layout_height="wrap_content"
                         android:hint="Pincode*"
                         android:maxLength="6"
-                        android:textColorHint="@color/orange"
+                        android:textColorHint="#3c9658"
                         android:textColor="@color/black"
                         android:inputType="phone"
                         android:textSize="14sp"
@@ -165,7 +165,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:hint="House No., Building Name*"
-                        android:textColorHint="@color/orange"
+                        android:textColorHint="#3c9658"
                         android:textColor="@color/black"
                         android:textSize="14sp"
                         android:fontFamily="@font/opensans_semibold"/>
@@ -197,7 +197,7 @@
                             android:hint="City*"
                             android:clickable="false"
                             android:focusable="false"
-                            android:textColorHint="@color/orange"
+                            android:textColorHint="#3c9658"
                             android:textColor="@color/black"
                             android:textSize="14sp"
                             android:drawableEnd="@drawable/ic_loupe"
@@ -224,7 +224,7 @@
                             android:hint="State*"
                             android:clickable="false"
                             android:focusable="false"
-                            android:textColorHint="@color/orange"
+                            android:textColorHint="#3c9658"
                             android:textColor="@color/black"
                             android:textSize="14sp"
                             android:fontFamily="@font/opensans_semibold"/>
@@ -252,7 +252,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:hint="Society, Area, Colony*"
-                        android:textColorHint="@color/orange"
+                        android:textColorHint="#3c9658"
                         android:textColor="@color/black"
                         android:textSize="14sp"
                         android:fontFamily="@font/opensans_semibold"
@@ -280,7 +280,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:hint="Landmark (Optional)"
-                        android:textColorHint="@color/orange"
+                        android:textColorHint="#3c9658"
                         android:textColor="@color/black"
                         android:digits="qwertyuiopasdfghjklzxcvbnm QWERTYUIOPASDFGHJKLZXCVBNM"
                         android:textSize="14sp"
@@ -316,7 +316,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:hint="Name*"
-                        android:textColorHint="@color/orange"
+                        android:textColorHint="#3c9658"
                         android:textColor="@color/black"
                         android:textSize="14sp"
                         android:fontFamily="@font/opensans_semibold"/>
@@ -334,7 +334,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:hint="10-digit mobile number*"
-                        android:textColorHint="@color/orange"
+                        android:textColorHint="#3c9658"
                         android:textColor="@color/black"
                         android:digits="1234567890"
                     android:inputType="phone"
@@ -356,7 +356,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:hint="Alternate Phone Number (Optional)"
-                        android:textColorHint="@color/orange"
+                        android:textColorHint="#3c9658"
                         android:textColor="@color/black"
                         android:digits="1234567890"
                     android:inputType="phone"
@@ -439,7 +439,7 @@
                 android:textSize="16sp"
                 android:textColor="@color/white"
                 android:background="@drawable/rounded_shape"
-                android:backgroundTint="@color/orange"
+                android:backgroundTint="#3c9658"
                 android:fontFamily="@font/opensans_bold"/>
             <Button
                 android:visibility="gone"
@@ -458,7 +458,7 @@
                 android:textSize="16sp"
                 android:textColor="@color/white"
                 android:background="@drawable/rounded_shape"
-                android:backgroundTint="@color/orange"
+                android:backgroundTint="#3c9658"
                 android:fontFamily="@font/opensans_bold"/>
 
 

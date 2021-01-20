@@ -39,7 +39,7 @@
             android:textSize="14sp"
             android:textStyle="bold" />
 
-        <com.tecmanic.gogrocer.util.GifImageView
+        <com.tecmanic.toketani.util.GifImageView
             android:layout_width="match_parent"
             android:visibility="invisible"
             android:id="@+id/gif_image"

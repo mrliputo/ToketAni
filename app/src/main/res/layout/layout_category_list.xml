@@ -265,7 +265,7 @@
                                 android:layout_gravity="center"
                                 android:layout_marginLeft="6dp"
                                 android:drawableRight="@drawable/ic_minus"
-                                android:drawableTint="@color/orange"
+                                android:drawableTint="#3c9658"
                                 android:paddingRight="10dp"></TextView>
                             <!--
                                                     <TextView
@@ -303,7 +303,7 @@
                                 android:layout_gravity="center"
                                 android:layout_marginRight="6dp"
                                 android:drawableRight="@drawable/ic_plus"
-                                android:drawableTint="@color/orange"
+                                android:drawableTint="#3c9658"
                                 android:paddingLeft="10dp"></TextView>
                         </LinearLayout>
 

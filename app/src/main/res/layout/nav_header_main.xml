@@ -173,7 +173,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="3"
-                android:background="@color/orange"
+                android:background="#3c9658"
                 android:orientation="horizontal"
                 tools:ignore="InefficientWeight">
 
@@ -184,7 +184,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:layout_weight=".4"
-                    android:background="@color/orange"
+                    android:background="#3c9658"
                     android:gravity="center"
                     android:orientation="vertical"
                     android:padding="8dp">
@@ -215,7 +215,7 @@
                     android:layout_height="match_parent"
                     android:layout_gravity="center"
                     android:layout_weight=".4"
-                    android:background="@color/orange"
+                    android:background="#3c9658"
                     android:gravity="center"
                     android:orientation="vertical"
                     android:padding="8dp">
@@ -247,7 +247,7 @@
                     android:layout_gravity="center"
                     android:layout_marginLeft="4dp"
                     android:layout_weight=".4"
-                    android:background="@color/orange"
+                    android:background="#3c9658"
                     android:gravity="center"
                     android:orientation="vertical"
                     android:padding="8dp">
@@ -279,7 +279,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:layout_weight=".4"
-                    android:background="@color/orange"
+                    android:background="#3c9658"
                     android:gravity="center"
                     android:orientation="vertical"
                     android:padding="8dp">
@@ -532,7 +532,7 @@
                         android:layout_marginLeft="15dp"
                         android:textColor="@color/white"
                         android:textSize="14sp"
-                        android:text="Powered with GoGrocer"
+                        android:text="Powered with toketani"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content" />
                 </RelativeLayout>

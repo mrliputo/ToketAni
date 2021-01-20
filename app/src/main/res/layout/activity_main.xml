@@ -24,7 +24,7 @@
             android:layout_width="match_parent"
             android:layout_height="52dp"
             android:theme="@style/NavigationTheme"
-            app:itemRippleColor="@color/orange"
+            app:itemRippleColor="#3c9658"
             android:background="?android:attr/windowBackground"
             app:menu="@menu/bottom_nav_menu" />
 

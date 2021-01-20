@@ -27,7 +27,7 @@
         android:background="@drawable/border_rounded"
         android:includeFontPadding="false"
         android:padding="2dp"
-        android:textColor="@color/orange"
+        android:textColor="#3c9658"
         android:textSize="12sp"
         android:textStyle="normal"
         android:visibility="visible"

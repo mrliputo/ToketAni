@@ -167,7 +167,7 @@
                                 android:layout_height="match_parent"
                                 android:layout_gravity="center"
                                 android:paddingRight="10dp"
-                                android:drawableTint="@color/orange"
+                                android:drawableTint="#3c9658"
                                 android:layout_marginLeft="6dp"
                                 android:drawableRight="@drawable/ic_minus"/>
                             <TextView
@@ -202,7 +202,7 @@
                                 android:layout_height="match_parent"
                                 android:layout_gravity="center"
                                 android:paddingLeft="10dp"
-                                android:drawableTint="@color/orange"
+                                android:drawableTint="#3c9658"
                                 android:layout_marginRight="6dp"
                                 android:drawableRight="@drawable/ic_plus"/>
                         </LinearLayout>

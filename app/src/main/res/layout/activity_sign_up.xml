@@ -16,15 +16,13 @@
         android:orientation="vertical">
 
 
-        <de.hdodenhof.circleimageview.CircleImageView
+        <ImageView
             android:id="@+id/profile_image"
             android:layout_width="100dp"
             android:layout_height="100dp"
             android:layout_marginTop="5dp"
             android:layout_marginRight="10dp"
-            android:src="@drawable/splashicon"
-            app:civ_border_color="@color/white"
-            app:civ_border_width=".5dp" />
+            android:src="@drawable/splashicon" />
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -43,7 +41,7 @@
                 android:textColor="@color/black"
                 android:textSize="20sp" />
 
-            <TextView
+            <!--<TextView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_gravity="center"
@@ -52,7 +50,7 @@
                 android:gravity="center|left"
                 android:text="Please enter your credentials"
                 android:textColor="@color/black"
-                android:textSize="15sp" />
+                android:textSize="15sp" />-->
 
             <androidx.cardview.widget.CardView
                 android:layout_width="match_parent"
@@ -75,7 +73,7 @@
                         android:layout_gravity="center"
                         android:layout_marginLeft="15dp"
                         android:background="@drawable/ic_user"
-                        android:backgroundTint="@color/orange" />
+                        android:backgroundTint="#3c9658" />
 
                     <EditText
                         android:id="@+id/etName"
@@ -119,7 +117,7 @@
                         android:layout_gravity="center"
                         android:layout_marginLeft="15dp"
                         android:background="@drawable/ic_smartphone"
-                        android:backgroundTint="@color/orange" />
+                        android:backgroundTint="#3c9658" />
 
                     <LinearLayout
                         android:id="@+id/flag_view"
@@ -172,10 +170,16 @@
                         android:inputType="phone"
                         android:maxLength="15"
                         android:maxLines="1"
-                        android:paddingLeft="5dp"
+                        android:paddingLeft="20dp"
                         android:textColor="@color/black"
                         android:textColorHint="@color/hintColor"
                         android:textSize="15sp" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:gravity="center|left"
+                        android:paddingLeft="20dp"
+                        android:text="+62" />
 
                 </LinearLayout>
             </androidx.cardview.widget.CardView>
@@ -201,7 +205,7 @@
                         android:layout_gravity="center"
                         android:layout_marginLeft="15dp"
                         android:background="@drawable/ic_envelope"
-                        android:backgroundTint="@color/orange" />
+                        android:backgroundTint="#3c9658" />
 
                     <EditText
                         android:id="@+id/etEmail"
@@ -245,7 +249,7 @@
                         android:layout_gravity="center"
                         android:layout_marginLeft="15dp"
                         android:background="@drawable/ic_key"
-                        android:backgroundTint="@color/orange" />
+                        android:backgroundTint="#3c9658" />
 
                     <EditText
                         android:id="@+id/etPass"
@@ -282,7 +286,7 @@
                     android:id="@+id/btnSignUP"
                     android:layout_width="match_parent"
                     android:layout_height="45dp"
-                    android:background="@color/orange"
+                    android:background="#3c9658"
                     android:fontFamily="@font/opensans_bold"
                     android:gravity="center"
                     android:text="Sign Up"
@@ -326,7 +330,7 @@
             android:layout_height="wrap_content"
             android:includeFontPadding="false"
             android:text="Skip"
-            android:textColor="@color/orange"
+            android:textColor="#3c9658"
             android:textSize="16sp" />
 
         <ImageView
@@ -334,7 +338,7 @@
             android:layout_height="13dp"
             android:layout_marginStart="10dp"
             android:background="@drawable/ic_left_arrow"
-            android:backgroundTint="@color/orange"
+            android:backgroundTint="#3c9658"
             android:rotation="180" />
     </LinearLayout>
 

@@ -62,7 +62,7 @@
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:textSize="16dp"
-            android:textColor="@color/orange"
+            android:textColor="#3c9658"
             android:gravity="center"
             android:textStyle="bold"
             android:text="apply"

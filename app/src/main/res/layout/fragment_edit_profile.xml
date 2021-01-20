@@ -12,7 +12,7 @@
       <RelativeLayout
           android:layout_width="match_parent"
           android:layout_height="wrap_content"
-          android:background="#FE8100">
+          android:background="#3c9658">
 
           <ImageView
               android:id="@+id/loginImage"
@@ -65,7 +65,7 @@
                               android:layout_gravity="center"
                               android:layout_marginLeft="15dp"
                               android:background="@drawable/ic_user"
-                              android:backgroundTint="@color/orange" />
+                              android:backgroundTint="#3c9658" />
 
                           <EditText
                               android:id="@+id/et_pro_name"
@@ -107,7 +107,7 @@
                               android:layout_gravity="center"
                               android:layout_marginLeft="15dp"
                               android:background="@drawable/ic_smartphone"
-                              android:backgroundTint="@color/orange"></ImageView>
+                              android:backgroundTint="#3c9658"></ImageView>
 
                           <EditText
                               android:id="@+id/et_pro_phone"
@@ -152,7 +152,7 @@
                               android:layout_gravity="center"
                               android:layout_marginLeft="15dp"
                               android:background="@drawable/ic_envelope"
-                              android:backgroundTint="@color/orange"></ImageView>
+                              android:backgroundTint="#3c9658"></ImageView>
 
                           <EditText
                               android:id="@+id/et_pro_email"
@@ -211,7 +211,7 @@
                                   android:layout_alignParentRight="true"
                                   android:layout_marginRight="20dp"
                                   android:background="@drawable/rounded_shape"
-                                  android:backgroundTint="@color/orange"
+                                  android:backgroundTint="#3c9658"
                                   android:paddingLeft="15dp"
                                   android:paddingTop="5dp"
                                   android:paddingRight="15dp"
@@ -533,7 +533,7 @@
                       android:layout_gravity="center_horizontal"
                       android:layout_margin="30dp"
                       android:background="@drawable/rounded_shape"
-                      android:backgroundTint="@color/orange"
+                      android:backgroundTint="#3c9658"
                       android:padding="12dp">
 
                       <TextView

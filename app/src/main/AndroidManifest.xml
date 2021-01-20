@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.tecmanic.gogrocer"
+    package="com.tecmanic.toketani"
     android:installLocation="auto">
 
     <uses-feature
@@ -9,7 +9,7 @@
         android:required="true" />
 
     <permission
-        android:name="com.tecmanic.gogrocer.permission.MAPS_RECEIVE"
+        android:name="com.tecmanic.toketani.permission.MAPS_RECEIVE"
         android:protectionLevel="signature" />
 
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
@@ -22,11 +22,11 @@
     <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
     <uses-permission android:name="android.permission.CALL_PHONE" />
     <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
-    <uses-permission android:name="com.tecmanic.gogrocer.permission.MAPS_RECEIVE" />
+    <uses-permission android:name="com.tecmanic.toketani.permission.MAPS_RECEIVE" />
 
 
     <application
-        android:name=".util.AppController"
+        android:name="com.tecmanic.toketani.util.AppController"
         android:allowBackup="true"
         android:icon="@drawable/splashicon"
         android:label="@string/app_name"
@@ -36,22 +36,22 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true">
-        <activity android:name=".activity.FireOtpPageAuthentication"
+        <activity android:name="com.tecmanic.toketani.activity.FireOtpPageAuthentication"
             android:screenOrientation="portrait"/>
         <activity
-            android:name=".activity.PaystackPayment"
+            android:name="com.tecmanic.toketani.activity.PaystackPayment"
             android:screenOrientation="portrait"
             android:theme="@style/Theme.MaterialComponents.NoActionBar" />
         <activity
-            android:name=".activity.MapboxActivity"
+            android:name="com.tecmanic.toketani.activity.MapboxActivity"
             android:screenOrientation="portrait"
             android:theme="@style/Theme.MaterialComponents.Light.NoActionBar" />
         <activity
-            android:name=".activity.FlagActivity"
+            android:name="com.tecmanic.toketani.activity.FlagActivity"
             android:screenOrientation="portrait"
             android:theme="@style/Theme.MaterialComponents.Light.NoActionBar" />
         <activity
-            android:name=".activity.GameWebActivity"
+            android:name="com.tecmanic.toketani.activity.GameWebActivity"
             android:screenOrientation="portrait"
             android:theme="@style/Theme.MaterialComponents.Light.NoActionBar" />
 
@@ -60,70 +60,70 @@
             android:required="false" />
 
         <activity
-            android:name=".activity.AddressLocationActivity"
+            android:name="com.tecmanic.toketani.activity.AddressLocationActivity"
             android:screenOrientation="portrait"
             android:theme="@style/Theme.MaterialComponents.Light.NoActionBar" /> <!-- <activity -->
         <activity
-            android:name=".activity.DealActivity"
+            android:name="com.tecmanic.toketani.activity.DealActivity"
             android:screenOrientation="portrait"
             android:theme="@style/Theme.MaterialComponents.Light.NoActionBar" />
         <activity
-            android:name=".activity.MainActivityAgain"
+            android:name="com.tecmanic.toketani.activity.MainActivityAgain"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".activity.AddAddressNew"
+            android:name="com.tecmanic.toketani.activity.AddAddressNew"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".activity.ViewAllTopDeals"
+            android:name="com.tecmanic.toketani.activity.ViewAllTopDeals"
             android:screenOrientation="portrait"
             android:theme="@style/Theme.MaterialComponents.Light.NoActionBar" />
         <activity
-            android:name=".activity.ForgetOtpVerify"
+            android:name="com.tecmanic.toketani.activity.ForgetOtpVerify"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".activity.AboutUs"
-            android:parentActivityName=".activity.MainActivity"
+            android:name="com.tecmanic.toketani.activity.AboutUs"
+            android:parentActivityName="com.tecmanic.toketani.activity.MainActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".activity.Coupen"
+            android:name="com.tecmanic.toketani.activity.Coupen"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".activity.Myorderdetails"
+            android:name="com.tecmanic.toketani.activity.Myorderdetails"
             android:screenOrientation="portrait"
             android:theme="@style/Theme.MaterialComponents.Light.NoActionBar" />
         <activity
-            android:name=".activity.CancelOrder"
+            android:name="com.tecmanic.toketani.activity.CancelOrder"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".activity.ForgotPassOtp"
+            android:name="com.tecmanic.toketani.activity.ForgotPassOtp"
             android:screenOrientation="portrait"
             android:theme="@style/StatusBarOrange" />
         <activity
-            android:name=".activity.MyOrderActivity"
+            android:name="com.tecmanic.toketani.activity.MyOrderActivity"
             android:screenOrientation="portrait"
             android:theme="@style/StatusBarOrange" />
         <activity
-            android:name=".activity.NewPassword"
+            android:name="com.tecmanic.toketani.activity.NewPassword"
             android:screenOrientation="portrait"
             android:theme="@style/StatusBarOrange" />
         <activity
-            android:name=".activity.RechargeWallet"
+            android:name="com.tecmanic.toketani.activity.RechargeWallet"
             android:screenOrientation="portrait"
             android:theme="@style/StatusBarOrange" />
         <activity
-            android:name=".activity.ForgotPAssword"
+            android:name="com.tecmanic.toketani.activity.ForgotPAssword"
             android:screenOrientation="portrait"
             android:theme="@style/StatusBarOrange" />
         <activity
-            android:name=".activity.SelectAddress"
+            android:name="com.tecmanic.toketani.activity.SelectAddress"
             android:screenOrientation="portrait"
             android:theme="@style/StatusBarOrange" />
         <activity
-            android:name=".activity.OrderSummary"
+            android:name="com.tecmanic.toketani.activity.OrderSummary"
             android:screenOrientation="portrait"
             android:theme="@style/StatusBarOrange" />
 
-        <service android:name=".activity.MyFirebaseMessagingService">
+        <service android:name="com.tecmanic.toketani.activity.MyFirebaseMessagingService">
             <intent-filter>
                 <action android:name="com.google.firebase.MESSAGING_EVENT" />
             </intent-filter>
@@ -138,57 +138,57 @@
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
         <activity
-            android:name=".activity.MainActivity"
+            android:name="com.tecmanic.toketani.activity.MainActivity"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar">
         </activity>
         <activity
-            android:name=".activity.AddAddress"
+            android:name="com.tecmanic.toketani.activity.AddAddress"
             android:screenOrientation="portrait"
             android:theme="@style/StatusBarOrange" />
         <activity
-            android:name=".activity.ChooseLocatioin"
+            android:name="com.tecmanic.toketani.activity.ChooseLocatioin"
             android:screenOrientation="portrait"
             android:theme="@style/StatusBarOrange" />
         <activity
-            android:name=".activity.OtpVerification"
+            android:name="com.tecmanic.toketani.activity.OtpVerification"
             android:screenOrientation="portrait"
             android:theme="@style/StatusBarGreen" />
         <activity
-            android:name=".activity.OrderSuccessful"
+            android:name="com.tecmanic.toketani.activity.OrderSuccessful"
             android:screenOrientation="portrait"
             android:theme="@style/StatusBarOrange" />
         <activity
-            android:name=".activity.EmptyCart"
+            android:name="com.tecmanic.toketani.activity.EmptyCart"
             android:screenOrientation="portrait"
             android:theme="@style/StatusBarOrange" />
         <activity
-            android:name=".activity.PaymentDetails"
+            android:name="com.tecmanic.toketani.activity.PaymentDetails"
             android:screenOrientation="portrait"
             android:theme="@style/StatusBarOrange"
             android:windowSoftInputMode="stateHidden" />
         <activity
-            android:name=".activity.InternetConnection"
+            android:name="com.tecmanic.toketani.activity.InternetConnection"
             android:screenOrientation="portrait"
             android:theme="@style/StatusBarOrange" />
         <activity
-            android:name=".activity.CategoryPage"
+            android:name="com.tecmanic.toketani.activity.CategoryPage"
             android:screenOrientation="portrait"
             android:theme="@style/StatusBarGreen" />
         <activity
-            android:name=".activity.ProductDetails"
+            android:name="com.tecmanic.toketani.activity.ProductDetails"
             android:screenOrientation="portrait"
             android:theme="@style/StatusBarOrange" />
         <activity
-            android:name=".activity.SignUpActivity"
+            android:name="com.tecmanic.toketani.activity.SignUpActivity"
             android:screenOrientation="portrait"
             android:theme="@style/StatusBarOrange" />
         <activity
-            android:name=".activity.LoginActivity"
+            android:name="com.tecmanic.toketani.activity.LoginActivity"
             android:screenOrientation="portrait"
             android:theme="@style/StatusBarOrange" />
         <activity
-            android:name=".activity.Splash"
+            android:name="com.tecmanic.toketani.activity.Splash"
             android:screenOrientation="portrait"
             android:theme="@style/StatusBarWhite">
             <intent-filter>

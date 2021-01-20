@@ -57,7 +57,7 @@
         android:layout_marginTop="50dp"
         android:layout_marginEnd="20dp"
         android:background="@drawable/rounded_shape"
-        android:backgroundTint="@color/orange"
+        android:backgroundTint="#3c9658"
         android:fontFamily="@font/opensans_semibold"
         android:gravity="center"
         android:text="Recharge Wallet"

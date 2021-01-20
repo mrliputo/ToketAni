@@ -760,7 +760,7 @@
                         android:id="@+id/confirm_image1"
                         android:layout_width="24dp"
                         android:layout_height="24dp"
-                        android:src="@color/orange"
+                        android:src="#3c9658"
                         android:visibility="gone"
                         app:civ_border_color="#fff"
                         app:civ_border_width="5dp" />
@@ -800,7 +800,7 @@
                         android:id="@+id/delivered_image1"
                         android:layout_width="24dp"
                         android:layout_height="24dp"
-                        android:src="@color/orange"
+                        android:src="#3c9658"
                         android:visibility="gone"
                         app:civ_border_color="#fff"
                         app:civ_border_width="5dp" />
@@ -840,7 +840,7 @@
                         android:id="@+id/cancal_image1"
                         android:layout_width="24dp"
                         android:layout_height="24dp"
-                        android:src="@color/orange"
+                        android:src="#3c9658"
                         android:visibility="gone"
                         app:civ_border_color="#fff"
                         app:civ_border_width="5dp" />
@@ -996,7 +996,7 @@
                 android:layout_marginEnd="5dp"
                 android:background="@drawable/border_rounded1"
                 android:gravity="center"
-                android:backgroundTint="@color/orange"
+                android:backgroundTint="#3c9658"
                 android:text="Order Detail's"
                 android:textColor="@color/white"
                 android:textSize="14sp" />

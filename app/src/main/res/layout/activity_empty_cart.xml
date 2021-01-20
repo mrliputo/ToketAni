@@ -57,8 +57,9 @@
 
                 <ImageView
                     android:id="@+id/img"
-                    android:layout_width="match_parent"
-                    android:layout_height="350dp"
+                    android:layout_width="200dp"
+                    android:layout_height="200dp"
+                    android:layout_centerHorizontal="true"
                     android:layout_margin="5dp"
                     android:background="@drawable/splashicon"></ImageView>
 
@@ -105,7 +106,7 @@
                         android:textSize="17sp"
                         android:textColor="@color/white"
                         android:background="@drawable/rounded_shape"
-                        android:backgroundTint="@color/orange"
+                        android:backgroundTint="#3c9658"
                         android:fontFamily="@font/opensans_bold"></Button>
 
                 </LinearLayout>

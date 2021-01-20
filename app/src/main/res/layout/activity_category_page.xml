@@ -33,7 +33,7 @@
                     android:layout_width="15dp"
                     android:layout_height="15dp"
                     android:background="@drawable/ic_left_arrow"
-                    android:backgroundTint="@color/orange" />
+                    android:backgroundTint="#3c9658" />
             </LinearLayout>
 
             <TextView
@@ -44,7 +44,7 @@
                 android:fontFamily="@font/opensans_semibold"
                 android:gravity="center|left"
                 android:text="Products"
-                android:textColor="@color/orange"
+                android:textColor="#3c9658"
                 android:textSize="20sp"></TextView>
 
 

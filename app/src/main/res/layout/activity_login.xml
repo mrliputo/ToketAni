@@ -42,17 +42,6 @@
                 android:textColor="@color/black"
                 android:textSize="20sp" />
 
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:layout_gravity="center"
-                android:layout_marginTop="15dp"
-                android:fontFamily="@font/opensans_regular"
-                android:gravity="center|left"
-                android:text="Please enter your credentials"
-                android:textColor="@color/black"
-                android:textSize="15sp" />
-
             <androidx.cardview.widget.CardView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -110,7 +99,7 @@
                         android:layout_gravity="center"
                         android:layout_marginLeft="15dp"
                         android:background="@drawable/ic_user"
-                        android:backgroundTint="@color/orange" />
+                        android:backgroundTint="#3c9658" />
 
                     <!--                    <ImageView-->
                     <!--                        android:layout_width="17dp"-->
@@ -118,7 +107,7 @@
                     <!--                        android:layout_gravity="center"-->
                     <!--                        android:layout_marginLeft="15dp"-->
                     <!--                        android:background="@drawable/ic_user"-->
-                    <!--                        android:backgroundTint="@color/orange" />-->
+                    <!--                        android:backgroundTint="#3c9658" />-->
 
                     <EditText
                         android:id="@+id/etMob"
@@ -135,10 +124,16 @@
                         android:inputType="phone"
                         android:maxLength="15"
                         android:maxLines="1"
-                        android:paddingLeft="5dp"
+                        android:paddingLeft="20dp"
                         android:textColor="@color/black"
                         android:textColorHint="@color/hintColor"
                         android:textSize="15sp" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:gravity="center|left"
+                        android:paddingLeft="20dp"
+                        android:text="+62" />
 
                 </LinearLayout>
             </androidx.cardview.widget.CardView>
@@ -164,7 +159,7 @@
                         android:layout_gravity="center"
                         android:layout_marginLeft="15dp"
                         android:background="@drawable/ic_key"
-                        android:backgroundTint="@color/orange" />
+                        android:backgroundTint="#3c9658" />
 
                     <EditText
                         android:id="@+id/etPass"
@@ -203,7 +198,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="45dp"
                     android:layout_gravity="center"
-                    android:background="@color/orange"
+                    android:background="#3c9658"
                     android:fontFamily="@font/opensans_bold"
                     android:gravity="center"
                     android:text="Sign In"
@@ -386,7 +381,7 @@
             android:layout_height="wrap_content"
             android:includeFontPadding="false"
             android:text="Skip"
-            android:textColor="@color/orange"
+            android:textColor="#3c9658"
             android:textSize="16sp" />
 
         <ImageView
@@ -394,7 +389,7 @@
             android:layout_height="12dp"
             android:layout_marginStart="10dp"
             android:background="@drawable/ic_left_arrow"
-            android:backgroundTint="@color/orange"
+            android:backgroundTint="#3c9658"
             android:rotation="180" />
     </LinearLayout>
 

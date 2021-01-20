@@ -15,7 +15,7 @@
             android:id="@+id/ll1"
             android:layout_width="match_parent"
             android:layout_height="50dp"
-            android:background="@color/orange"
+            android:background="#3c9658"
             android:orientation="horizontal">
 
             <LinearLayout
@@ -67,7 +67,7 @@
                     android:layout_width="20dp"
                     android:layout_height="20dp"
                     android:background="@drawable/ic_add"
-                    android:backgroundTint="@color/orange"/>
+                    android:backgroundTint="#3c9658"/>
             </LinearLayout>
 
             <TextView
@@ -78,7 +78,7 @@
                 android:fontFamily="@font/opensans_semibold"
                 android:gravity="center|left"
                 android:text="Add a new address"
-                android:textColor="@color/orange"
+                android:textColor="#3c9658"
                 android:textSize="15sp"/>
 
         </LinearLayout>

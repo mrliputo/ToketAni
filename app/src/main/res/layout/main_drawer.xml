@@ -19,7 +19,7 @@
         <ImageView
             android:layout_alignParentEnd="true"
             android:layout_margin="15dp"
-            android:src="@drawable/ic_account_circle_black_24dp"
+            android:src="@drawable/ic_notifications_black_24dp"
             android:id="@+id/profile"
             android:layout_width="30dp"
             android:layout_height="30dp"/>

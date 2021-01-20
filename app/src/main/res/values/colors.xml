@@ -2,9 +2,9 @@
 <resources>
 
 
-    <color name="colorPrimary">#FE8100</color>
-    <color name="colorPrimaryDark">#FE8100</color>
-    <color name="colorAccent">#FE8100</color>
+    <color name="colorPrimary">#3c9658</color>
+    <color name="colorPrimaryDark">#3c9658</color>
+    <color name="colorAccent">#3c9658</color>
 
 
     <color name="white">#ffffff</color>
@@ -15,9 +15,9 @@
     <color name="darkGrey">#2F2929</color>
     <color name="mediumGrey">#B9B8B6</color>
 
-    <color name="green">#FE8100</color>
+    <color name="green">#3c9658</color>
 <!--    <color name="green">#42B029</color>-->
-    <color name="orange">#FE8100</color>
+    <color name="orange">#3c9658</color>
     <color name="color_1">#1bdc84</color>
 
 
@@ -33,7 +33,7 @@
 
     <color name="lightBlue">#DCF6FF</color>
     <color name="paystack_btnbg">#3bb75e</color>
-    <color name="paystack_bg">#FE8100</color>
+    <color name="paystack_bg">#3c9658</color>
 
 
 </resources>
