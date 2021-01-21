@@ -257,12 +257,12 @@ public class HomeeeFragment extends Fragment implements View.OnClickListener {
         progressBar = view.findViewById(R.id.progress_bar);
         product_loader = view.findViewById(R.id.product_loader);
         progressBar.setOnClickListener(views -> Log.i("TAG", "not work"));
-        changeLocLay = view.findViewById(R.id.change_loc_lay);
+        /*changeLocLay = view.findViewById(R.id.change_loc_lay);*/
         notificationLay = view.findViewById(R.id.notification_lay);
         notificaitonStatus = view.findViewById(R.id.notificaiton_status);
         banner_layount = view.findViewById(R.id.banner_layount);
         notificaitonStatus.setSelected(true);
-        TextView changeLoc = view.findViewById(R.id.change_loc);
+        /*TextView changeLoc = view.findViewById(R.id.change_loc);*/
         tabLayout = view.findViewById(R.id.tablayout);
         viewallTopdeals = view.findViewById(R.id.viewall_topdeals);
         viewPager = view.findViewById(R.id.pager_product);
@@ -424,7 +424,7 @@ public class HomeeeFragment extends Fragment implements View.OnClickListener {
 
             }
         }));
-        changeLoc.setOnClickListener(v -> {
+        /*changeLoc.setOnClickListener(v -> {
             if (ContextCompat.checkSelfPermission(contexts, Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED && ContextCompat.checkSelfPermission(contexts, Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
                 fragmentClickListner.onLocationPermission(true);
             } else {
@@ -434,7 +434,7 @@ public class HomeeeFragment extends Fragment implements View.OnClickListener {
                     startActivityForResult(new Intent(v.getContext(), AddressLocationActivity.class), 22);
                 }
             }
-        });
+        });*/
         product_loader.hide();
         GridLayoutManager gridLayoutManager1 = new GridLayoutManager(getActivity(), 3);
         rv_populrcate.setLayoutManager(gridLayoutManager1);
@@ -633,13 +633,13 @@ public class HomeeeFragment extends Fragment implements View.OnClickListener {
                     }
 
                     if (screenLists.size() > 0) {
-                        changeLocLay.setVisibility(View.GONE);
+                        /*changeLocLay.setVisibility(View.GONE);*/
 //                    viewpager_layout.setVisibility(View.VISIBLE);
                         viewPager2.setVisibility(View.VISIBLE);
                         tabLayout.setVisibility(View.VISIBLE);
                         viewallTopdeals.setVisibility(View.VISIBLE);
                     } else {
-                        changeLocLay.setVisibility(View.VISIBLE);
+                        /*changeLocLay.setVisibility(View.VISIBLE);*/
 //                    viewpager_layout.setVisibility(View.GONE);
                         viewPager2.setVisibility(View.GONE);
                         tabLayout.setVisibility(View.GONE);
@@ -661,13 +661,13 @@ public class HomeeeFragment extends Fragment implements View.OnClickListener {
             @Override
             public void onFailure(@NonNull Call<MainHomeModel> call, @NonNull Throwable t) {
                 if (screenLists.size() > 0) {
-                    changeLocLay.setVisibility(View.GONE);
+                    /*changeLocLay.setVisibility(View.GONE);*/
 //                    viewpager_layout.setVisibility(View.VISIBLE);
                     viewPager2.setVisibility(View.VISIBLE);
                     tabLayout.setVisibility(View.VISIBLE);
                     viewallTopdeals.setVisibility(View.VISIBLE);
                 } else {
-                    changeLocLay.setVisibility(View.VISIBLE);
+                    /*changeLocLay.setVisibility(View.VISIBLE);*/
 //                    viewpager_layout.setVisibility(View.GONE);
                     viewPager2.setVisibility(View.GONE);
                     tabLayout.setVisibility(View.GONE);
