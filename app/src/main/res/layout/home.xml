@@ -106,7 +106,7 @@
                     app:tabTextAppearance="@style/MineCustomTabText"
                     app:tabTextColor="@color/black" />
 
-               <!-- <LinearLayout
+                <LinearLayout
                     android:layout_width="match_parent"
                     android:orientation="vertical"
                     android:layout_height="wrap_content">
@@ -117,7 +117,7 @@
                         android:orientation="vertical"
                         android:visibility="gone">
 
-                        &lt;!&ndash;<TextView
+                        <!--<TextView
                             android:id="@+id/not_product"
                             android:layout_width="match_parent"
                             android:layout_height="100dp"
@@ -129,7 +129,7 @@
                             android:shadowDy="1"
                             android:text="We are not delivering in your area."
                             android:textColor="@color/colorPrimary"
-                            android:textSize="16sp" />&ndash;&gt;
+                            android:textSize="16sp" />-->
 
                         <TextView
                             android:id="@+id/change_loc"
@@ -147,7 +147,7 @@
                             android:textColor="@color/white"
                             android:textSize="18sp"
                             android:textStyle="bold" />
-                    </LinearLayout>-->
+                    </LinearLayout>
 
                     <androidx.viewpager2.widget.ViewPager2
                         android:id="@+id/viewpa_2"
@@ -347,7 +347,7 @@
                 </RelativeLayout>
 
 
-            <!--</LinearLayout>-->
+            </LinearLayout>
         </androidx.core.widget.NestedScrollView>
 
         <LinearLayout

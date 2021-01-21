@@ -118,7 +118,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
     TextView username;
     Toolbar toolbar;
     ImageView bell;
-    boolean canGetLocation = false;
+    boolean canGetLocation = true;
     private LocationManager locationManager;
     private DatabaseHandler dbcart;
     private SessionManagement sessionManagement;
@@ -216,7 +216,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 //            }
 //        });
 
-        /*addres.setOnClickListener(v -> {
+        addres.setOnClickListener(v -> {
 
             if (ContextCompat.checkSelfPermission(MainActivity.this, Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED && ContextCompat.checkSelfPermission(MainActivity.this, Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
                 checkAndRequestPermissions(true);
@@ -227,7 +227,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
                     startActivityForResult(new Intent(MainActivity.this, AddressLocationActivity.class), 22);
                 }
             }
-        });*/
+        });
 
         ImageView menuSlider = findViewById(R.id.sliderr);
         menuSlider.setOnClickListener(v -> drawer.openDrawer(GravityCompat.START));
