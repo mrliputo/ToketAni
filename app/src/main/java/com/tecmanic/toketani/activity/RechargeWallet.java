@@ -360,7 +360,7 @@ public class RechargeWallet extends AppCompatActivity implements PaymentResultLi
                     RazorpayClient razorpayC = new RazorpayClient("rzp_test_j2Fez1mKPs66Vq", "J3HWEBdAP3KRrKd6AZ3JRI71");
                     JSONObject orderObject = new JSONObject();
                     orderObject.put("amount", Double.parseDouble(amount) * 100); // amount in the smallest currency unit
-                    orderObject.put("currency", "INR");
+                    orderObject.put("currency", "IDR");
                     orderObject.put("receipt", "orderID" + System.currentTimeMillis());
                     orderObject.put("payment_capture", true);
 
@@ -372,7 +372,7 @@ public class RechargeWallet extends AppCompatActivity implements PaymentResultLi
                         options.put("name", name);
                         options.put("description", "Wallet Recharge");
                         options.put("image", "https://s3.amazonaws.com/rzp-mobile/images/rzp.png");
-                        options.put("currency", "INR");
+                        options.put("currency", "IDR");
                         options.put("amount", Double.parseDouble(amount) * 100);
                         options.put("order_id", orderId.get("id"));
                         JSONObject preFill = new JSONObject();
@@ -397,7 +397,7 @@ public class RechargeWallet extends AppCompatActivity implements PaymentResultLi
 //            options.put("name", name);
 //            options.put("description", "Wallet Charges");
 //            options.put("image", "https://s3.amazonaws.com/rzp-mobile/images/rzp.png");
-//            options.put("currency", "INR");
+//            options.put("currency", "IDR");
 //            options.put("amount", Integer.parseInt(amount) * 100);
 //            JSONObject preFill = new JSONObject();
 //            preFill.put("email", email);
