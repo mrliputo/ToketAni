@@ -745,7 +745,7 @@ public class PaymentDetails extends AppCompatActivity implements PaymentResultLi
         if (rbCod.isChecked() && checkBoxWallet.isChecked()) {
             walletStatus = "yes";
             paymentMethod = "COD";
-            makeAddOrderRequest(getuserId, cartId2, paymentMethod, walletStatus, successKey);
+            makeAddOrderRequest(/*getuserId, */cartId2, paymentMethod, walletStatus, successKey);
         } else if (rbCard.isChecked() && checkBoxWallet.isChecked()) {
             walletStatus = "yes";
             paymentMethod = "card";
@@ -834,7 +834,7 @@ public class PaymentDetails extends AppCompatActivity implements PaymentResultLi
         if (rbCod.isChecked()) {
             walletStatus = "no";
             paymentMethod = "COD";
-            makeAddOrderRequest(getuserId, cartId2, paymentMethod, walletStatus, successKey);
+            makeAddOrderRequest(/*getuserId, */cartId2, paymentMethod, walletStatus, successKey);
         } else if (checkBoxWallet.isChecked()) {
             walletStatus = "yes";
             paymentMethod = walletKey;
@@ -842,7 +842,7 @@ public class PaymentDetails extends AppCompatActivity implements PaymentResultLi
                 show();
                 Toast.makeText(PaymentDetails.this, "Select Card Or COD", Toast.LENGTH_SHORT).show();
             } else {
-                makeAddOrderRequest(getuserId, cartId2, paymentMethod, walletStatus, successKey);
+                makeAddOrderRequest(/*getuserId, */cartId2, paymentMethod, walletStatus, successKey);
             }
 
         } else {
@@ -853,7 +853,7 @@ public class PaymentDetails extends AppCompatActivity implements PaymentResultLi
                 } else {
                     walletStatus = "no";
                     paymentMethod = "promocode";
-                    makeAddOrderRequest(getuserId, cartId2, paymentMethod, walletStatus, successKey);
+                    makeAddOrderRequest(/*getuserId, */cartId2, paymentMethod, walletStatus, successKey);
                 }
             } else {
                 show();
@@ -1051,14 +1051,14 @@ public class PaymentDetails extends AppCompatActivity implements PaymentResultLi
         }
     }
 
-    private void makeAddOrderRequest(String userid, String cartId, String paymentMethod, String walletStatus, String paymentStatus) {
+    private void makeAddOrderRequest(/*String userid, */String cartId, String paymentMethod, String walletStatus, String paymentStatus) {
         Map<String, String> params = new HashMap<>();
-        params.put("user_id", userid);
+        /*params.put("user_id", userid);*/
         params.put("payment_status", paymentStatus);
         params.put(cartIdKey, cartId);
         params.put(paymentMethodKey, paymentMethod);
         params.put(walletKey, walletStatus);
-
+        System.out.println("param  - >>>> : "+ params);
         CustomVolleyJsonRequest jsonObjReq = new CustomVolleyJsonRequest(Request.Method.POST,
                 BaseURL.ADD_ORDER_URL, params, response -> {
             try {
@@ -1195,7 +1195,7 @@ public class PaymentDetails extends AppCompatActivity implements PaymentResultLi
     @Override
     public void onPaymentSuccess(String s) {
         if (s != null) {
-            makeAddOrderRequest(getuserId, cartId2, paymentMethod, walletStatus, successKey);
+            makeAddOrderRequest(/*getuserId, */cartId2, paymentMethod, walletStatus, successKey);
         }
     }
 
@@ -1246,7 +1246,7 @@ public class PaymentDetails extends AppCompatActivity implements PaymentResultLi
                 JSONObject jsonObject = confirmPayment.toJSONObject();
                 JSONObject responseJs = jsonObject.getJSONObject("response");
                 if (responseJs.getString("state").equalsIgnoreCase("approved")) {
-                    makeAddOrderRequest(getuserId, cartId2, paymentMethod, walletStatus, successKey);
+                    makeAddOrderRequest(/*getuserId, */cartId2, paymentMethod, walletStatus, successKey);
                 }
             } catch (JSONException e) {
                 show();
