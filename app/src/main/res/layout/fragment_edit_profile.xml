@@ -47,9 +47,9 @@
                   <androidx.cardview.widget.CardView
                       android:layout_width="match_parent"
                       android:layout_height="wrap_content"
-                      android:layout_marginLeft="2dp"
+                      android:layout_marginStart="2dp"
                       android:layout_marginTop="10dp"
-                      android:layout_marginRight="2dp"
+                      android:layout_marginEnd="2dp"
                       android:background="@color/white"
                       app:cardBackgroundColor="@color/white"
                       app:cardCornerRadius="20dp">
@@ -63,7 +63,7 @@
                               android:layout_width="17dp"
                               android:layout_height="17dp"
                               android:layout_gravity="center"
-                              android:layout_marginLeft="15dp"
+                              android:layout_marginStart="15dp"
                               android:background="@drawable/ic_user"
                               android:backgroundTint="#3c9658" />
 
@@ -72,13 +72,13 @@
                               android:layout_width="match_parent"
                               android:layout_height="match_parent"
                               android:layout_gravity="center"
-                              android:layout_marginLeft="10dp"
-                              android:layout_marginRight="10dp"
+                              android:layout_marginStart="10dp"
+                              android:layout_marginEnd="10dp"
                               android:background="@android:color/transparent"
                               android:fontFamily="@font/opensans_semibold"
-                              android:gravity="center|left"
+                              android:gravity="center|start"
                               android:hint="Enter Name"
-                              android:paddingLeft="5dp"
+                              android:paddingStart="5dp"
                               android:textColor="@color/black"
                               android:textColorHint="@color/hintColor"
                               android:textSize="15sp" />
@@ -89,9 +89,9 @@
                   <androidx.cardview.widget.CardView
                       android:layout_width="match_parent"
                       android:layout_height="wrap_content"
-                      android:layout_marginLeft="2dp"
+                      android:layout_marginStart="2dp"
                       android:layout_marginTop="15dp"
-                      android:layout_marginRight="2dp"
+                      android:layout_marginEnd="2dp"
                       android:background="@color/white"
                       app:cardBackgroundColor="@color/white"
                       app:cardCornerRadius="20dp">
@@ -105,25 +105,31 @@
                               android:layout_width="17dp"
                               android:layout_height="17dp"
                               android:layout_gravity="center"
-                              android:layout_marginLeft="15dp"
+                              android:layout_marginStart="15dp"
                               android:background="@drawable/ic_smartphone"
                               android:backgroundTint="#3c9658"></ImageView>
+
+                          <TextView
+                              android:layout_width="wrap_content"
+                              android:layout_height="match_parent"
+                              android:layout_marginStart="10dp"
+                              android:gravity="center|start"
+                              android:text="+62" />
 
                           <EditText
                               android:id="@+id/et_pro_phone"
                               android:layout_width="match_parent"
                               android:layout_height="match_parent"
                               android:layout_gravity="center"
-                              android:layout_marginLeft="10dp"
-                              android:layout_marginRight="10dp"
+                              android:layout_marginEnd="10dp"
                               android:background="@android:color/transparent"
                               android:digits="1234567890"
                               android:fontFamily="@font/opensans_semibold"
-                              android:gravity="center|left"
+                              android:gravity="center|start"
                               android:hint="Enter Mobile Number"
                               android:inputType="phone"
-                              android:maxLength="10"
-                              android:paddingLeft="5dp"
+                              android:maxLength="20"
+                              android:paddingStart="10dp"
                               android:textColor="@color/black"
                               android:textColorHint="@color/hintColor"
                               android:textSize="15sp"></EditText>
@@ -134,9 +140,9 @@
                   <androidx.cardview.widget.CardView
                       android:layout_width="match_parent"
                       android:layout_height="wrap_content"
-                      android:layout_marginLeft="2dp"
+                      android:layout_marginStart="2dp"
                       android:layout_marginTop="15dp"
-                      android:layout_marginRight="2dp"
+                      android:layout_marginEnd="2dp"
                       android:background="@color/white"
                       app:cardBackgroundColor="@color/white"
                       app:cardCornerRadius="20dp">
@@ -150,7 +156,7 @@
                               android:layout_width="17dp"
                               android:layout_height="17dp"
                               android:layout_gravity="center"
-                              android:layout_marginLeft="15dp"
+                              android:layout_marginStart="15dp"
                               android:background="@drawable/ic_envelope"
                               android:backgroundTint="#3c9658"></ImageView>
 
@@ -159,14 +165,14 @@
                               android:layout_width="match_parent"
                               android:layout_height="match_parent"
                               android:layout_gravity="center"
-                              android:layout_marginLeft="10dp"
-                              android:layout_marginRight="10dp"
+                              android:layout_marginStart="10dp"
+                              android:layout_marginEnd="10dp"
                               android:background="@android:color/transparent"
                               android:fontFamily="@font/opensans_semibold"
-                              android:gravity="center|left"
+                              android:gravity="center|start"
                               android:hint="Enter Email ID"
                               android:inputType="textEmailAddress"
-                              android:paddingLeft="5dp"
+                              android:paddingStart="5dp"
                               android:textColor="@color/black"
                               android:textColorHint="@color/hintColor"
                               android:textSize="15sp"></EditText>
@@ -177,9 +183,9 @@
                   <androidx.cardview.widget.CardView
                       android:layout_width="match_parent"
                       android:layout_height="wrap_content"
-                      android:layout_marginLeft="2dp"
+                      android:layout_marginStart="2dp"
                       android:layout_marginTop="15dp"
-                      android:layout_marginRight="2dp"
+                      android:layout_marginEnd="2dp"
                       android:background="@color/white"
                       app:cardBackgroundColor="@color/white"
                       app:cardCornerRadius="20dp">
@@ -209,12 +215,12 @@
                                   android:layout_width="wrap_content"
                                   android:layout_height="wrap_content"
                                   android:layout_alignParentRight="true"
-                                  android:layout_marginRight="20dp"
+                                  android:layout_marginEnd="20dp"
                                   android:background="@drawable/rounded_shape"
                                   android:backgroundTint="#3c9658"
-                                  android:paddingLeft="15dp"
+                                  android:paddingStart="15dp"
                                   android:paddingTop="5dp"
-                                  android:paddingRight="15dp"
+                                  android:paddingEnd="15dp"
                                   android:paddingBottom="5dp"
                                   android:text="Save"
                                   android:textColor="@color/white"
@@ -254,16 +260,16 @@
                                       android:id="@+id/email_yes"
                                       android:layout_width="wrap_content"
                                       android:layout_height="wrap_content"
-                                      android:layout_marginLeft="10dp"
-                                      android:layout_marginRight="10dp"
+                                      android:layout_marginStart="10dp"
+                                      android:layout_marginEnd="10dp"
                                       android:text="Yes"/>
 
                                   <RadioButton
                                       android:id="@+id/email_no"
                                       android:layout_width="wrap_content"
                                       android:layout_height="wrap_content"
-                                      android:layout_marginLeft="10dp"
-                                      android:layout_marginRight="10dp"
+                                      android:layout_marginStart="10dp"
+                                      android:layout_marginEnd="10dp"
                                       android:text="No"/>
                               </RadioGroup>
 
@@ -287,14 +293,14 @@
                               <!--                            android:text="Yes"-->
                               <!--                            android:id="@+id/text_circle"-->
                               <!--                            android:layout_toRightOf="@+id/circle1"-->
-                              <!--                            android:layout_marginLeft="10dp"-->
+                              <!--                            android:layout_marginStart="10dp"-->
                               <!--                            android:textColor="@color/black"-->
                               <!--                            android:textSize="13dp"/>-->
 
                               <!--                        <androidx.cardview.widget.CardView-->
                               <!--                            android:layout_width="13dp"-->
                               <!--                            android:id="@+id/circle2"-->
-                              <!--                            android:layout_marginLeft="20dp"-->
+                              <!--                            android:layout_marginStart="20dp"-->
                               <!--                            android:layout_toRightOf="@+id/text_circle"-->
                               <!--                            android:layout_height="13dp"-->
                               <!--                            app:cardBackgroundColor="@color/grey"-->
@@ -307,7 +313,7 @@
                               <!--                            android:layout_height="wrap_content"-->
                               <!--                            android:text="No"-->
                               <!--                            android:layout_toRightOf="@+id/circle2"-->
-                              <!--                            android:layout_marginLeft="10dp"-->
+                              <!--                            android:layout_marginStart="10dp"-->
                               <!--                            android:textColor="@color/black"-->
                               <!--                            android:textSize="13dp"/>-->
 
@@ -345,16 +351,16 @@
                                       android:id="@+id/sms_yes"
                                       android:layout_width="wrap_content"
                                       android:layout_height="wrap_content"
-                                      android:layout_marginLeft="10dp"
-                                      android:layout_marginRight="10dp"
+                                      android:layout_marginStart="10dp"
+                                      android:layout_marginEnd="10dp"
                                       android:text="Yes"></RadioButton>
 
                                   <RadioButton
                                       android:id="@+id/sms_no"
                                       android:layout_width="wrap_content"
                                       android:layout_height="wrap_content"
-                                      android:layout_marginLeft="10dp"
-                                      android:layout_marginRight="10dp"
+                                      android:layout_marginStart="10dp"
+                                      android:layout_marginEnd="10dp"
                                       android:text="No"></RadioButton>
                               </RadioGroup>
 
@@ -373,14 +379,14 @@
                               <!--                            android:text="Yes"-->
                               <!--                            android:id="@+id/text_circle1"-->
                               <!--                            android:layout_toRightOf="@+id/circle3"-->
-                              <!--                            android:layout_marginLeft="10dp"-->
+                              <!--                            android:layout_marginStart="10dp"-->
                               <!--                            android:textColor="@color/black"-->
                               <!--                            android:textSize="13dp"/>-->
 
                               <!--                        <androidx.cardview.widget.CardView-->
                               <!--                            android:layout_width="13dp"-->
                               <!--                            android:id="@+id/circle4"-->
-                              <!--                            android:layout_marginLeft="20dp"-->
+                              <!--                            android:layout_marginStart="20dp"-->
                               <!--                            android:layout_toRightOf="@+id/text_circle1"-->
                               <!--                            android:layout_height="13dp"-->
                               <!--                            app:cardBackgroundColor="@color/grey"-->
@@ -393,7 +399,7 @@
                               <!--                            android:layout_height="wrap_content"-->
                               <!--                            android:text="No"-->
                               <!--                            android:layout_toRightOf="@+id/circle4"-->
-                              <!--                            android:layout_marginLeft="10dp"-->
+                              <!--                            android:layout_marginStart="10dp"-->
                               <!--                            android:textColor="@color/black"-->
                               <!--                            android:textSize="13dp"/>-->
 
@@ -430,16 +436,16 @@
                                       android:id="@+id/inapp_yes"
                                       android:layout_width="wrap_content"
                                       android:layout_height="wrap_content"
-                                      android:layout_marginLeft="10dp"
-                                      android:layout_marginRight="10dp"
+                                      android:layout_marginStart="10dp"
+                                      android:layout_marginEnd="10dp"
                                       android:text="Yes"></RadioButton>
 
                                   <RadioButton
                                       android:id="@+id/inapp_no"
                                       android:layout_width="wrap_content"
                                       android:layout_height="wrap_content"
-                                      android:layout_marginLeft="10dp"
-                                      android:layout_marginRight="10dp"
+                                      android:layout_marginStart="10dp"
+                                      android:layout_marginEnd="10dp"
                                       android:text="No"></RadioButton>
                               </RadioGroup>
 
@@ -458,14 +464,14 @@
                               <!--                            android:text="Yes"-->
                               <!--                            android:id="@+id/text_circle5"-->
                               <!--                            android:layout_toRightOf="@+id/circle5"-->
-                              <!--                            android:layout_marginLeft="10dp"-->
+                              <!--                            android:layout_marginStart="10dp"-->
                               <!--                            android:textColor="@color/black"-->
                               <!--                            android:textSize="13dp"/>-->
 
                               <!--                        <androidx.cardview.widget.CardView-->
                               <!--                            android:layout_width="13dp"-->
                               <!--                            android:id="@+id/circle6"-->
-                              <!--                            android:layout_marginLeft="20dp"-->
+                              <!--                            android:layout_marginStart="20dp"-->
                               <!--                            android:layout_toRightOf="@+id/text_circle5"-->
                               <!--                            android:layout_height="13dp"-->
                               <!--                            app:cardBackgroundColor="@color/grey"-->
@@ -478,7 +484,7 @@
                               <!--                            android:layout_height="wrap_content"-->
                               <!--                            android:text="No"-->
                               <!--                            android:layout_toRightOf="@+id/circle6"-->
-                              <!--                            android:layout_marginLeft="10dp"-->
+                              <!--                            android:layout_marginStart="10dp"-->
                               <!--                            android:textColor="@color/black"-->
                               <!--                            android:textSize="13dp"/>-->
 

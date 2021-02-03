@@ -1,20 +1,20 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="app_name" translatable="false" tools:ignore="PrivateResource">TokeTani</string>
+    <string name="app_name" tools:ignore="PrivateResource" translatable="false">TokeTani</string>
     <!--    <string name="app_name">Heritage Food</string>-->
     <string name="currency" translatable="false">Rp</string>
     <string name="emptyCart">NO items in the cart</string>
     <string name="tv_order_rs">Rs.</string>
     <string name="tv_order_qty">Qty</string>
     <string name="cash" translatable="false">Cash On Delivery</string>
-    <string name="tv_reg_name_hint">Nama</string>
+    <string name="tv_reg_name_hint">Name</string>
     <string name="date_d" translatable="false">Date:</string>
     <string name="no_rcord_found" translatable="false">No record found</string>
-    <string name="emptyCartInfo">Sialahkan tambahkan item untuk dimasukkan ke keranjang</string>
-    <string name="orderSuccess">Pesanan telah diterima</string>
-    <string name="orderSuccessInfo">Pesanan telah diterima. Kurir akan segera mengontak anda</string>
-    <string name="noNet">Tidak ada internet</string>
-    <string name="noNetInfo">SIlahkan mengecek koneksi internet untuk melanjutkan belanja</string>
-    <string name="location">Pilih lokasi</string>
+    <string name="emptyCartInfo">Please add some of the items in cart that will appear here</string>
+    <string name="orderSuccess">order accepted successfully</string>
+    <string name="orderSuccessInfo">Your order accepted successfully. Delivery boy will contact you soon</string>
+    <string name="noNet">NO internet connection</string>
+    <string name="noNetInfo">Please check your internet connectivity and continue your shopping</string>
+    <string name="location">Choose your location</string>
     <string name="locationInfo">Choose your location and start shopping</string>
     <string name="title_activity_main">MainActivity</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
@@ -47,7 +47,7 @@
     <string name="nav_profile" translatable="false">My Profile</string>
     <string name="nav_support" translatable="false">Support</string>
     <string name="nav_about" translatable="false">About Us</string>
-    <string name="failed" translatable="false">Maaf, Pembayaran anda gagal diproses</string>
+    <string name="failed" translatable="false">Sorry,Your Payment Has Failed</string>
     <string name="again" translatable="false">Please Try Again</string>
     <string name="retry" translatable="false">Retry Order</string>
     <string name="nav_review" translatable="false">Review Us</string>
@@ -100,32 +100,32 @@
     <string name="order_no" translatable="false">Order No.:\u0020</string>
     <string name="pending" translatable="false">Pending</string>
     <string name="confirm" translatable="false">Confirm</string>
-    <string name="delivered" translatable="false">Dikirim</string>
+    <string name="delivered" translatable="false">Delivered</string>
     <string name="outfordeliverd" translatable="false">Out for Delivered\nReady to pickup</string>
     <string name="cancle" translatable="false">Cancel</string>
     <string name="date">Date:\u0020</string>
     <string name="time">Time:\u0020</string>
     <string name="tv_cart_title">Cart</string>
 
-    <string name="debit" translatable="false">Kartu Debit / Kredit</string>
+    <string name="debit" translatable="false">Debit / Credit Card</string>
     <string name="net" translatable="false">Net Banking</string>
     <string name="card" translatable="false">Cards</string>
-    <string name="promo" translatable="false">Kode Promo</string>
+    <string name="promo" translatable="false">Promo Code</string>
     <string name="tv_cart_clear">Clear All Product</string>
-    <string name="tv_cart_checkout">Lanjutkan Checkout</string>
+    <string name="tv_cart_checkout">Continue Checkout</string>
     <string name="tv_cart_total">Total:\u0020</string>
     <string name="tv_cart_item">Items:\u0020</string>
     <string name="tv_cart_rs">\u0020Rs</string>
-    <string name="coupon" translatable="false">Kupon</string>
+    <string name="coupon" translatable="false">Coupon</string>
     <string name="sure_del" translatable="false">Are you sure!
     you want to delete all cart product</string>
     <string name="tv_del_title">Delivery Date/Time</string>
     <!-- fragment_delivery_time.xml -->
-    <string name="tv_del_address">Alamat Pengiriman</string>
-    <string name="et_del_address_hint">Silahkan masukkan alamat..</string>
+    <string name="tv_del_address">Delivery Address</string>
+    <string name="et_del_address_hint">Enter Delivery address..</string>
     <string name="tv_del_continue">Continue With Time</string>
-    <string name="tv_del_date">Pilih tanggal pengiriman</string>
-    <string name="tv_del_time">Pilih waktu pengiriman</string>
+    <string name="tv_del_date">Select delivery date</string>
+    <string name="tv_del_time">Select delivery time</string>
     <string name="tv_del_date_time">Delivery Data/Time</string>
     <string name="tv_total_item_amount">Total Items And Amount</string>
     <string name="tv_total_total">Total Amount </string>
@@ -143,11 +143,11 @@
     <string name="payment_prompt">Enter your card details to complete the payment</string>
     <string name="make_payment">Make Payment</string>
     <string name="splash_image">splash image</string>
-    <string name="my_reward_points">Poin Rewards</string>
+    <string name="my_reward_points">My Reward Points</string>
     <string name="redeem">Redeem</string>
     <string-array name="selectAction">
-        <item>Kirim ulang OTP</item>
-        <item>Masukkan OTP secara manuak</item>
+        <item>Resend OTP</item>
+        <item>Enter OTP Manually</item>
     </string-array>
 
 

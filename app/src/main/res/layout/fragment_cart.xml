@@ -39,8 +39,8 @@
                 android:id="@+id/ll11"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
-                android:layout_marginLeft="25dp"
-                android:gravity="center|left"
+                android:layout_marginStart="25dp"
+                android:gravity="center|start"
                 android:background="@color/color_home_background"
                 android:orientation="horizontal">
 
@@ -48,7 +48,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:layout_gravity="center"
-                    android:gravity="center|left"
+                    android:gravity="center|start"
                     android:text="Cart"
                     android:textSize="25sp"
                     android:textColor="@color/darkGrey"
@@ -166,7 +166,7 @@
                         android:id="@+id/profile_image"
                         android:layout_width="40dp"
                         android:layout_height="40dp"
-                        android:layout_marginRight="10dp"
+                        android:layout_marginEnd="10dp"
                         android:layout_marginTop="5dp"
                         android:src="@drawable/splashicon"
                         app:civ_border_width=".5dp"
@@ -181,15 +181,15 @@
                 <!--                        android:layout_height="50dp"-->
                 <!--                        android:layout_marginTop="10dp"-->
                 <!--                        android:orientation="vertical"-->
-                <!--                        android:gravity="center|left">-->
+                <!--                        android:gravity="center|start">-->
 
                 <!--                        <TextView-->
                 <!--                            android:layout_width="match_parent"-->
                 <!--                            android:layout_height="match_parent"-->
                 <!--                            android:layout_gravity="center"-->
-                <!--                            android:gravity="center|left"-->
-                <!--                            android:layout_marginLeft="15dp"-->
-                <!--                            android:layout_marginRight="10dp"-->
+                <!--                            android:gravity="center|start"-->
+                <!--                            android:layout_marginStart="15dp"-->
+                <!--                            android:layout_marginEnd="10dp"-->
                 <!--                            android:text="Cart"-->
                 <!--                            android:textSize="22sp"-->
                 <!--                            android:textColor="@color/darkGrey"-->
@@ -232,11 +232,11 @@
                     android:id="@+id/txt_totalQuan"
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
-                    android:layout_gravity="left"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginRight="5dp"
+                    android:layout_gravity="start"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginEnd="5dp"
                     android:fontFamily="@font/opensans_semibold"
-                    android:gravity="center|left"
+                    android:gravity="center|start"
                     android:text="9 Total items:"
                     android:textColor="@color/white"
                     android:textSize="16sp"/>
@@ -245,11 +245,11 @@
                     android:id="@+id/txt_totalamount"
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
-                    android:layout_gravity="left"
-                    android:layout_marginLeft="5dp"
-                    android:layout_marginRight="5dp"
+                    android:layout_gravity="start"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginEnd="5dp"
                     android:fontFamily="@font/opensans_semibold"
-                    android:gravity="center|left"
+                    android:gravity="center|start"
                     android:text="Rs.2099"
                     android:textColor="@color/white"
                     android:textSize="16sp"/>
@@ -265,8 +265,8 @@
                     android:id="@+id/btn_Checkout"
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
-                    android:layout_marginLeft="5dp"
-                    android:layout_marginRight="5dp"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginEnd="5dp"
                     android:fontFamily="@font/opensans_semibold"
                     android:gravity="center"
                     android:text="Continue"
@@ -275,11 +275,11 @@
                 <TextView
                     android:layout_width="12dp"
                     android:layout_height="12dp"
-                    android:layout_marginRight="10dp"
+                    android:layout_marginEnd="10dp"
                     android:layout_marginTop="3dp"
                     android:gravity="center"
                     android:drawableTint="@color/white"
-                    android:drawableRight="@drawable/ic_right_arrow" />
+                    android:drawableEnd="@drawable/ic_right_arrow" />
 
 
             </LinearLayout>

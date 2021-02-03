@@ -48,7 +48,7 @@
                             android:layout_width="20dp"
                             android:layout_height="20dp"
                             android:layout_gravity="center"
-                            android:layout_marginLeft="10dp"
+                            android:layout_marginStart="10dp"
                             android:background="@drawable/ic_loupe"
                             android:backgroundTint="@color/lightGrey" />
 
@@ -255,8 +255,8 @@
                                 android:id="@+id/rv_populrcate"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
-                                android:layout_marginLeft="8dp"
-                                android:layout_marginRight="8dp"
+                                android:layout_marginStart="8dp"
+                                android:layout_marginEnd="8dp"
                                 android:scrollbars="none"
                                 app:layout_behavior="@string/appbar_scrolling_view_behavior" />
 
@@ -324,8 +324,8 @@
                             android:id="@+id/rv_home"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:layout_marginLeft="8dp"
-                            android:layout_marginRight="8dp"
+                            android:layout_marginStart="8dp"
+                            android:layout_marginEnd="8dp"
                             android:scrollbars="none"
                             app:layout_behavior="@string/appbar_scrolling_view_behavior" />
 

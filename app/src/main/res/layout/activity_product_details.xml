@@ -29,9 +29,9 @@
                     android:layout_width="30dp"
                     android:layout_height="30dp"
                     android:layout_gravity="center"
-                    android:layout_marginLeft="10dp"
+                    android:layout_marginStart="10dp"
                     android:layout_marginTop="2dp"
-                    android:layout_marginRight="10dp"
+                    android:layout_marginEnd="10dp"
                     android:gravity="center">
 
                     <ImageView
@@ -44,10 +44,10 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
-                    android:layout_gravity="left"
-                    android:layout_marginRight="10dp"
+                    android:layout_gravity="start"
+                    android:layout_marginEnd="10dp"
                     android:fontFamily="@font/opensans_semibold"
-                    android:gravity="center|left"
+                    android:gravity="center|start"
                     android:text="Home"
                     android:textColor="#3c9658"
                     android:textSize="22sp"/>
@@ -76,7 +76,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_below="@+id/ll1"
-                android:gravity="center|left"
+                android:gravity="center|start"
                 android:layout_margin="5dp"
                 android:orientation="vertical">
 
@@ -91,12 +91,12 @@
                 android:id="@+id/txt_pName"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
-                android:layout_gravity="left"
+                android:layout_gravity="start"
                 android:layout_below="@+id/ll2"
-                android:layout_marginLeft="15dp"
-                android:layout_marginRight="15dp"
+                android:layout_marginStart="15dp"
+                android:layout_marginEnd="15dp"
                 android:fontFamily="@font/opensans_semibold"
-                android:gravity="center|left"
+                android:gravity="center|start"
                 android:text="Product Name"
                 android:textColor="@color/darkGrey"
                 android:textSize="17sp"/>
@@ -106,12 +106,12 @@
                 android:id="@+id/nodata"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_gravity="left"
+                android:layout_gravity="start"
                 android:layout_below="@+id/txt_pName"
                 android:layout_marginTop="40dp"
                 android:layout_marginBottom="40dp"
-                android:layout_marginLeft="15dp"
-                android:layout_marginRight="15dp"
+                android:layout_marginStart="15dp"
+                android:layout_marginEnd="15dp"
                 android:fontFamily="@font/opensans_semibold"
                 android:gravity="center"
                 android:text="No content available!"
@@ -121,10 +121,10 @@
                 android:id="@+id/ll3"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:gravity="center|left"
+                android:gravity="center|start"
                 android:layout_below="@+id/txt_pName"
-                android:layout_marginLeft="15dp"
-                android:layout_marginRight="15dp"
+                android:layout_marginStart="15dp"
+                android:layout_marginEnd="15dp"
                 android:orientation="vertical">
 
 
@@ -132,11 +132,11 @@
                     android:id="@+id/txt_pInfo"
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
-                    android:layout_gravity="left"
+                    android:layout_gravity="start"
                     android:layout_marginTop="2dp"
-                    android:layout_marginRight="10dp"
+                    android:layout_marginEnd="10dp"
                     android:fontFamily="@font/opensans_regular"
-                    android:gravity="center|left"
+                    android:gravity="center|start"
                     android:textColor="@color/hintColor"
                     android:textSize="14sp"/>
 
@@ -150,11 +150,11 @@
                         android:id="@+id/txt_pPrice"
                         android:layout_width="wrap_content"
                         android:layout_height="match_parent"
-                        android:layout_gravity="left"
+                        android:layout_gravity="start"
                         android:layout_marginTop="2dp"
-                        android:layout_marginRight="10dp"
+                        android:layout_marginEnd="10dp"
                         android:fontFamily="@font/opensans_semibold"
-                        android:gravity="center|left"
+                        android:gravity="center|start"
                         android:text="Rs. 299"
                         android:textColor="@color/darkGrey"
                         android:textSize="16sp"/>
@@ -163,11 +163,11 @@
                         android:id="@+id/txt_pMrp"
                         android:layout_width="wrap_content"
                         android:layout_height="match_parent"
-                        android:layout_gravity="left"
+                        android:layout_gravity="start"
                         android:layout_marginTop="2dp"
-                        android:layout_marginRight="10dp"
+                        android:layout_marginEnd="10dp"
                         android:fontFamily="@font/opensans_semibold"
-                        android:gravity="center|left"
+                        android:gravity="center|start"
                         android:text="Rs. 299"
                         android:textColor="@color/hintColor"
                         android:textSize="13sp"/>
@@ -193,9 +193,9 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="match_parent"
                                 android:layout_gravity="center"
-                                android:paddingLeft="10dp"
-                                android:paddingRight="5dp"
-                                android:layout_marginLeft="10dp"
+                                android:paddingStart="10dp"
+                                android:paddingEnd="5dp"
+                                android:layout_marginStart="10dp"
                                 android:fontFamily="@font/opensans_semibold"
                                 android:gravity="center"
                                 android:text="ADD"
@@ -206,9 +206,9 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="match_parent"
                                 android:layout_gravity="center"
-                                android:paddingLeft="10dp"
-                                android:layout_marginRight="6dp"
-                                android:drawableRight="@drawable/ic_plus"/>
+                                android:paddingStart="10dp"
+                                android:layout_marginEnd="6dp"
+                                android:drawableEnd="@drawable/ic_plus"/>
 
 
                         </LinearLayout>
@@ -227,17 +227,17 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="match_parent"
                                 android:layout_gravity="center"
-                                android:paddingRight="10dp"
+                                android:paddingEnd="10dp"
                                 android:drawableTint="#3c9658"
-                                android:layout_marginLeft="6dp"
-                                android:drawableRight="@drawable/ic_minus"/>
+                                android:layout_marginStart="6dp"
+                                android:drawableEnd="@drawable/ic_minus"/>
                             <TextView
                                 android:layout_width="wrap_content"
                                 android:layout_height="match_parent"
                                 android:layout_gravity="center"
-                                android:paddingLeft="5dp"
-                                android:paddingRight="2dp"
-                                android:layout_marginLeft="5dp"
+                                android:paddingStart="5dp"
+                                android:paddingEnd="2dp"
+                                android:layout_marginStart="5dp"
                                 android:fontFamily="@font/opensans_semibold"
                                 android:gravity="center"
                                 android:text="x"
@@ -249,8 +249,8 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="match_parent"
                                 android:layout_gravity="center"
-                                android:paddingRight="5dp"
-                                android:layout_marginRight="5dp"
+                                android:paddingEnd="5dp"
+                                android:layout_marginEnd="5dp"
                                 android:fontFamily="@font/opensans_semibold"
                                 android:gravity="center"
                                 android:text="1"
@@ -262,10 +262,10 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="match_parent"
                                 android:layout_gravity="center"
-                                android:paddingLeft="10dp"
+                                android:paddingStart="10dp"
                                 android:drawableTint="#3c9658"
-                                android:layout_marginRight="6dp"
-                                android:drawableRight="@drawable/ic_plus"/>
+                                android:layout_marginEnd="6dp"
+                                android:drawableEnd="@drawable/ic_plus"/>
                         </LinearLayout>
 
                     </LinearLayout>
@@ -354,11 +354,11 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_gravity="left"
+                        android:layout_gravity="start"
                         android:layout_marginTop="2dp"
-                        android:layout_marginRight="10dp"
+                        android:layout_marginEnd="10dp"
                         android:fontFamily="@font/opensans_semibold"
-                        android:gravity="center|left"
+                        android:gravity="center|start"
                         android:text="Disclaimer"
                         android:textColor="@color/darkGrey"
                         android:textSize="15sp"/>
@@ -367,11 +367,11 @@
                         android:id="@+id/txt_description"
                         android:layout_width="wrap_content"
                         android:layout_height="match_parent"
-                        android:layout_gravity="left"
+                        android:layout_gravity="start"
                         android:layout_marginTop="5dp"
-                        android:layout_marginRight="10dp"
+                        android:layout_marginEnd="10dp"
                         android:fontFamily="@font/opensans_regular"
-                        android:gravity="center|left"
+                        android:gravity="center|start"
                         android:text=""
                         android:textColor="@color/hintColor"
                         android:textSize="14sp"/>

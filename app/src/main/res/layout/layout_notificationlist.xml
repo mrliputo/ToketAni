@@ -39,8 +39,8 @@
             android:fontFamily="@font/opensans_regular"
             android:textColor="@color/hintColor"
             android:hint="Data"
-            android:paddingLeft="5dp"
-            android:paddingRight="5dp"
+            android:paddingStart="5dp"
+            android:paddingEnd="5dp"
             android:paddingBottom="5dp"
             android:paddingTop="2dp">
 

@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:background="@color/green"
     android:clickable="true"
-    android:gravity="bottom|left"
+    android:gravity="bottom|start"
     android:orientation="vertical">
 
 
@@ -29,7 +29,7 @@
             android:id="@+id/actionbar_notifcation_textview"
             android:layout_width="15dp"
             android:layout_height="15dp"
-            android:layout_marginLeft="16dp"
+            android:layout_marginStart="16dp"
             android:background="@drawable/xml_budget"
             android:gravity="center"
             android:padding="1dp"

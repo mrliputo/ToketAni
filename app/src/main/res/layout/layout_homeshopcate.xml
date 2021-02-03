@@ -36,7 +36,7 @@
             <!--            <LinearLayout-->
             <!--                android:layout_width="80dp"-->
             <!--                android:layout_height="match_parent"-->
-            <!--                android:layout_marginLeft="10dp"-->
+            <!--                android:layout_marginStart="10dp"-->
             <!--                android:layout_gravity="center"-->
             <!--                android:gravity="center"-->
             <!--                android:orientation="vertical">-->
@@ -47,8 +47,8 @@
             <!--                android:layout_width="match_parent"-->
             <!--                android:layout_height="wrap_content"-->
             <!--                android:gravity="center|right"-->
-            <!--                android:layout_marginLeft="8dp"-->
-            <!--                android:layout_marginRight="10dp"-->
+            <!--                android:layout_marginStart="8dp"-->
+            <!--                android:layout_marginEnd="10dp"-->
             <!--                android:layout_gravity="center"-->
             <!--                android:orientation="horizontal">-->
             <!--               -->
@@ -72,8 +72,8 @@
                     android:layout_height="wrap_content"
                     android:fontFamily="@font/opensans_semibold"
                     android:gravity="center|right"
-                    android:paddingLeft="5dp"
-                    android:paddingRight="5dp"
+                    android:paddingStart="5dp"
+                    android:paddingEnd="5dp"
                     android:text="Product Name"
                     android:textColor="@color/white"
                     android:textSize="15sp"/>
@@ -85,10 +85,10 @@
                     android:layout_height="wrap_content"
                     android:layout_marginTop="2dp"
                     android:singleLine="true"
-                    android:paddingLeft="5dp"
-                    android:paddingRight="5dp"
+                    android:paddingStart="5dp"
+                    android:paddingEnd="5dp"
                     android:fontFamily="@font/opensans_regular"
-                    android:gravity="center|left"
+                    android:gravity="center|start"
                     android:text="Product Name"
                     android:textColor="@color/hintColor"
                     android:textSize="13sp"/>
@@ -105,7 +105,7 @@
                         android:layout_height="15dp"
                         android:background="@drawable/ic_down_arrow"
                         android:backgroundTint="@color/white"
-                        android:layout_gravity="center|left" />
+                        android:layout_gravity="center|start" />
                     <ImageView
                         android:id="@+id/image1"
                         android:visibility="gone"
@@ -113,7 +113,7 @@
                         android:layout_height="15dp"
                         android:background="@drawable/ic_up_arrow"
                         android:backgroundTint="@color/white"
-                        android:layout_gravity="center|left"/>
+                        android:layout_gravity="center|start"/>
 
                 </LinearLayout>
             </LinearLayout>

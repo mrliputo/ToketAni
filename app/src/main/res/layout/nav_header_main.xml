@@ -23,8 +23,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="center_vertical"
-            android:layout_marginLeft="12dp"
-            android:layout_marginRight="12dp"
+            android:layout_marginStart="12dp"
+            android:layout_marginEnd="12dp"
             android:layout_marginTop="16dp"
             android:layout_marginBottom="16dp"
             android:gravity="center_vertical"
@@ -41,8 +41,8 @@
                     android:id="@+id/iv_header_img"
                     android:layout_width="60dp"
                     android:layout_height="60dp"
-                    android:layout_marginLeft="8dp"
-                    android:layout_marginRight="8dp"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginEnd="8dp"
                     android:background="@color/white"
                     android:src="@drawable/splashicon" />
             </LinearLayout>
@@ -52,8 +52,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_gravity="center"
-                android:layout_marginLeft="8dp"
-                android:layout_marginRight="8dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginEnd="8dp"
                 android:gravity="center">
 
                 <TextView
@@ -61,14 +61,14 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginBottom="4dp"
-                    android:layout_marginLeft="8dp"
-                    android:gravity="center|left"
+                    android:layout_marginStart="8dp"
+                    android:gravity="center|start"
                     android:text="Hey User"
                     android:textAppearance="@style/TextAppearance.AppCompat.Body1"
                     android:textColor="#fff"
                     android:textSize="17sp"
                     android:drawableTint="@color/white"
-                    android:drawableRight="@drawable/ic_right_arrow"
+                    android:drawableEnd="@drawable/ic_right_arrow"
                     android:fontFamily="@font/opensans_semibold"/>
             </LinearLayout>
 
@@ -76,7 +76,7 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_gravity="center"
-                android:layout_marginRight="8dp"
+                android:layout_marginEnd="8dp"
                 android:layout_weight="1"
                 android:gravity="center">
 
@@ -98,8 +98,8 @@
             android:layout_width="match_parent"
             android:layout_height="40dp"
             android:layout_gravity="center_vertical"
-            android:layout_marginLeft="@dimen/space_12"
-            android:layout_marginRight="@dimen/space_12"
+            android:layout_marginStart="@dimen/space_12"
+            android:layout_marginEnd="@dimen/space_12"
             android:layout_marginTop="@dimen/space_16"
             android:gravity="center_vertical"
             android:visibility="invisible"
@@ -111,12 +111,12 @@
                 android:layout_height="match_parent"
                 android:layout_gravity="center"
                 android:layout_weight="1.1"
-                android:gravity="center|left">
+                android:gravity="center|start">
 
                 <de.hdodenhof.circleimageview.CircleImageView xmlns:app="http://schemas.android.com/apk/res-auto"
                     android:layout_width="80dp"
                     android:layout_height="80dp"
-                    android:layout_marginLeft="@dimen/space_8"
+                    android:layout_marginStart="@dimen/space_8"
                     app:civ_border_color="@android:color/transparent"
                     app:civ_border_width="2dp" />
             </LinearLayout>
@@ -133,7 +133,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginBottom="4dp"
-                    android:layout_marginLeft="@dimen/space_8"
+                    android:layout_marginStart="@dimen/space_8"
                     android:gravity="center"
                     android:text="Change Store"
                     android:textAppearance="@style/TextAppearance.AppCompat.Body1"
@@ -145,7 +145,7 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_gravity="center"
-                android:layout_marginRight="8dp"
+                android:layout_marginEnd="8dp"
                 android:layout_weight="1"
                 android:gravity="center">
 
@@ -245,7 +245,7 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
-                    android:layout_marginLeft="4dp"
+                    android:layout_marginStart="4dp"
                     android:layout_weight=".4"
                     android:background="#3c9658"
                     android:gravity="center"
@@ -323,7 +323,7 @@
                 <RelativeLayout
                     android:id="@+id/loginssup"
                     android:layout_marginTop="10dp"
-                    android:layout_marginLeft="15dp"
+                    android:layout_marginStart="15dp"
                     android:layout_width="match_parent"
                     android:layout_height="50dp">
 
@@ -339,7 +339,7 @@
                         android:fontFamily="@font/opensans_regular"
                         android:layout_centerVertical="true"
                         android:layout_toRightOf="@+id/image1"
-                        android:layout_marginLeft="15dp"
+                        android:layout_marginStart="15dp"
                         android:textColor="@color/white"
                         android:textSize="14sp"
                         android:text="Login/SignUp"
@@ -350,7 +350,7 @@
                 <RelativeLayout
                     android:id="@+id/nav_my_profile"
                     android:layout_marginTop="15dp"
-                    android:layout_marginLeft="15dp"
+                    android:layout_marginStart="15dp"
                     android:layout_width="match_parent"
                     android:layout_height="50dp">
 
@@ -366,7 +366,7 @@
                         android:fontFamily="@font/opensans_regular"
                         android:layout_centerVertical="true"
                         android:layout_toRightOf="@+id/image2"
-                        android:layout_marginLeft="15dp"
+                        android:layout_marginStart="15dp"
                         android:textColor="@color/white"
                         android:textSize="14sp"
                         android:text="My Profile"
@@ -377,7 +377,7 @@
                 <RelativeLayout
                     android:id="@+id/nav_aboutus"
                     android:layout_marginTop="5dp"
-                    android:layout_marginLeft="15dp"
+                    android:layout_marginStart="15dp"
                     android:layout_width="match_parent"
                     android:layout_height="50dp">
 
@@ -393,7 +393,7 @@
                         android:fontFamily="@font/opensans_regular"
                         android:layout_centerVertical="true"
                         android:layout_toRightOf="@+id/image3"
-                        android:layout_marginLeft="15dp"
+                        android:layout_marginStart="15dp"
                         android:textColor="@color/white"
                         android:textSize="14sp"
                         android:text="About Us"
@@ -404,7 +404,7 @@
                 <RelativeLayout
                     android:id="@+id/nav_policy"
                     android:layout_marginTop="5dp"
-                    android:layout_marginLeft="15dp"
+                    android:layout_marginStart="15dp"
                     android:layout_width="match_parent"
                     android:layout_height="50dp">
 
@@ -420,7 +420,7 @@
                         android:fontFamily="@font/opensans_regular"
                         android:layout_centerVertical="true"
                         android:layout_toRightOf="@+id/image4"
-                        android:layout_marginLeft="15dp"
+                        android:layout_marginStart="15dp"
                         android:textColor="@color/white"
                         android:textSize="14sp"
                         android:text="Terms &amp; Privacy"
@@ -431,7 +431,7 @@
                 <RelativeLayout
                     android:id="@+id/nav_contact"
                     android:layout_marginTop="5dp"
-                    android:layout_marginLeft="15dp"
+                    android:layout_marginStart="15dp"
                     android:layout_width="match_parent"
                     android:layout_height="50dp">
 
@@ -447,7 +447,7 @@
                         android:fontFamily="@font/opensans_regular"
                         android:layout_centerVertical="true"
                         android:layout_toRightOf="@+id/image5"
-                        android:layout_marginLeft="15dp"
+                        android:layout_marginStart="15dp"
                         android:textColor="@color/white"
                         android:textSize="14sp"
                         android:text="Contact Us"
@@ -458,7 +458,7 @@
                 <RelativeLayout
                     android:id="@+id/nav_share"
                     android:layout_marginTop="5dp"
-                    android:layout_marginLeft="15dp"
+                    android:layout_marginStart="15dp"
                     android:layout_width="match_parent"
                     android:layout_height="50dp">
 
@@ -475,7 +475,7 @@
                         android:fontFamily="@font/opensans_regular"
                         android:layout_centerVertical="true"
                         android:layout_toRightOf="@+id/image6"
-                        android:layout_marginLeft="15dp"
+                        android:layout_marginStart="15dp"
                         android:textColor="@color/white"
                         android:textSize="14sp"
                         android:text="Share with Friends"
@@ -486,7 +486,7 @@
                 <RelativeLayout
                     android:id="@+id/nav_logout"
                     android:layout_marginTop="5dp"
-                    android:layout_marginLeft="15dp"
+                    android:layout_marginStart="15dp"
                     android:layout_width="match_parent"
                     android:layout_height="50dp">
 
@@ -502,7 +502,7 @@
                         android:fontFamily="@font/opensans_regular"
                         android:layout_centerVertical="true"
                         android:layout_toRightOf="@+id/image7"
-                        android:layout_marginLeft="15dp"
+                        android:layout_marginStart="15dp"
                         android:textColor="@color/white"
                         android:textSize="14sp"
                         android:text="Logout"
@@ -513,7 +513,7 @@
                 <RelativeLayout
                     android:id="@+id/nav_powerd"
                     android:layout_marginTop="10dp"
-                    android:layout_marginLeft="15dp"
+                    android:layout_marginStart="15dp"
                     android:layout_width="match_parent"
                     android:layout_height="50dp">
 
@@ -529,7 +529,7 @@
                         android:fontFamily="@font/opensans_regular"
                         android:layout_centerVertical="true"
                         android:layout_toRightOf="@+id/image8"
-                        android:layout_marginLeft="15dp"
+                        android:layout_marginStart="15dp"
                         android:textColor="@color/white"
                         android:textSize="14sp"
                         android:text="Powered with toketani"

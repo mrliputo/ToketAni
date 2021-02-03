@@ -32,7 +32,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="4dp"
-                    android:layout_gravity="left"
+                    android:layout_gravity="start"
                     android:text="-25%"
                     android:textColor="@color/white"
                     android:padding="2dp"
@@ -44,24 +44,24 @@
                     android:layout_width="65dp"
                     android:layout_height="65dp"
                     android:layout_gravity="center"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginRight="2dp"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginEnd="2dp"
                     android:scaleType="centerCrop" />
             </LinearLayout>
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_marginLeft="8dp"
-                android:layout_marginRight="3dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginEnd="3dp"
                 android:orientation="vertical">
 
                 <TextView
                     android:id="@+id/txt_pName"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_gravity="left"
+                    android:layout_gravity="start"
                     android:fontFamily="@font/opensans_semibold"
-                    android:gravity="center|left"
+                    android:gravity="center|start"
                     android:maxLines="1"
                     android:text="Product Name"
                     android:textColor="@color/darkGrey"
@@ -71,11 +71,11 @@
                     android:id="@+id/txt_pInfo"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_gravity="left"
+                    android:layout_gravity="start"
                     android:layout_marginTop="2dp"
                     android:maxLines="2"
                     android:fontFamily="@font/opensans_regular"
-                    android:gravity="center|left"
+                    android:gravity="center|start"
                     android:text="Product Description"
                     android:textColor="@color/hintColor"
                     android:textSize="13sp"/>
@@ -83,7 +83,7 @@
                     android:id="@+id/rlQuan"
                     android:layout_width="match_parent"
                     android:layout_height="30dp"
-                    android:layout_gravity="center|left"
+                    android:layout_gravity="center|start"
                     android:gravity="start"
                     android:layout_marginTop="5dp">
 
@@ -91,7 +91,7 @@
                         android:id="@+id/txt_unit"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_gravity="left"
+                        android:layout_gravity="start"
                         android:gravity="start"
                         android:fontFamily="@font/opensans_regular"
                         android:text="1 kg"
@@ -108,7 +108,7 @@
                         android:drawablePadding="5dp"
                         android:drawableLeft="@drawable/ic_timer_black_24dp"
                         android:layout_alignParentRight="true"
-                        android:layout_marginRight="5dp"
+                        android:layout_marginEnd="5dp"
                         android:padding="5dp"
                         android:textStyle="bold"/>
                 </RelativeLayout>
@@ -138,11 +138,11 @@
                                 android:id="@+id/currency_indicator"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
-                                android:layout_marginLeft="10dp"
+                                android:layout_marginStart="10dp"
                                 android:layout_gravity="center"
                                 android:fontFamily="@font/opensans_semibold"
-                                android:gravity="center|left"
-                                android:paddingRight="2dp"
+                                android:gravity="center|start"
+                                android:paddingEnd="2dp"
 
                                 android:textColor="@color/darkGrey"
                                 android:textSize="15sp"/>
@@ -151,9 +151,9 @@
                                 android:id="@+id/txt_Pprice"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
-                                android:layout_gravity="left"
+                                android:layout_gravity="start"
                                 android:fontFamily="@font/opensans_semibold"
-                                android:gravity="center|left"
+                                android:gravity="center|start"
                                 android:text=""
                                 android:textColor="@color/darkGrey"
                                 android:textSize="15sp"/>
@@ -161,11 +161,11 @@
                                 android:id="@+id/currency_indicator_2"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
-                                android:layout_marginLeft="10dp"
+                                android:layout_marginStart="10dp"
                                 android:layout_gravity="center"
                                 android:fontFamily="@font/opensans_regular"
-                                android:gravity="center|left"
-                                android:paddingRight="2dp"
+                                android:gravity="center|start"
+                                android:paddingEnd="2dp"
 
                                 android:textColor="@color/hintColor"
                                 android:textSize="11sp"/>
@@ -175,9 +175,9 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:layout_gravity="center"
-                                android:layout_marginLeft="2dp"
+                                android:layout_marginStart="2dp"
                                 android:fontFamily="@font/opensans_regular"
-                                android:gravity="center|left"
+                                android:gravity="center|start"
                                 android:text=""
                                 android:textColor="@color/hintColor"
                                 android:textSize="11sp"/>
@@ -205,9 +205,9 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="match_parent"
                                 android:layout_gravity="center"
-                                android:paddingLeft="10dp"
-                                android:paddingRight="5dp"
-                                android:layout_marginLeft="10dp"
+                                android:paddingStart="10dp"
+                                android:paddingEnd="5dp"
+                                android:layout_marginStart="10dp"
                                 android:fontFamily="@font/opensans_semibold"
                                 android:gravity="center"
                                 android:text="ADD"
@@ -218,9 +218,9 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="match_parent"
                                 android:layout_gravity="center"
-                                android:paddingLeft="10dp"
-                                android:layout_marginRight="6dp"
-                                android:drawableRight="@drawable/ic_plus"></TextView>
+                                android:paddingStart="10dp"
+                                android:layout_marginEnd="6dp"
+                                android:drawableEnd="@drawable/ic_plus"></TextView>
 
 
                         </LinearLayout>
@@ -239,18 +239,18 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="match_parent"
                                 android:layout_gravity="center"
-                                android:paddingRight="10dp"
+                                android:paddingEnd="10dp"
                                 android:drawableTint="#3c9658"
-                                android:layout_marginLeft="6dp"
-                                android:drawableRight="@drawable/ic_minus"></TextView>
+                                android:layout_marginStart="6dp"
+                                android:drawableEnd="@drawable/ic_minus"></TextView>
                             <!--
                                                     <TextView
                                                         android:layout_width="wrap_content"
                                                         android:layout_height="match_parent"
                                                         android:layout_gravity="center"
-                                                        android:paddingLeft="5dp"
-                                                        android:paddingRight="2dp"
-                                                        android:layout_marginLeft="5dp"
+                                                        android:paddingStart="5dp"
+                                                        android:paddingEnd="2dp"
+                                                        android:layout_marginStart="5dp"
                                                         android:fontFamily="@font/opensans_semibold"
                                                         android:gravity="center"
                                                         android:text="x"
@@ -263,8 +263,8 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="match_parent"
                                 android:layout_gravity="center"
-                                android:paddingRight="5dp"
-                                android:layout_marginRight="5dp"
+                                android:paddingEnd="5dp"
+                                android:layout_marginEnd="5dp"
                                 android:fontFamily="@font/opensans_semibold"
                                 android:gravity="center"
                                 android:text="1"
@@ -277,10 +277,10 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="match_parent"
                                 android:layout_gravity="center"
-                                android:paddingLeft="10dp"
+                                android:paddingStart="10dp"
                                 android:drawableTint="#3c9658"
-                                android:layout_marginRight="6dp"
-                                android:drawableRight="@drawable/ic_plus"></TextView>
+                                android:layout_marginEnd="6dp"
+                                android:drawableEnd="@drawable/ic_plus"></TextView>
                         </LinearLayout>
 
                     </LinearLayout>

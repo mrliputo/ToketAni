@@ -28,6 +28,19 @@
                 android:layout_height="wrap_content"
                 android:background="#f4f4f4"
                 android:orientation="vertical">
+                <TextView
+                    android:id="@+id/BisnisSaya"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="start"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginEnd="10dp"
+                    android:text="Bisnis Saya"
+                    android:textStyle="bold"
+                    android:textColor="@color/black"
+                    android:textSize="16sp"
+                    android:visibility="visible" />
 
                 <androidx.recyclerview.widget.RecyclerView
                     android:layout_marginTop="5dp"
@@ -41,44 +54,6 @@
                     android:layout_width="match_parent"
                     android:orientation="vertical"
                     android:layout_height="wrap_content">
-                    <LinearLayout
-                        android:id="@+id/change_loc_lay"
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:orientation="vertical"
-                        android:visibility="gone">
-
-                        <!--<TextView
-                            android:id="@+id/not_product"
-                            android:layout_width="match_parent"
-                            android:layout_height="100dp"
-                            android:layout_gravity="center"
-                            android:alpha="0.7"
-                            android:gravity="center"
-                            android:shadowColor="@color/colorPrimary"
-                            android:shadowDx="1"
-                            android:shadowDy="1"
-                            android:text="We are not delivering in your area."
-                            android:textColor="@color/colorPrimary"
-                            android:textSize="16sp" />-->
-
-                        <TextView
-                            android:id="@+id/change_loc"
-                            android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
-                            android:layout_gravity="center_horizontal"
-                            android:layout_marginStart="30dp"
-                            android:layout_marginTop="20dp"
-                            android:layout_marginEnd="30dp"
-                            android:layout_marginBottom="10dp"
-                            android:background="#3c9658"
-                            android:gravity="center"
-                            android:padding="10dp"
-                            android:text="Change Location"
-                            android:textColor="@color/white"
-                            android:textSize="18sp"
-                            android:textStyle="bold" />
-                    </LinearLayout>
 
                     <androidx.viewpager2.widget.ViewPager2
                         android:id="@+id/viewpa_2"
@@ -113,14 +88,14 @@
                     android:orientation="vertical">
 
                     <TextView
-                        android:id="@+id/txtPopular"
+                        android:id="@+id/DataPembelian"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:gravity="start"
                         android:layout_marginTop="5dp"
                         android:layout_marginStart="10dp"
                         android:layout_marginEnd="10dp"
-                        android:text="Histori Pembelian"
+                        android:text="Data Pembelian"
                         android:textStyle="bold"
                         android:textColor="@color/black"
                         android:textSize="16sp"

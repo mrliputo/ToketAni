@@ -35,9 +35,9 @@
                             android:layout_width="30dp"
                             android:layout_height="30dp"
                             android:layout_gravity="center"
-                            android:layout_marginLeft="10dp"
+                            android:layout_marginStart="10dp"
                             android:layout_marginTop="2dp"
-                            android:layout_marginRight="10dp"
+                            android:layout_marginEnd="10dp"
                             android:gravity="center">
 
                             <ImageView
@@ -51,10 +51,10 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="match_parent"
-                            android:layout_gravity="left"
-                            android:layout_marginRight="10dp"
+                            android:layout_gravity="start"
+                            android:layout_marginEnd="10dp"
                             android:fontFamily="@font/opensans_semibold"
-                            android:gravity="center|left"
+                            android:gravity="center|start"
                             android:text="Checkout"
                             android:textColor="@color/black"></TextView>
 
@@ -70,7 +70,7 @@
                                 android:layout_height="match_parent"
                                 android:layout_gravity="center|right"
                                 android:layout_marginTop="5dp"
-                                android:layout_marginRight="10dp"
+                                android:layout_marginEnd="10dp"
                                 android:gravity="center|right"
                                 android:src="@drawable/splashicon"
                                 android:text="RESET" />
@@ -84,16 +84,16 @@
                         android:layout_height="wrap_content"
                         android:layout_below="@+id/ll1"
                         android:layout_margin="5dp"
-                        android:gravity="center|left"
+                        android:gravity="center|start"
                         android:orientation="vertical">
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="match_parent"
-                            android:layout_gravity="left"
-                            android:layout_marginLeft="15dp"
+                            android:layout_gravity="start"
+                            android:layout_marginStart="15dp"
                             android:fontFamily="@font/opensans_semibold"
-                            android:gravity="center|left"
+                            android:gravity="center|start"
                             android:text="Payment"
                             android:textColor="@color/darkGrey"
                             android:textSize="25sp"
@@ -107,9 +107,9 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_below="@+id/ll2"
-                        android:layout_marginLeft="15dp"
-                        android:layout_marginRight="15dp"
-                        android:gravity="center|left"
+                        android:layout_marginStart="15dp"
+                        android:layout_marginEnd="15dp"
+                        android:gravity="center|start"
                         android:orientation="vertical"
                         android:padding="5dp">
 
@@ -132,7 +132,7 @@
                                 <!--                                    <TextView-->
                                 <!--                                        android:layout_width="wrap_content"-->
                                 <!--                                        android:layout_height="wrap_content"-->
-                                <!--                                        android:layout_marginLeft="12dp"-->
+                                <!--                                        android:layout_marginStart="12dp"-->
                                 <!--                                        android:text="Order Amount:"-->
                                 <!--                                        android:textColor="#000"-->
                                 <!--                                        android:textSize="15sp" />-->
@@ -142,7 +142,7 @@
                                 <!--                                        android:layout_width="wrap_content"-->
                                 <!--                                        android:layout_height="wrap_content"-->
                                 <!--                                        android:layout_alignParentRight="true"-->
-                                <!--                                        android:layout_marginRight="140dp"-->
+                                <!--                                        android:layout_marginEnd="140dp"-->
                                 <!--                                        android:text=""-->
                                 <!--                                        android:textColor="#000"-->
                                 <!--                                        android:textSize="15sp" />-->
@@ -169,7 +169,7 @@
                                         <TextView
                                             android:layout_width="wrap_content"
                                             android:layout_height="wrap_content"
-                                            android:layout_marginLeft="12dp"
+                                            android:layout_marginStart="12dp"
                                             android:text="Wallet"
                                             android:textColor="#000"
                                             android:textSize="14sp" />
@@ -179,7 +179,7 @@
                                             android:layout_width="wrap_content"
                                             android:layout_height="wrap_content"
                                             android:layout_alignParentRight="true"
-                                            android:layout_marginRight="12dp"
+                                            android:layout_marginEnd="12dp"
                                             android:text=""
                                             android:textColor="#000"
                                             android:textSize="14sp" />
@@ -198,7 +198,7 @@
                                         <TextView
                                             android:layout_width="wrap_content"
                                             android:layout_height="wrap_content"
-                                            android:layout_marginLeft="12dp"
+                                            android:layout_marginStart="12dp"
                                             android:text=""
                                             android:textColor="#000"
                                             android:textSize="14sp" />
@@ -208,7 +208,7 @@
                                             android:layout_width="wrap_content"
                                             android:layout_height="wrap_content"
                                             android:layout_alignParentRight="true"
-                                            android:layout_marginRight="12dp"
+                                            android:layout_marginEnd="12dp"
                                             android:text=""
                                             android:textColor="#000"
                                             android:textSize="14sp" />
@@ -234,7 +234,7 @@
                                     <TextView
                                         android:layout_width="wrap_content"
                                         android:layout_height="wrap_content"
-                                        android:layout_marginLeft="12dp"
+                                        android:layout_marginStart="12dp"
                                         android:text="Wallet:"
                                         android:textColor="#000"
                                         android:textSize="14sp" />
@@ -244,7 +244,7 @@
                                         android:layout_width="wrap_content"
                                         android:layout_height="wrap_content"
                                         android:layout_alignParentRight="true"
-                                        android:layout_marginRight="140dp"
+                                        android:layout_marginEnd="140dp"
                                         android:text=""
                                         android:textColor="#000"
                                         android:textSize="14sp"
@@ -346,8 +346,8 @@
                                             android:id="@+id/use_store_pickup"
                                             android:layout_width="match_parent"
                                             android:layout_height="wrap_content"
-                                            android:layout_marginLeft="4dp"
-                                            android:layout_marginRight="4dp"
+                                            android:layout_marginStart="4dp"
+                                            android:layout_marginEnd="4dp"
                                             android:text="Store"
                                             android:textSize="14sp"
                                             android:visibility="gone" />
@@ -391,8 +391,8 @@
                                         android:id="@+id/use_netbanking"
                                         android:layout_width="match_parent"
                                         android:layout_height="wrap_content"
-                                        android:layout_marginLeft="4dp"
-                                        android:layout_marginRight="4dp"
+                                        android:layout_marginStart="4dp"
+                                        android:layout_marginEnd="4dp"
 
                                         android:fontFamily="@font/opensans_regular"
                                         android:text="Net Banking"
@@ -409,7 +409,7 @@
                                     <TextView
                                         android:layout_width="wrap_content"
                                         android:layout_height="wrap_content"
-                                        android:layout_marginLeft="12dp"
+                                        android:layout_marginStart="12dp"
                                         android:text="Wallet"
                                         android:textColor="@color/green"
                                         android:textSize="13sp"
@@ -420,8 +420,8 @@
                                         android:id="@+id/use_wallet_ammount"
                                         android:layout_width="match_parent"
                                         android:layout_height="wrap_content"
-                                        android:layout_marginLeft="4dp"
-                                        android:layout_marginRight="4dp"
+                                        android:layout_marginStart="4dp"
+                                        android:layout_marginEnd="4dp"
                                         android:text="Paytm"
                                         android:textSize="14sp"
                                         android:visibility="gone" />
@@ -473,9 +473,9 @@
                                                 android:id="@+id/et_coupon_code"
                                                 android:layout_width="match_parent"
                                                 android:layout_height="30dp"
-                                                android:layout_marginLeft="12dp"
+                                                android:layout_marginStart="12dp"
                                                 android:layout_marginTop="4dp"
-                                                android:layout_marginRight="12dp"
+                                                android:layout_marginEnd="12dp"
                                                 android:layout_marginBottom="12dp"
                                                 android:background="@drawable/xml_textbox_bg"
                                                 android:ems="10"
@@ -501,9 +501,9 @@
                                                 android:layout_width="85dp"
                                                 android:layout_height="30dp"
                                                 android:layout_gravity="center_vertical"
-                                                android:layout_marginLeft="12dp"
+                                                android:layout_marginStart="12dp"
                                                 android:layout_marginTop="8dp"
-                                                android:layout_marginRight="12dp"
+                                                android:layout_marginEnd="12dp"
                                                 android:layout_marginBottom="12dp"
                                                 android:background="@drawable/bg_rounded_button"
                                                 android:gravity="center_vertical">

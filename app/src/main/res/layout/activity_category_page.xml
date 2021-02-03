@@ -24,9 +24,9 @@
                 android:layout_width="30dp"
                 android:layout_height="30dp"
                 android:layout_gravity="center"
-                android:layout_marginLeft="10dp"
+                android:layout_marginStart="10dp"
                 android:layout_marginTop="2dp"
-                android:layout_marginRight="10dp"
+                android:layout_marginEnd="10dp"
                 android:gravity="center">
 
                 <ImageView
@@ -39,10 +39,10 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
-                android:layout_gravity="left"
-                android:layout_marginRight="10dp"
+                android:layout_gravity="start"
+                android:layout_marginEnd="10dp"
                 android:fontFamily="@font/opensans_semibold"
-                android:gravity="center|left"
+                android:gravity="center|start"
                 android:text="Products"
                 android:textColor="#3c9658"
                 android:textSize="20sp"></TextView>

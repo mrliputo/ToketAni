@@ -22,8 +22,8 @@
             android:layout_height="wrap_content"
             android:orientation="vertical"
             android:layout_marginTop="10dp"
-            android:layout_marginLeft="15dp"
-            android:layout_marginRight="15dp"
+            android:layout_marginStart="15dp"
+            android:layout_marginEnd="15dp"
             android:gravity="top">
 
             <ImageView
@@ -46,8 +46,8 @@
                     android:layout_height="wrap_content"
                     app:cardCornerRadius="20dp"
                     android:layout_marginTop="3dp"
-                    android:layout_marginLeft="2dp"
-                    android:layout_marginRight="2dp"
+                    android:layout_marginStart="2dp"
+                    android:layout_marginEnd="2dp"
                     android:background="@color/white"
                     app:cardBackgroundColor="@color/white">
                     <LinearLayout
@@ -60,7 +60,7 @@
                             android:layout_height="match_parent"
                             android:gravity="center"
                             android:text="+91"
-                            android:paddingLeft="15dp"
+                            android:paddingStart="15dp"
                             android:textColorHint="@color/hintColor"
                             android:textColor="@color/black"
                             android:textSize="14sp"
@@ -72,7 +72,7 @@
                             android:layout_height="match_parent"
                             android:gravity="center"
                             android:text="9876543210"
-                            android:paddingLeft="5dp"
+                            android:paddingStart="5dp"
                             android:textColorHint="@color/hintColor"
                             android:textColor="@color/black"
                             android:textSize="14sp"
@@ -87,7 +87,7 @@
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
                             android:gravity="center|end"
-                            android:layout_marginRight="15dp"
+                            android:layout_marginEnd="15dp"
                             android:orientation="vertical">
                             <TextView
                                 android:visibility="gone"
@@ -95,7 +95,7 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:text="Edit"
-                                android:paddingRight="5dp"
+                                android:paddingEnd="5dp"
                                 android:textColor="@color/green"
                                 android:textSize="14sp"
                                 android:fontFamily="@font/opensans_semibold"></TextView>

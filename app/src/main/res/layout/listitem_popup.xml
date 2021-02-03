@@ -25,8 +25,8 @@
                 android:layout_width="45dp"
                 android:layout_height="45dp"
                 android:layout_gravity="center"
-                android:layout_marginLeft="2dp"
-                android:layout_marginRight="2dp"
+                android:layout_marginStart="2dp"
+                android:layout_marginEnd="2dp"
                 android:scaleType="centerCrop" />
             <LinearLayout
                 android:layout_width="0dp"
@@ -131,9 +131,9 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="match_parent"
                                 android:layout_gravity="center"
-                                android:paddingLeft="10dp"
-                                android:paddingRight="5dp"
-                                android:layout_marginLeft="10dp"
+                                android:paddingStart="10dp"
+                                android:paddingEnd="5dp"
+                                android:layout_marginStart="10dp"
                                 android:fontFamily="@font/opensans_semibold"
                                 android:gravity="center"
                                 android:text="ADD"
@@ -144,9 +144,9 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="match_parent"
                                 android:layout_gravity="center"
-                                android:paddingLeft="10dp"
-                                android:layout_marginRight="6dp"
-                                android:drawableRight="@drawable/ic_plus"/>
+                                android:paddingStart="10dp"
+                                android:layout_marginEnd="6dp"
+                                android:drawableEnd="@drawable/ic_plus"/>
 
 
                         </LinearLayout>
@@ -166,17 +166,17 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="match_parent"
                                 android:layout_gravity="center"
-                                android:paddingRight="10dp"
+                                android:paddingEnd="10dp"
                                 android:drawableTint="#3c9658"
-                                android:layout_marginLeft="6dp"
-                                android:drawableRight="@drawable/ic_minus"/>
+                                android:layout_marginStart="6dp"
+                                android:drawableEnd="@drawable/ic_minus"/>
                             <TextView
                                 android:layout_width="wrap_content"
                                 android:layout_height="match_parent"
                                 android:layout_gravity="center"
-                                android:paddingLeft="5dp"
-                                android:paddingRight="2dp"
-                                android:layout_marginLeft="5dp"
+                                android:paddingStart="5dp"
+                                android:paddingEnd="2dp"
+                                android:layout_marginStart="5dp"
                                 android:fontFamily="@font/opensans_semibold"
                                 android:gravity="center"
                                 android:text="x"
@@ -188,8 +188,8 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="match_parent"
                                 android:layout_gravity="center"
-                                android:paddingRight="5dp"
-                                android:layout_marginRight="5dp"
+                                android:paddingEnd="5dp"
+                                android:layout_marginEnd="5dp"
                                 android:fontFamily="@font/opensans_semibold"
                                 android:gravity="center"
                                 android:textColorHint="@color/hintColor"
@@ -201,10 +201,10 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="match_parent"
                                 android:layout_gravity="center"
-                                android:paddingLeft="10dp"
+                                android:paddingStart="10dp"
                                 android:drawableTint="#3c9658"
-                                android:layout_marginRight="6dp"
-                                android:drawableRight="@drawable/ic_plus"/>
+                                android:layout_marginEnd="6dp"
+                                android:drawableEnd="@drawable/ic_plus"/>
                         </LinearLayout>
 
                     </LinearLayout>

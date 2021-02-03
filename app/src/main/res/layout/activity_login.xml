@@ -37,7 +37,7 @@
                 android:layout_height="match_parent"
                 android:layout_gravity="center"
                 android:fontFamily="@font/opensans_bold"
-                android:gravity="center|left"
+                android:gravity="center|start"
                 android:text="Sign In"
                 android:textColor="@color/black"
                 android:textSize="20sp" />
@@ -45,9 +45,9 @@
             <androidx.cardview.widget.CardView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginLeft="2dp"
+                android:layout_marginStart="2dp"
                 android:layout_marginTop="15dp"
-                android:layout_marginRight="2dp"
+                android:layout_marginEnd="2dp"
                 android:background="@color/white"
                 app:cardBackgroundColor="@color/white"
                 app:cardCornerRadius="20dp">
@@ -97,7 +97,7 @@
                         android:layout_width="17dp"
                         android:layout_height="17dp"
                         android:layout_gravity="center"
-                        android:layout_marginLeft="15dp"
+                        android:layout_marginStart="15dp"
                         android:background="@drawable/ic_user"
                         android:backgroundTint="#3c9658" />
 
@@ -105,34 +105,41 @@
                     <!--                        android:layout_width="17dp"-->
                     <!--                        android:layout_height="17dp"-->
                     <!--                        android:layout_gravity="center"-->
-                    <!--                        android:layout_marginLeft="15dp"-->
+                    <!--                        android:layout_marginStart="15dp"-->
                     <!--                        android:background="@drawable/ic_user"-->
                     <!--                        android:backgroundTint="#3c9658" />-->
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginStart="10dp"
+                        android:gravity="center|start"
+                        android:text="+62" />
 
                     <EditText
                         android:id="@+id/etMob"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_gravity="center"
-                        android:layout_marginLeft="10dp"
-                        android:layout_marginRight="10dp"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginEnd="10dp"
                         android:background="@android:color/transparent"
                         android:digits="1234567890"
                         android:fontFamily="@font/opensans_semibold"
-                        android:gravity="center|left"
-                        android:hint="Enter User ID"
+                        android:gravity="center|start"
+                        android:hint="Masukkan Nomor Telepon"
                         android:inputType="phone"
-                        android:maxLength="15"
+                        android:maxLength="20"
                         android:maxLines="1"
-                        android:paddingLeft="20dp"
+                        android:paddingStart="20dp"
                         android:textColor="@color/black"
                         android:textColorHint="@color/hintColor"
                         android:textSize="15sp" />
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="match_parent"
-                        android:gravity="center|left"
-                        android:paddingLeft="20dp"
+                        android:gravity="center|start"
+                        android:paddingStart="20dp"
                         android:text="+62" />
 
                 </LinearLayout>
@@ -141,9 +148,9 @@
             <androidx.cardview.widget.CardView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginLeft="2dp"
+                android:layout_marginStart="2dp"
                 android:layout_marginTop="20dp"
-                android:layout_marginRight="2dp"
+                android:layout_marginEnd="2dp"
                 android:background="@color/white"
                 app:cardBackgroundColor="@color/white"
                 app:cardCornerRadius="20dp">
@@ -157,7 +164,7 @@
                         android:layout_width="17dp"
                         android:layout_height="17dp"
                         android:layout_gravity="center"
-                        android:layout_marginLeft="15dp"
+                        android:layout_marginStart="15dp"
                         android:background="@drawable/ic_key"
                         android:backgroundTint="#3c9658" />
 
@@ -166,14 +173,14 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_gravity="center"
-                        android:layout_marginLeft="10dp"
-                        android:layout_marginRight="10dp"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginEnd="10dp"
                         android:background="@android:color/transparent"
                         android:fontFamily="@font/opensans_semibold"
-                        android:gravity="center|left"
-                        android:hint="Enter Password"
+                        android:gravity="center|start"
+                        android:hint="Masukkan Password"
                         android:maxLines="1"
-                        android:paddingLeft="5dp"
+                        android:paddingStart="5dp"
                         android:password="true"
                         android:textColor="@color/black"
                         android:textColorHint="@color/hintColor"
@@ -186,9 +193,9 @@
             <androidx.cardview.widget.CardView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginLeft="2dp"
+                android:layout_marginStart="2dp"
                 android:layout_marginTop="20dp"
-                android:layout_marginRight="2dp"
+                android:layout_marginEnd="2dp"
                 android:background="@color/white"
                 app:cardBackgroundColor="@color/white"
                 app:cardCornerRadius="20dp">
@@ -212,9 +219,9 @@
                 android:layout_width="match_parent"
                 android:layout_height="30dp"
                 android:layout_gravity="center"
-                android:layout_marginLeft="10dp"
+                android:layout_marginStart="10dp"
                 android:layout_marginTop="10dp"
-                android:layout_marginRight="10dp"
+                android:layout_marginEnd="10dp"
                 android:fontFamily="@font/opensans_regular"
                 android:gravity="center"
                 android:text="Forgot Password?"
@@ -226,9 +233,9 @@
                 android:layout_width="match_parent"
                 android:layout_height="30dp"
                 android:layout_gravity="center"
-                android:layout_marginLeft="10dp"
+                android:layout_marginStart="10dp"
                 android:layout_marginTop="5dp"
-                android:layout_marginRight="10dp"
+                android:layout_marginEnd="10dp"
                 android:fontFamily="@font/opensans_regular"
                 android:gravity="center"
                 android:text="New User? Please SignUp"
@@ -239,12 +246,12 @@
                 android:layout_width="match_parent"
                 android:layout_height="30dp"
                 android:layout_gravity="center"
-                android:layout_marginLeft="10dp"
+                android:layout_marginStart="10dp"
                 android:layout_marginTop="10dp"
-                android:layout_marginRight="10dp"
+                android:layout_marginEnd="10dp"
                 android:fontFamily="@font/opensans_semibold"
-                android:gravity="center|left"
-                android:paddingLeft="5dp"
+                android:gravity="center|start"
+                android:paddingStart="5dp"
                 android:text="OR LOGIN WITH"
                 android:textColor="@color/black"
                 android:textSize="14sp"
@@ -254,9 +261,9 @@
                 android:layout_width="match_parent"
                 android:layout_height="45dp"
                 android:layout_gravity="center"
-                android:layout_marginLeft="15dp"
+                android:layout_marginStart="15dp"
                 android:layout_marginTop="15dp"
-                android:layout_marginRight="15dp"
+                android:layout_marginEnd="15dp"
                 android:gravity="center"
                 android:orientation="horizontal"
                 android:visibility="gone"
@@ -265,7 +272,7 @@
                 <androidx.cardview.widget.CardView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_marginRight="8dp"
+                    android:layout_marginEnd="8dp"
                     android:background="@color/white"
                     app:cardBackgroundColor="@color/white"
                     app:cardCornerRadius="20dp">
@@ -281,15 +288,15 @@
                             android:layout_width="15dp"
                             android:layout_height="15dp"
                             android:layout_gravity="center"
-                            android:layout_marginLeft="10dp"
+                            android:layout_marginStart="10dp"
                             android:layout_marginTop="1dp"
                             android:background="@drawable/ic_facebook" />
 
                         <LinearLayout
                             android:layout_width="wrap_content"
                             android:layout_height="40dp"
-                            android:layout_marginLeft="5dp"
-                            android:layout_marginRight="10dp"
+                            android:layout_marginStart="5dp"
+                            android:layout_marginEnd="10dp"
                             android:gravity="center"
                             android:orientation="vertical">
 
@@ -299,8 +306,8 @@
                                 android:layout_height="wrap_content"
                                 android:fontFamily="@font/opensans_semibold"
                                 android:gravity="center"
-                                android:paddingLeft="3dp"
-                                android:paddingRight="5dp"
+                                android:paddingStart="3dp"
+                                android:paddingEnd="5dp"
                                 android:text="Facebook"
                                 android:textColor="@color/hintColor"
                                 android:textSize="15sp" />
@@ -313,7 +320,7 @@
                 <androidx.cardview.widget.CardView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_marginLeft="8dp"
+                    android:layout_marginStart="8dp"
                     android:background="@color/white"
                     app:cardBackgroundColor="@color/white"
                     app:cardCornerRadius="20dp">
@@ -329,15 +336,15 @@
                             android:layout_width="15dp"
                             android:layout_height="15dp"
                             android:layout_gravity="center"
-                            android:layout_marginLeft="10dp"
+                            android:layout_marginStart="10dp"
                             android:layout_marginTop="1dp"
                             android:background="@drawable/ic_google" />
 
                         <LinearLayout
                             android:layout_width="wrap_content"
                             android:layout_height="40dp"
-                            android:layout_marginLeft="5dp"
-                            android:layout_marginRight="10dp"
+                            android:layout_marginStart="5dp"
+                            android:layout_marginEnd="10dp"
                             android:gravity="center"
                             android:orientation="vertical">
 
@@ -347,8 +354,8 @@
                                 android:layout_height="wrap_content"
                                 android:fontFamily="@font/opensans_semibold"
                                 android:gravity="center"
-                                android:paddingLeft="3dp"
-                                android:paddingRight="5dp"
+                                android:paddingStart="3dp"
+                                android:paddingEnd="5dp"
                                 android:text="Google"
                                 android:textColor="@color/hintColor"
                                 android:textSize="15sp" />
